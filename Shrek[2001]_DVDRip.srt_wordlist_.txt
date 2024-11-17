@@ -1,0 +1,4118 @@
+Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"love's first kiss": "B2"},
+        {"true love's first kiss": "B2"}
+    ],
+    "VERBS": [
+        {"break by": "B2"},
+        {"look away": "A2"},
+        {"wait in": "A2"},
+        {"keep in": "A2"},
+        {"prevail over": "B2"}
+    ],
+    "WORDS": [
+        {"princess": "A2"},
+        {"enhancement": "B2"},
+        {"fearful": "B2"},
+        {"terrible": "A2"},
+        {"kiss": "A2"},
+        {"locked": "A2"},
+        {"away": "A1"},
+        {"castle": "A2"},
+        {"guarded": "B2"},
+        {"terrifying": "B2"},
+        {"brave": "A2"},
+        {"knight": "A2"},
+        {"attempted": "B2"},
+        {"free": "A1"},
+        {"from": "A1"},
+        {"dragon": "A2"},
+        {"dreadful": "B2"},
+        {"person": "A1"},
+        {"failed": "B2"},
+        {"waited": "A2"},
+        {"dragon's": "B2"},
+        {"highest": "A2"},
+        {"room": "A1"},
+        {"tower": "A2"},
+        {"true": "A2"},
+        {"love": "A1"},
+        {"first": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"love's first kiss": "B2"},
+        {"true love's first kiss": "B2"},
+        {"broke by": "B2"},
+        {"locked away": "A2"},
+        {"waited in": "A2"},
+        {"kept in": "A2"},
+        {"highest room": "A2"},
+        {"tallest tower": "A2"},
+        {"true love": "A2"},
+        {"first kiss": "A2"},
+        {"going to happen": "A2"}
+    ]
+}
+```To analyze the provided data, I will extract idioms, phrasal verbs, semantically significant words, and collocations, and classify them according to the CEFR levels provided in the wordlist. Here is the dictionary with the requested structure:
+
+```python
+{
+    "IDIOMS": [
+        {"hold on": "A2"},
+        {"run away": "A2"}
+    ],
+    "VERBS": [
+        {"get it": "A1"},
+        {"make a soup": "A2"},
+        {"cheer you": "A2"},
+        {"squeeze the jelly": "A2"},
+        {"warn you": "A1"}
+    ],
+    "WORDS": [
+        {"lonely": "B1"},
+        {"shrek": "B2"},
+        {"behave": "A2"},
+        {"stay": "A1"},
+        {"think": "A1"},
+        {"right": "A1"},
+        {"let's get it": "A1"},
+        {"hold on": "A2"},
+        {"do you know": "A1"},
+        {"thing": "A1"},
+        {"do to you": "A1"},
+        {"bones": "A2"},
+        {"brains": "A2"},
+        {"actually": "A2"},
+        {"thing": "A1"},
+        {"giant": "B1"},
+        {"worse": "A2"},
+        {"make a soup": "A2"},
+        {"freshly": "B2"},
+        {"peeled": "A2"},
+        {"skin": "A2"},
+        {"livers": "A2"},
+        {"squeeze": "A2"},
+        {"jelly": "A2"},
+        {"eyes": "A1"},
+        {"quite": "A1"},
+        {"good": "A1"},
+        {"toast": "A2"},
+        {"back": "A1"},
+        {"warned": "A2"},
+        {"run away": "A2"},
+        {"d": "A1"},
+        {"o": "A1"},
+        {"u": "A1"},
+        {"a": "A1"},
+        {"l": "A1"},
+        {"r": "A1"},
+        {"i": "A1"},
+        {"g": "A1"},
+        {"h": "A1"},
+        {"t": "A1"},
+        {"s": "A1"},
+        {"y": "A1"},
+        {"w": "A1"},
+        {"n": "A1},
+        {"b": "A1"},
+        {"e": "A1"},
+        {"p": "A1"},
+        {"c": "A1"},
+        {"m": "A1"},
+        {"v": "A1"},
+        {"x": "B2"},
+        {"z": "B2"},
+        {"q": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"love": "A1", "lonely": "B1"},
+        {"hold on": "A2", "warn": "A1"},
+        {"make a soup": "A2", "freshly peeled skin": "B2"},
+        {"cheer you": "A2", "livers": "A2"},
+        {"squeeze the jelly": "A2", "from your eyes": "A2"},
+        {"good on": "A1", "toast": "A2"},
+        {"warned you": "A2", "run away": "A2"}
+    ]
+}
+```Here’s the dictionary with the required structure based on the provided data:
+
+```python
+{
+    "IDIOMS": [
+        {"take it away": "A2"},
+        {"turn me in": "B1"},
+        {"be stubborn again": "B2"}
+    ],
+    "VERBS": [
+        {"take away": "A1"},
+        {"give me that": "A1"},
+        {"sit down": "A1"},
+        {"turn me in": "B1"},
+        {"give me another chance": "B2"}
+    ],
+    "WORDS": [
+        {"fairy": "A1"},
+        {"creature": "A2"},
+        {"silver": "A1"},
+        {"witch": "B1"},
+        {"quiet": "A1"},
+        {"cage": "A2"},
+        {"change": "A1"},
+        {"puppet": "B1"},
+        {"toy": "A1"},
+        {"shilling": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"25 pieces of silver": "A2"},
+        {"silver for the witch": "B1"},
+        {"sit down there": "A1"},
+        {"be quiet": "A1"},
+        {"small cage": "A1"},
+        {"real boy": "A2"},
+        {"five shillings": "B1"},
+        {"possessed toy": "B1"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"a talking donkey": "B2"}
+  ],
+  "VERBS": [
+    {"go ahead": "A2"},
+    {"prove it": "A2"},
+    {"head donkey": "B1"},
+    {"talk to": "A1"},
+    {"get out of": "A2"}
+  ],
+  "WORDS": [
+    {"next": "A1"},
+    {"what": "A1"},
+    {"do": "A1"},
+    {"got": "A1"},
+    {"well": "A1"},
+    {"I've": "A1"},
+    {"talking": "A1"},
+    {"donkey": "A2"},
+    {"right": "A1"},
+    {"shillings": "B1"},
+    {"if": "A1"},
+    {"can": "A1"},
+    {"prove": "A2"},
+    {"it": "A1"},
+    {"oh": "A1"},
+    {"head": "A1"},
+    {"fella": "B1"},
+    {"just": "A1"},
+    {"little": "A1"},
+    {"nervous": "A2"},
+    {"really": "A1"},
+    {"quite": "A1"},
+    {"chatterbox": "B2"},
+    {"guards": "A2"},
+    {"no": "A1"},
+    {"he": "A1"},
+    {"talks": "A1"},
+    {"does": "A1"},
+    {"love": "A1"},
+    {"talked": "A1"},
+    {"sight": "A2"},
+    {"swear": "B1"},
+    {"hey": "A1"},
+    {"fly": "A1"},
+    {"can": "A1"},
+    {"fool": "B1"},
+    {"now": "A1"},
+    {"flying": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"talking donkey": "B2"},
+    {"prove it": "A2"},
+    {"get out of": "A2"},
+    {"flying donkey": "B2"},
+    {"head donkey": "B1"}
+  ]
+}
+```Here is the linguistic analysis based on the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"a really something": "B1"}
+    ],
+    "VERBS": [
+        {"seize him": "B2"},
+        {"get him": "A1"},
+        {"place you both under arrest": "B2"},
+        {"transport you to designated resettle facility": "B2"},
+        {"can I just say something": "A1"},
+        {"were really really something": "B1"}
+    ],
+    "WORDS": [
+        {"donkey": "A1"},
+        {"fly": "A1"},
+        {"superfly": "B2"},
+        {"bet": "A2"},
+        {"hurry": "A1"},
+        {"there": "A1"},
+        {"ogre": "B2"},
+        {"order": "A2"},
+        {"Lord Farquaad": "B2"},
+        {"authorized": "B2"},
+        {"place": "A1"},
+        {"arrest": "A2"},
+        {"transport": "A2"},
+        {"designated": "B2"},
+        {"resettle": "B2"},
+        {"facility": "B2"},
+        {"really": "A1"},
+        {"army": "A2"},
+        {"something": "A1"},
+        {"incredible": "A2"},
+        {"talking": "A1"},
+        {"me": "A1"},
+        {"yes": "A1"},
+        {"was": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"seize him": "B2"},
+        {"get him": "A1"},
+        {"place you both under arrest": "B2"},
+        {"transport you to designated resettle facility": "B2"},
+        {"can I just say something": "A1"},
+        {"were really really something": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"show up": "A2"}
+    ],
+    "VERBS": [
+        {"show up": "A2"}
+    ],
+    "WORDS": [
+        {"really": "A1"},
+        {"great": "A1"},
+        {"back": "A1"},
+        {"there": "A1"},
+        {"thought": "A2"},
+        {"over": "A1"},
+        {"bam": "B1"},
+        {"tripping": "B1"},
+        {"babes": "B1"},
+        {"woods": "A1"},
+        {"feel": "A1"},
+        {"good": "A1"},
+        {"great": "A1"},
+        {"really": "A1"},
+        {"man": "A1"},
+        {"free": "A1"},
+        {"now": "A1"},
+        {"celebrate": "A2"},
+        {"freedom": "B2"},
+        {"friends": "A1"},
+        {"wait": "A1"},
+        {"minute": "A1"},
+        {"idea": "A1"},
+        {"stick": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"show up": "A2"},
+        {"tripping over": "B1"},
+        {"feel good": "A1"},
+        {"really great": "A1"},
+        {"go out": "A1"},
+        {"by myself": "A2"},
+        {"stick around": "B1"}
+    ]
+}
+``````
+IDIOMS
+: [{ 'saying': 'A1' }]
+VERBS
+: [{ 'get together': 'A2' }, { 'cross us': 'B2' }, { 'do the job': 'A1' }]
+WORDS
+: [{ 'fighting': 'A2' }, { 'machine': 'A1' }, { 'scar': 'A2' }, { 'breathe': 'A1' }, { 'rotten': 'B2' }, { 'leaking': 'B2' }]
+COLLOCATIONS
+: [{ 'green fighting': 'A2' }, { 'scar the': 'B2' }, { 'rotten berries': 'B2' }, { 'strong gases': 'B2' }]
+```Sure, here is the linguistic analysis based on the provided CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"there is no one here": "A2"},
+        {"have all gone": "A2"},
+        {"get to have free": "B1"},
+        {"only a true friend would be truly honest": "B1"},
+        {"grab your torch and pitchforks": "B2"}
+    ],
+    "VERBS": [
+        {"get to have": "B1"},
+        {"take a look at": "A2"},
+        {"grab your": "B1"}
+    ],
+    "WORDS": [
+        {"alone": "A2"},
+        {"problem": "A1"},
+        {"drive": "A1"},
+        {"friend": "A1"},
+        {"true": "A1"},
+        {"honest": "A2"},
+        {"little": "A1"},
+        {"tall": "A1"},
+        {"Ogre": "B1"},
+        {"torch": "A2"},
+        {"pitchfork": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"all alone": "A2"},
+        {"no one": "A1"},
+        {"true friend": "A1"},
+        {"grab your torch": "B1"},
+        {"pitchforks and": "B1"}
+    ]
+}
+```The provided data is a list of individual characters from a dialogue. I will reconstruct the dialogue and perform the requested analysis.
+
+Reconstructed dialogue:
+```
+Shrek?
+But do you know, what I
+like about you, Shrek?
+You've got that kind of:
+"I don't care what nobody
+thinks of me" thing. I like that, I respect that,
+Shrek. You're all right.
+Uh, look at that.
+Who would wanna
+live in a place
+like that? That would
+be my home. Oh, it is
+lovely. Just beautiful l.
+You know you're quite a
+decorator. It's amazing what you did
+with such a modest budget. I
+like that boulder. That is a
+nice boulder. I guess,
+you don't entertain much, do you?
+I like my privacy.
+You know you're kind
+of cute. You
+know, somehow a
+modest budget.
+I like that boulder.
+That is a nice boulder.
+```
+
+### Analysis
+
+```python
+{
+    "IDIOMS": [
+        {"I don't care what nobody thinks of me": "B2"}
+    ],
+    "VERBS": [
+        {"don't care": "A2"},
+        {"look at": "A2"},
+        {"live in": "A2"},
+        {"be": "A1"},
+        {"entertain": "B1"},
+        {"guess": "A2"}
+    ],
+    "WORDS": [
+        {"Shrek": "B1"},
+        {"decorator": "B1"},
+        {"amazing": "A1"},
+        {"modest": "B1"},
+        {"privacy": "B1"},
+        {"cute": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"like about": "A2"},
+        {"live in a place": "A2"},
+        {"look at that": "A2"},
+        {"be my home": "A2"},
+        {"be all right": "A2"},
+        {"be lovely": "A2"},
+        {"be beautiful": "A2"},
+        {"like my privacy": "A2"},
+        {"be a nice boulder": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"another thing": "A2"},
+        {"in common": "A2"},
+        {"be concerned like": "B2"}
+    ],
+    "VERBS": [
+        {"go in": "A2"},
+        {"give in": "A2"},
+        {"stay with": "A2"},
+        {"go back": "A2"}
+    ],
+    "WORDS": [
+        {"thing": "A1"},
+        {"common": "A1"},
+        {"hate": "A1"},
+        {"body": "A1"},
+        {"face": "A1"},
+        {"give": "A1"},
+        {"them": "A1"},
+        {"silence": "A2"},
+        {"concerned": "B2"},
+        {"freak": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"have in common": "A2"},
+        {"go in": "A2"},
+        {"stay with": "A2"},
+        {"go back": "A2"},
+        {"be concerned like": "B2"}
+    ]
+}
+```Certainly! Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"only": "A1"},
+        {"guess that's cool": "B1"},
+        {"don't know you and you don't know me": "B1"},
+        {"alone outside": "A1"},
+        {"alone, there's no one here besides me": "B1"}
+    ],
+    "VERBS": [
+        {"swap the many stories": "B1"},
+        {"stay up late": "A2"},
+        {"go to": "A1"},
+        {"go outside": "A1"},
+        {"guess that's": "B1"}
+    ],
+    "WORDS": [
+        {"only": "A1"},
+        {"night": "A1"},
+        {"thank": "A1"},
+        {"fun": "A1"},
+        {"late": "A1"},
+        {"stories": "A1"},
+        {"morning": "A1"},
+        {"making": "A2"},
+        {"waffles": "A2"},
+        {"where": "A1"},
+        {"sleep": "A1"},
+        {"outside": "A1"},
+        {"cool": "A1"},
+        {"don't": "A1"},
+        {"guess": "A1"},
+        {"out": "A1"},
+        {"best": "A1"},
+        {"for": "A1"},
+        {"here": "A1"},
+        {"go": "A1"},
+        {"half": "A1"},
+        {"door": "A1"},
+        {"donkey": "B1"},
+        {"myself": "A2"},
+        {"besides": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"only night": "A1"},
+        {"thank you": "A1"},
+        {"what are you": "A1"},
+        {"going to be": "A2"},
+        {"stay up late": "A2"},
+        {"swap the many": "B1"},
+        {"in the morning": "A1"},
+        {"making waffles": "B1"},
+        {"where do I": "A1"},
+        {"outside, oh": "guess that's": "B1"},
+        {"don't know you": "B1"},
+        {"guess out": "A1"},
+        {"outside is best": "A1"},
+        {"alone outside": "A1"},
+        {"donkey alone": "B1"},
+        {"sit by myself": "B1"},
+        {"alone, there's no": "B1"},
+        {"one here besides": "B1"}
+    ]
+}
+```Here's the linguistic analysis of the provided subtitles:
+
+```python
+{
+  "IDIOMS": [
+    {"death prods": "B2"}
+  ],
+  "VERBS": [
+    {"stay outside": "A1"},
+    {"go out": "A1"},
+    {"find some cheese": "A2"},
+    {"put up signs": "B1"},
+    {"get a little privacy": "A2"}
+  ],
+  "WORDS": [
+    {"outside": "A1"},
+    {"well": "A1"},
+    {"choice": "A2"},
+    {"lovely": "A1"},
+    {"bed": "A1"},
+    {"found": "A2"},
+    {"cheese": "A1"},
+    {"stuffs": "A2"},
+    {"Gordon": "A1"},
+    {"know": "A1"},
+    {"enough": "A1"},
+    {"doing": "A1"},
+    {"house": "A1"},
+    {"death": "A2"},
+    {"prods": "B2"},
+    {"table": "A1"},
+    {"living": "A1"},
+    {"swamp": "B1"},
+    {"put": "A1"},
+    {"signs": "A1"},
+    {"terrifying": "B2"},
+    {"Ogre": "B2"},
+    {"have to": "A1"},
+    {"get": "A1"},
+    {"privacy": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"stay outside": "A1"},
+    {"go out": "A1"},
+    {"find some cheese": "A2"},
+    {"put up signs": "B1"},
+    {"get a little privacy": "A2"},
+    {"live in a swamp": "B1"},
+    {"terrifying Ogre": "B2"}
+  ]
+}
+```Here is the linguistic analysis of the provided subtitles based on the CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"hurry up": "A2"}
+    ],
+    "VERBS": [
+        {"get out of": "B1"},
+        {"look at": "A1"},
+        {"come on": "A2"},
+        {"go on": "A2"},
+        {"hurry up": "A2"},
+        {"invite them": "A2"},
+        {"forced to come": "B2"},
+        {"knock": "A2"},
+        {"pick me": "A2"}
+    ],
+    "WORDS": [
+        {"swamp": "B2"},
+        {"right": "A1"},
+        {"get": "A1"},
+        {"out": "A1"},
+        {"here": "A1"},
+        {"all": "A1"},
+        {"move": "A1"},
+        {"it": "A1"},
+        {"come": "A1"},
+        {"on": "A1"},
+        {"let's go": "A1"},
+        {"and": "A1"},
+        {"hurry": "A1"},
+        {"up": "A1"},
+        {"no": "A1"},
+        {"not": "A1"},
+        {"there": "A1"},
+        {"hey": "A1"},
+        {"don't": "A1"},
+        {"look": "A1"},
+        {"at": "A1"},
+        {"me": "A1"},
+        {"did": "A1"},
+        {"invite": "A2"},
+        {"them": "A1"},
+        {"oh": "A1"},
+        {"gosh": "B1"},
+        {"none": "A2"},
+        {"invited": "B1"},
+        {"us": "A1"},
+        {"what": "A1"},
+        {"we": "A1"},
+        {"were": "A1"},
+        {"forced": "B2"},
+        {"to": "A1"},
+        {"come": "A1"},
+        {"by": "A1"},
+        {"who": "A1"},
+        {"lord": "B2"},
+        {"farquaad": "B2"},
+        {"he": "A1"},
+        {"knows": "A2"},
+        {"where": "A1"},
+        {"is": "A1"},
+        {"do": "A1"},
+        {"anyone": "A1"},
+        {"else": "A1"},
+        {"find": "A1"},
+        {"him": "A1"},
+        {"anyone": "A1"},
+        {"at": "A1"},
+        {"all": "A1"},
+        {"me": "A1"},
+        {"pick": "A2"},
+        {"i": "A1"},
+        {"know": "A1"},
+        {"fine": "A1"},
+        {"attention": "A2"},
+        {"fairly": "B1"},
+        {"tall": "A1"},
+        {"things": "A1"},
+        {"do": "A1"},
+        {"not": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"swamp": "B2"},
+        {"get out of here": "B1"},
+        {"move it": "A2"},
+        {"come on": "A2"},
+        {"let's go": "A1"},
+        {"hurry up": "A2"},
+        {"don't look at me": "A2"},
+        {"did not invite them": "B2"},
+        {"forced to come here": "B2"},
+        {"lord farquaad": "B2"},
+        {"know where he is": "A2"},
+        {"anyone else know where to find him": "B2"},
+        {"pick me": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get comfortable": "A2"},
+        {"warn up": "B1"}
+    ],
+    "VERBS": [
+        {"see this guy": "A2"},
+        {"get off": "A2"},
+        {"come with": "A2"},
+        {"hear": "A1"},
+        {"shrek and donkey": "A1"},
+        {"off on": "B1"}
+    ],
+    "WORDS": [
+        {"comfortable": "A2"},
+        {"officially": "B1"},
+        {"warned": "B1"},
+        {"fact": "A1"},
+        {"seeing": "A2"},
+        {"guy": "A1"},
+        {"farquadd": "A2"},
+        {"land": "A1"},
+        {"coming": "A1"},
+        {"adventure": "A2"},
+        {"road": "A1"},
+        {"singing": "A2"},
+        {"wishing": "A2"},
+        {"hummer": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"get comfortable": "A2"},
+        {"warned up": "B1"},
+        {"see this guy": "A2"},
+        {"get off my land": "A2"},
+        {"come with me": "A1"},
+        {"hear, man": "A2"},
+        {"shrek and donkey": "A1"},
+        {"stubborn friends": "A2"},
+        {"world and big city adventure": "B1"},
+        {"on road": "A1"},
+        {"singing, wishing": "A2"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"run, run, run as fast as you can": "A2"},
+    {"I'm the gingerbread man.": "A2"},
+    {"You are a monster.": "A2"},
+    {"I am not a monster here.": "A2"},
+    {"Eat me.": "A2"},
+    {"I've tried to be fair to you, creatures.": "A2"},
+    {"No, not the buttons.": "A2"},
+    {"All right, who's hiding them?": "A2"},
+    {"Ok, I'll tell you.": "A2"},
+    {"Do you know the muffin-man?": "A2"}
+  ],
+  "VERBS": [
+    {"run, run, run as fast as you can": "A2"},
+    {"can't catch me": "A2"},
+    {"I'm the gingerbread man": "A2"},
+    {"You monster": "A2"},
+    {"I am not a monster here": "A2"},
+    {"Eat me": "A2"},
+    {"I've tried to be fair to you": "A2"},
+    {"No, not the buttons": "A2"},
+    {"All right, who's hiding them": "A2"},
+    {"Ok, I'll tell you": "A2"},
+    {"Do you know the muffin-man": "A2"}
+  ],
+  "WORDS": [
+    {"run": "A1"},
+    {"fast": "A2"},
+    {"catch": "A2"},
+    {"gingerbread": "B1"},
+    {"monster": "A2"},
+    {"fair": "A2"},
+    {"creature": "A2"},
+    {"hide": "A2"},
+    {"muffin": "B1"},
+    {"man": "A1"}
+  ],
+  "COLLOCATIONS": [
+    {"run as fast as you can": "A2"},
+    {"catch me": "A2"},
+    {"gingerbread man": "A2"},
+    {"monster here": "A2"},
+    {"eat me": "A2"},
+    {"try to be fair": "A2"},
+    {"hide them": "A2"},
+    {"tell you": "A2"},
+    {"muffin-man": "A2"}
+  ]
+}
+```To perform the requested linguistic analysis, I will first reconstruct the text from the provided data, and then carry out the analysis based on the CEFR wordlist. Here is the reconstructed text:
+
+```
+f, fin-man.
+- Yes, I know the muffin-man.
+Who lives on Proully lane?
+Well, she's married to the muffin-man.
+- The muffin-man.
+The muffin-man.
+- She's married to the muffin-man.
+My lord. We found it.
+Well then, what are you waiting for?
+Bring it in.
+Magic mirror.
+Don't tell him anything.
+Evening.
+Mirror, mirror on the wall.
+Is this not the most
+perfect kingdom of them all?
+Well, technically, you're not a king.
+A..., felonious.
+You were saying.
+- What I mean is a..., you're not a king, yet.
+But you
+```
+
+Now, I will perform the analysis:
+
+```python
+{
+    "IDIOMS": [
+        {"muffin-man": "A1"},
+        {"Don't tell him anything": "A2"}
+    ],
+    "VERBS": [
+        {"bring in": "A2"},
+        {"live on": "A2"},
+        {"find it": "A1"},
+        {"wait for": "A1"},
+        {"tell him": "A1"}
+    ],
+    "WORDS": [
+        {"fin-man": "A1"},
+        {"muffin-man": "A1"},
+        {"Proully": "A1"},
+        {"lane": "A1"},
+        {"lord": "A2"},
+        {"king": "A2"},
+        {"magic": "A2"},
+        {"mirror": "A1"},
+        {"evening": "A1"},
+        {"technically": "B1"},
+        {"felonious": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"muffin-man": "A1"},
+        {"Proully lane": "A1"},
+        {"married to": "A2"},
+        {"bring it in": "A2"},
+        {"don't tell him": "A1"},
+        {"magic mirror": "A2"},
+        {"evening": "A1"},
+        {"mirror on the wall": "A2"},
+        {"not a king": "A2"},
+        {"technically, you're not": "B1"},
+        {"felonious": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"become one": "A2"},
+        {"sit back": "A1"}
+    ],
+    "VERBS": [
+        {"go on": "A1"},
+        {"sit back": "A1"},
+        {"relax": "A1"},
+        {"meet": "A1"},
+        {"shading from": "B2"},
+        {"include": "A1"},
+        {"wear": "A1"}
+    ],
+    "WORDS": [
+        {"can": "A1"},
+        {"become": "A2"},
+        {"one": "A1"},
+        {"all": "A1"},
+        {"have": "A1"},
+        {"do": "A1"},
+        {"marry": "A2"},
+        {"princess": "B1"},
+        {"go": "A1"},
+        {"on": "A1"},
+        {"so": "A1"},
+        {"just": "A1"},
+        {"sit": "A1"},
+        {"back": "A1"},
+        {"relax": "A1"},
+        {"lord": "B2"},
+        {"because": "A1"},
+        {"it's": "A1"},
+        {"time": "A1"},
+        {"for": "A1"},
+        {"you": "A1"},
+        {"meet": "A1"},
+        {"today": "A1"},
+        {"eligible": "B2"},
+        {"bachelorettes": "B2"},
+        {"here": "A1"},
+        {"they": "A1"},
+        {"are": "A1"},
+        {"bachelorette": "B2"},
+        {"number": "A1"},
+        {"one": "A1"},
+        {"mentally": "B2"},
+        {"abused": "B2"},
+        {"shading": "B2"},
+        {"kingdom": "B1"},
+        {"far": "A1"},
+        {"away": "A1"},
+        {"likes": "A1"},
+        {"sushi": "B2"},
+        {"hot": "A1"},
+        {"tubbing": "B2"},
+        {"anytime": "B2"},
+        {"hobbies": "B2"},
+        {"include": "A1"},
+        {"cooking": "A1"},
+        {"cleaning": "A2"},
+        {"evil": "B2"},
+        {"sisters": "A1"},
+        {"please": "A1"},
+        {"welcome": "A1"},
+        {"Cinderella": "B2"},
+        {"number": "A1"},
+        {"two": "A1"},
+        {"kemp": "B2"},
+        {"wearing": "A2"},
+        {"girl": "A1"},
+        {"land": "A1"},
+        {"fantasy": "B2"},
+        {"lives": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"become one": "A2"},
+        {"sit back": "A1"},
+        {"relax lord": "A1"},
+        {"meet today": "A1"},
+        {"meet eligible bachelorettes": "B2"},
+        {"shading from kingdom": "B2"},
+        {"likes sushi": "B2"},
+        {"hot tubbing anytime": "B2"},
+        {"hobbies include": "B2"},
+        {"cooking and cleaning": "A2"},
+        {"for evil sisters": "A2"},
+        {"wearing girl": "A2"},
+        {"land of fantasy": "B2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"kiss her dead frozen lips": "B2"}
+    ],
+    "VERBS": [
+        {"give up": "A2"},
+        {"get up": "A2"},
+        {"show-white": "B1"},
+        {"guard": "B1"},
+        {"let off": "B1"},
+        {"like": "A1"},
+        {"get cutting": "B2"},
+        {"get in the rain": "A2"}
+    ],
+    "WORDS": [
+        {"seven": "A1"},
+        {"man": "A1"},
+        {"easy": "A1"},
+        {"dead": "A2"},
+        {"frozen": "A2"},
+        {"live": "A1"},
+        {"show": "A1"},
+        {"white": "A1"},
+        {"come": "A1"},
+        {"give": "A1"},
+        {"up": "A1"},
+        {"least": "A2"},
+        {"bachelor": "B1"},
+        {"tree": "A1"},
+        {"fire": "A1"},
+        {"breathing": "B1"},
+        {"dragon": "B2"},
+        {"guarded": "B2"},
+        {"castle": "A2"},
+        {"surrounded": "B2"},
+        {"boiling": "B2"},
+        {"lava": "B2"},
+        {"let": "A1"},
+        {"off": "A1"},
+        {"certainly": "A2"},
+        {"not": "A1"},
+        {"least": "A2"},
+        {"loaded": "B1"},
+        {"pistol": "B2"},
+        {"likes": "A1"},
+        {"candela": "B2"},
+        {"getting": "A2"},
+        {"cut": "A1"},
+        {"rain": "A1"},
+        {"rescuing": "B2"},
+        {"Princess": "A2"},
+        {"Fiona": "B2"},
+        {"bachelor": "B1"},
+        {"number": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"seven other": "A2"},
+        {"kiss her dead": "B2"},
+        {"frozen lips": "B2"},
+        {"live wife": "A2"},
+        {"show-white": "B1"},
+        {"let off": "B1"},
+        {"surrounded by": "A2"},
+        {"boiling lava": "B2"},
+        {"loaded pistol": "B2"},
+        {"likes getting": "B2"},
+        {"cut in": "A2"},
+        {"rescuing Princess": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [],
+    "VERBS": [
+        {"pick number": "A2"},
+        {"mention little thing": "B1"},
+        {"make princess": "A2"},
+        {"assemble your finest man": "B1"}
+    ],
+    "WORDS": [
+        {"two": "A1"},
+        {"three": "A1"},
+        {"one": "A1"},
+        {"lord": "B2"},
+        {"number": "A1"},
+        {"princess": "A2"},
+        {"nice": "A1"},
+        {"perfect": "A1"},
+        {"find someone": "A2"},
+        {"mention": "A2"},
+        {"little": "A1"},
+        {"thing": "A1"},
+        {"night": "A1"},
+        {"silence": "A2"},
+        {"princess": "A2"},
+        {"queen": "A2"},
+        {"king": "A2"},
+        {"captain": "B1"},
+        {"assemble": "B2"},
+        {"finest": "B1"},
+        {"man": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"number three": "A1"},
+        {"pick number three": "A2"},
+        {"lord Farquaad": "B2"},
+        {"princess Fiona": "A2"},
+        {"she's nice": "A1"},
+        {"find someone": "A2"},
+        {"mention little thing": "B1"},
+        {"happen at night": "A1"},
+        {"make this princess": "A2"},
+        {"assemble your finest man": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"have a tournament": "A1"},
+        {"find it": "A1"},
+        {"do that again": "A1"},
+        {"let's do that again": "A1"},
+        {"wait up": "A1"},
+        {"look at": "A1"},
+        {"go the right way": "A1"},
+        {"smack bottom": "A2"}
+    ],
+    "VERBS": [
+        {"have a tournament": "A1"},
+        {"tell you": "A1"},
+        {"find it": "A1"},
+        {"get castle": "A1"},
+        {"wait up": "A1"},
+        {"wait a second": "A1"},
+        {"eat you": "A1"},
+        {"look at": "A1"},
+        {"let's do that again": "A1"}
+    ],
+    "WORDS": [
+        {"arrangement": "A2"},
+        {"tournament": "A2"},
+        {"Duloc": "A2"},
+        {"lord": "A2"},
+        {"Farquaad": "A2"},
+        {"shrek": "A2"},
+        {"everybody": "A1"},
+        {"apartment": "A2"},
+        {"goin": "A1"},
+        {"smack": "A2"},
+        {"bottom": "A2"},
+        {"sorry": "A1"},
+        {"champion": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"have a tournament": "A1"},
+        {"tell you": "A1"},
+        {"find it": "A1"},
+        {"get castle": "A1"},
+        {"wait up": "A1"},
+        {"wait a second": "A1"},
+        {"eat you": "A1"},
+        {"look at": "A1"},
+        {"go the right way": "A1"},
+        {"smack bottom": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"have the honour": "A2"},
+        {"for any reason": "B1"},
+        {"take his place": "A2"},
+        {"make a sacrifice": "B2"},
+        {"it's just a donkey": "A1"}
+    ],
+    "VERBS": [
+        {"go for": "A2"},
+        {"rescue": "A2"},
+        {"take his place": "A2"},
+        {"make a sacrifice": "B2"}
+    ],
+    "WORDS": [
+        {"honour": "B1"},
+        {"privilege": "B1"},
+        {"princess": "B1"},
+        {"firing": "B2"},
+        {"keep": "A1"},
+        {"dragon": "B1"},
+        {"loser": "B1"},
+        {"runner": "A2"},
+        {"failure": "B2"},
+        {"sacrifice": "B2"},
+        {"applause": "B1"},
+        {"tournament": "B2"},
+        {"hideous": "B2"},
+        {"indeed": "B1"},
+        {"knights": "B1"},
+        {"plan": "A1"},
+        {"kill": "A2"},
+        {"Ogre": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"have the honour": "A2"},
+        {"go for something": "A2"},
+        {"rescue the lovely": "A2"},
+        {"take his place": "A2"},
+        {"make a sacrifice": "B2"},
+        {"it's just a donkey": "A1"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"championship": "B1"},
+    {"can't just settle this over a pint": "B2"},
+    {"let me, let me": "A2"},
+    {"until Thursday": "A1"},
+    {"congratulation, Ogres": "B1"},
+    {"honor of embarking on a great and noble quest": "B2"}
+  ],
+  "VERBS": [
+    {"settle over": "B1"},
+    {"give the order": "A2"},
+    {"give the champion": "A2"},
+    {"embark on": "B1"}
+  ],
+  "WORDS": [
+    {"championship": "B1"},
+    {"pint": "A2"},
+    {"congratulation": "B1"},
+    {"honor": "A2"},
+    {"embarking": "B2"},
+    {"quest": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"settle this over a pint": "B2"},
+    {"let me, let me": "A2"},
+    {"thank you, thank you very much": "A1"},
+    {"until Thursday": "A1"},
+    {"congratulation, Ogres": "B1"},
+    {"honor of embarking on a great and noble quest": "B2"}
+  ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"dumb those fairytales": "B2"},
+    {"make you a deal": "B1"},
+    {"give your swamp back": "B1"},
+    {"find the dragon": "A2"},
+    {"rescue a princess": "A2"}
+  ],
+  "VERBS": [
+    {"dumped those": "B1"},
+    {"go on": "A1"},
+    {"give you": "A1"},
+    {"get test": "B2"},
+    {"go find": "A2"},
+    {"give back": "A2"}
+  ],
+  "WORDS": [
+    {"swamp": "B1"},
+    {"fairy": "B2"},
+    {"creatures": "B2"},
+    {"indeed": "B2"},
+    {"science": "A2"},
+    {"slime": "B2"},
+    {"toaster": "B2"},
+    {"squatters": "B2"},
+    {"slime": "B2"},
+    {"covered": "B1"},
+    {"toaster": "B2"},
+    {"slime": "B2"},
+    {"qwest": "B2"},
+    {"good": "A1"},
+    {"went": "A1"},
+    {"kind": "A1"},
+    {"princess": "A2"},
+    {"find": "A1"},
+    {"dragon": "A1"},
+    {"rescue": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"dumb fairytales": "B2"},
+    {"love creatures": "B2"},
+    {"make deal": "B1"},
+    {"get test": "B2"},
+    {"go find": "A2"},
+    {"give back": "A2"},
+    {"fill test": "B2"},
+    {"full test": "B2"}
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"pull": "A2"}
+    ],
+    "VERBS": [
+        {"get it": "A1"},
+        {"pull bones": "B2"},
+        {"put on": "A2"},
+        {"cut open": "A2"},
+        {"drink fluids": "A1"}
+    ],
+    "WORDS": [
+        {"arrange": "A2"},
+        {"place": "A1"},
+        {"right": "A1"},
+        {"reason": "A1"},
+        {"donkey": "A2"},
+        {"Schrak": "B2"},
+        {"brave": "A2"},
+        {"trick": "A1"},
+        {"village": "A1"},
+        {"plate": "A1"},
+        {"knife": "A1"},
+        {"spleen": "B2"},
+        {"fluids": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"arrange the first place": "A2"},
+        {"good reason": "A1"},
+        {"don't talk": "A1"},
+        {"get it": "A1"},
+        {"pull bones": "B2"},
+        {"put on plate": "A2"},
+        {"cut open": "A2"},
+        {"drink fluids": "A1"},
+        {"sound good": "A1"},
+        {"not really": "A1"},
+        {"for your information": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"be like onions": "A2"},
+        {"get all brown": "A2"},
+        {"start little wild hairs": "B1"},
+        {"lay down layers": "B1"},
+        {"everybody loves cakes": "A1"}
+    ],
+    "VERBS": [
+        {"make you cry": "A2"},
+        {"leave them out": "A1"},
+        {"get it": "A1"},
+        {"both have layers": "A1"}
+    ],
+    "WORDS": [
+        {"lot": "A1"},
+        {"more": "A1"},
+        {"there": "A1"},
+        {"is": "A1"},
+        {"like": "A1"},
+        {"onions": "A2"},
+        {"onion": "A2"},
+        {"make": "A1"},
+        {"cry": "A1"},
+        {"out": "A1"},
+        {"sun": "A1"},
+        {"brown": "A1"},
+        {"care": "A2"},
+        {"what": "A1"},
+        {"everyone": "A1"},
+        {"likes": "A1"},
+        {"cakes": "A1"},
+        {"cake": "A1"},
+        {"layers": "B1"},
+        {"layer": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"a lot more": "A2"},
+        {"like onions": "A2"},
+        {"make you cry": "A2"},
+        {"leave them out": "A1"},
+        {"all brown": "A1"},
+        {"little wild hairs": "B1"},
+        {"lay down layers": "B1"},
+        {"both have layers": "B1"},
+        {"everybody loves cakes": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"a piece of cake": "A2"},
+        {"end of story": "A2"}
+    ],
+    "VERBS": [
+        {"get some": "B1"},
+        {"say I don't like": "A1"},
+        {"tend to": "B1"},
+        {"making a mess": "A2"}
+    ],
+    "WORDS": [
+        {"puff": "B1"},
+        {"delicious": "A1"},
+        {"tense": "B1"},
+        {"irritating": "B2"},
+        {"nature": "A2"},
+        {"peace": "A1"},
+        {"bard": "B2"},
+        {"ogre": "B2"},
+        {"onion": "A1"},
+        {"later": "A1"},
+        {"planet": "A1"},
+        {"whole": "A1"},
+        {"damn": "B1"},
+        {"preferred": "B1"},
+        {"humming": "B2"},
+        {"issue": "A2"},
+        {"causing": "B1"},
+        {"making": "A1"},
+        {"mess": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"puff is delicious": "B1"},
+        {"piece of cake": "A2"},
+        {"end of story": "A2"},
+        {"tense, irritating": "B1"},
+        {"nature piece of": "A2"},
+        {"bard": "B2"},
+        {"ogre like": "B2"},
+        {"onion": "A1"},
+        {"planet": "A1"},
+        {"prefer your humming": "B2"},
+        {"issue or something": "A2"},
+        {"making a mess": "A2"}
+    ]
+}
+```Here is the linguistic analysis based on the provided subtitles and CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"get out": "A2"},
+        {"crack one off": "B2"},
+        {"be getting close": "B1"}
+    ],
+    "VERBS": [
+        {"made": "A2"},
+        {"start slimying": "B2"},
+        {"did": "A1"},
+        {"got to warn someone": "B1"},
+        {"crack": "B1"},
+        {"was open": "A2"},
+        {"be": "A1"},
+        {"doing": "A2"},
+        {"do": "A1"},
+        {"be dead": "A1"},
+        {"must be": "A1"},
+        {"brimstone": "B2"},
+        {"getting close": "B1"},
+        {"talking": "A2"},
+        {"smell": "A1"},
+        {"don't be": "A2"},
+        {"said": "A1"},
+        {"remember when": "A2"},
+        {"said": "A1"},
+        {"have layers": "B1"}
+    ],
+    "WORDS": [
+        {"f": "A1"},
+        {"has": "A1"},
+        {"made": "A2"},
+        {"me": "A1"},
+        {"start": "A1"},
+        {"slimying": "B2"},
+        {"Why": "A1"},
+        {"Shrek": "B2"},
+        {"did": "A1"},
+        {"you": "A1"},
+        {"do": "A1"},
+        {"that": "A1"},
+        {"Man": "A1"},
+        {"got": "A2"},
+        {"to": "A1"},
+        {"warn": "B1"},
+        {"someone": "A1"},
+        {"before": "A1"},
+        {"just": "A1"},
+        {"crack": "B1"},
+        {"one": "A1"},
+        {"off": "A1"},
+        {"mouth": "A1"},
+        {"was": "A1"},
+        {"opened": "B1"},
+        {"and": "A1"},
+        {"everything": "A1"},
+        {"believe": "A1"},
+        {"donkey": "B1"},
+        {"it": "A1"},
+        {"was": "A1"},
+        {"you'd": "A2"},
+        {"be": "A1"},
+        {"dead": "A1"},
+        {"It's": "A1"},
+        {"brimstone": "B2"},
+        {"We": "A1"},
+        {"must": "A1"},
+        {"get": "A1"},
+        {"close": "A1"},
+        {"Yeah": "A1"},
+        {"right": "A1"},
+        {"brimstone": "B2"},
+        {"Don't": "A1"},
+        {"be": "A1"},
+        {"talking": "A2"},
+        {"Smell": "A1"},
+        {"and": "A1"},
+        {"no": "A1"},
+        {"brimstone": "B2"},
+        {"And": "A1"},
+        {"they": "A1"},
+        {"don't": "A1"},
+        {"com": "B2"},
+        {"either": "A2"},
+        {"Sure": "A1"},
+        {"it's": "A1"},
+        {"big": "A1"},
+        {"enough": "A1"},
+        {"but": "A1"},
+        {"look": "A1"},
+        {"at": "A1"},
+        {"the": "A1"},
+        {"location": "A2"},
+        {"Oh": "A1"},
+        {"remember": "A1"},
+        {"when": "A1"},
+        {"said": "A1"},
+        {"Ogres": "B2"},
+        {"have": "A1"},
+        {"layers": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"start slimying": "B2"},
+        {"got to warn": "B1"},
+        {"brimstone and": "B2"},
+        {"smell and": "A1"},
+        {"look at the": "A1"}
+    ]
+}
+```Here is the analyzed data structured according to your instructions:
+
+```python
+{
+    "IDIOMS": [
+        {"make a mess": "A2"},
+        {"be afraid of": "A1"},
+        {"be right here": "A1"},
+        {"take a step": "A2"}
+    ],
+    "VERBS": [
+        {"have a": "A1"},
+        {"don't have": "A1"},
+        {"don't have": "A1"},
+        {"mean": "A1"},
+        {"tell you're": "A1"},
+        {"being on": "B1"},
+        {"hack this": "B2"},
+        {"feel": "A1"}
+    ],
+    "WORDS": [
+        {"arrangement": "A2"},
+        {"donkey": "A2"},
+        {"layers": "B1"},
+        {"wears": "A1"},
+        {"sleeves": "A2"},
+        {"wait a": "A1"},
+        {"second": "A1"},
+        {"know": "A1"},
+        {"what": "A1"},
+        {"mean": "A1"},
+        {"oh": "A1"},
+        {"afraid": "A1"},
+        {"high": "A1"},
+        {"just": "A1"},
+        {"little": "A1"},
+        {"uncomfortable": "B1"},
+        {"being on": "B1"},
+        {"risky": "B2"},
+        {"bridge": "A2"},
+        {"boiling": "B1"},
+        {"lake": "A2"},
+        {"lava": "B1"},
+        {"emotional": "B1"},
+        {"support": "A2"},
+        {"hack this": "B2"},
+        {"thing": "A1"},
+        {"baby": "A1"},
+        {"step": "A1"},
+        {"time": "A1"},
+        {"makes": "A1"},
+        {"feel": "A1"},
+        {"moving": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"make a mess": "A2"},
+        {"donkey doesn't have": "A2"},
+        {"wear sleeves": "A2"},
+        {"wait a second": "A1"},
+        {"right here": "A1"},
+        {"afraid of highs": "A1"},
+        {"little uncomfortable": "A1"},
+        {"risky bridge": "B2"},
+        {"boiling lake": "B1"},
+        {"emotional support": "B1"},
+        {"hack this thing": "B2"},
+        {"take a step": "A2"}
+    ]
+}
+```
+
+Note: Some words and collocations might have been misclassified due to the fragmented nature of the input data. If you provide the full sentences, the classification can be more accurate.```python
+{
+    "IDIOMS": [
+        {"I'm looking down": "A2"},
+        {"I can't do this": "A1"},
+        {"let me off": "A1"},
+        {"half way": "A2"},
+        {"half is safe": "A2"},
+        {"I'm going to die": "A2"},
+        {"that will do": "A2"}
+    ],
+    "VERBS": [
+        {"don't look down": "A1"},
+        {"let off": "A1"},
+        {"go back": "A1"},
+        {"do what": "A1"},
+        {"do it": "A1"},
+        {"I'm going to die": "A2"}
+    ],
+    "WORDS": [
+        {"don't": "A1"},
+        {"look": "A1"},
+        {"down": "A1"},
+        {"down": "A1"},
+        {"shrek": "A2"},
+        {"I'm": "A1"},
+        {"looking": "A2"},
+        {"can't": "A1"},
+        {"do": "A1"},
+        {"this": "A1"},
+        {"just": "A1"},
+        {"let": "A1"},
+        {"off": "A1"},
+        {"right": "A1"},
+        {"now": "A1"},
+        {"please": "A1"},
+        {"but": "A1"},
+        {"you're": "A2"},
+        {"already": "A2"},
+        {"half": "A1"},
+        {"way": "A1"},
+        {"yeah": "A1"},
+        {"but": "A1"},
+        {"I": "A1"},
+        {"know": "A1"},
+        {"that": "A1"},
+        {"safe": "A2"},
+        {"OK": "A1"},
+        {"fine": "A1"},
+        {"don't": "A1"},
+        {"have": "A1"},
+        {"time": "A1"},
+        {"for": "A1"},
+        {"this": "A1"},
+        {"go": "A1"},
+        {"back": "A1"},
+        {"no": "A1"},
+        {"wait": "A1"},
+        {"don't": "A1"},
+        {"that": "A1"},
+        {"oh": "A1"},
+        {"sorry": "A1"},
+        {"do": "A1"},
+        {"what": "A1"},
+        {"this": "A1"},
+        {"yes": "A1"},
+        {"that": "A1"},
+        {"do": "A1"},
+        {"it": "A1"},
+        {"cool": "A1"},
+        {"where": "A1"},
+        {"is": "A1"},
+        {"fire": "A1"},
+        {"breathing": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"don't look down": "A1"},
+        {"looking down": "A2"},
+        {"let me off": "A1"},
+        {"go back": "A1"},
+        {"half way": "A2"},
+        {"half is safe": "A2"},
+        {"let off": "A1"},
+        {"I'm going to die": "A2"},
+        {"don't have time": "A1"},
+        {"wait": "A1"},
+        {"don't do that": "A1"},
+        {"do what": "A1"},
+        {"do it": "A1"},
+        {"this is fire breathing": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"be afraid of": "A1"},
+        {"breathes fire": "B2"}
+    ],
+    "VERBS": [
+        {"talk about": "A1"},
+        {"wait for": "A1"},
+        {"rescue her": "A1"},
+        {"shh": "A2"},
+        {"breathes fire": "B2"}
+    ],
+    "WORDS": [
+        {"pain": "A2"},
+        {"neck": "A2"},
+        {"way": "A1"},
+        {"inside": "A1"},
+        {"waiting": "A2"},
+        {"rescue": "A2"},
+        {"her": "A1"},
+        {"afraid": "A1"},
+        {"shh": "A2"},
+        {"neither": "A2"},
+        {"wrong": "A1"},
+        {"dangerous": "A1"},
+        {"situation": "A1"},
+        {"mention": "A2"},
+        {"breathes": "B2"},
+        {"fire": "A1"},
+        {"heavier": "B1"},
+        {"donkey": "A2"},
+        {"things": "A1"},
+        {"shut": "A1"},
+        {"go": "A1"},
+        {"over": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"pain in the neck": "A2"},
+        {"talk about the dragon": "A2"},
+        {"waiting for us": "A2"},
+        {"rescue her": "A2"},
+        {"shh": "A2"},
+        {"neither danger": "A2"},
+        {"nothing wrong": "A1"},
+        {"being afraid": "A1"},
+        {"dragon breathes fire": "B2"},
+        {"heavier than a cow": "B1"},
+        {"scared of a donkey": "A2"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"a dragon": "A1"},
+    {"stair master": "B1"}
+  ],
+  "VERBS": [
+    {"find out": "A2"},
+    {"look for": "A1"},
+    {"get up": "A1"},
+    {"handle the": "B1"},
+    {"find the": "A1"},
+    {"mess with": "B2"}
+  ],
+  "WORDS": [
+    {"arrange": "A2"},
+    {"stair": "A2"},
+    {"thought": "A2"},
+    {"looking": "A2"},
+    {"princess": "A1"},
+    {"princes": "A1"},
+    {"be up": "A1"},
+    {"tower": "A1"},
+    {"makes": "A1"},
+    {"handle": "B1"},
+    {"draf": "B2"},
+    {"mess": "A2"},
+    {"master": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"find any stairs": "A2"},
+    {"looking for three": "A2"},
+    {"be up the": "A1"},
+    {"in the tower": "A1"},
+    {"handle the dragon": "B1"},
+    {"find the stairs": "A1"},
+    {"mess with me": "B2"}
+  ]
+}
+```To analyze the provided data, I will extract sentences and then identify idioms, phrasal verbs, semantically significant words, and collocations. Here is the structured output based on the given instructions:
+
+```python
+{
+    "IDIOMS": [
+        {"step all over it": "B2"},
+        {"look out": "A2"},
+        {"hear this all the time": "A2"},
+        {"bleach yourself": "B2"},
+        {"freshness": "A2"}
+    ],
+    "VERBS": [
+        {"step all over": "B2"},
+        {"look out": "A2"},
+        {"hear this all the time": "A2"},
+        {"bleach yourself": "B2"},
+        {"detect the hint of": "B2"}
+    ],
+    "WORDS": [
+        {"princess": "A1"},
+        {"dragon": "A2"},
+        {"sparkling": "A2"},
+        {"freshness": "A2"},
+        {"minty": "B1"},
+        {"girl": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"princess is": "A1"},
+        {"white sparkling tooth": "A2"},
+        {"food from": "A1"},
+        {"bleach yourself": "B2"},
+        {"minty freshness": "A2"},
+        {"girl dragon": "A2"}
+    ]
+}
+``````
+IDIOMS
+: [{"blowing smoke and stuff": "B1"}]
+VERBS
+: [{"get out": "A2"}, {"wake up": "A2"}]
+WORDS
+: [{"risking": "B2"}, {"feminine": "B2"}, {"beauty": "B1"}, {"matter": "A1"}, {"princess": "B1"}, {"knight": "B2"}, {"romantic": "B2"}, {"romantic": "B2"}]
+COLLOCATIONS
+: [{"risking the": "B2"}, {"feminine beauty": "B2"}, {"blow smoke": "B1"}, {"knight bold": "B2"}, {"rescue me": "A2"}, {"princess Fiona": "B1"}, {"wonderful romantic": "B2"}]
+```Certainly! Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"sweep me out of my feet": "A2"},
+        {"through the window": "A1"},
+        {"pay valued heed": "B1"},
+        {"lay to plan": "B1"},
+        {"ride of a poem": "A2"}
+    ],
+    "VERBS": [
+        {"wake up": "A1"},
+        {"get valued": "B1"},
+        {"take favor": "B1"},
+        {"slay the dragon": "A2"}
+    ],
+    "WORDS": [
+        {"m": "A1"},
+        {"e": "A1"},
+        {"Hey": "A1"},
+        {"what": "A1"},
+        {"are": "A1"},
+        {"you": "A1"},
+        {"doing": "A1"},
+        {"know": "A1"},
+        {"should": "A1"},
+        {"sweep": "B1"},
+        {"he": "A1"},
+        {"out": "A1"},
+        {"feet": "A1"},
+        {"through": "A1"},
+        {"window": "A1"},
+        {"down": "A1"},
+        {"rope": "B1"},
+        {"get": "A1"},
+        {"valued": "B1"},
+        {"steed": "B1"},
+        {"ve": "A1"},
+        {"had": "A1"},
+        {"lot": "A1"},
+        {"time": "A1"},
+        {"be": "A1"},
+        {"plan": "A1"},
+        {"um": "A2"},
+        {"but": "A1"},
+        {"have": "A1"},
+        {"sing": "A1"},
+        {"moment": "A1"},
+        {"can": "A1"},
+        {"reside": "B1"},
+        {"poem": "B1"},
+        {"ballad": "B1"},
+        {"sonnet": "B1"},
+        {"libretto": "B1"},
+        {"Or": "A1"},
+        {"don't": "A1"},
+        {"think": "A1"},
+        {"Well": "A1"},
+        {"name": "A1"},
+        {"champion": "B1"},
+        {"Shrek": "B1"},
+        {"pray": "B1"},
+        {"take": "A1"},
+        {"favor": "A1"},
+        {"token": "B1"},
+        {"gratitude": "B1"},
+        {"Thanks": "A1"},
+        {"didn't": "A1"},
+        {"slay": "B1"},
+        {"dragon": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"sweep me out of": "B1"},
+        {"get valued steed": "B1"},
+        {"name of my": "A1"},
+        {"take favor as": "B1"},
+        {"token of my": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"save my ass": "B2"}
+    ],
+    "VERBS": [
+        {"do this": "A1"},
+        {"come on": "A1"},
+        {"burst in the flame": "B1"},
+        {"go into a relationship": "B2"},
+        {"look for": "A2"}
+    ],
+    "WORDS": [
+        {"job": "A1"},
+        {"right": "A1"},
+        {"knight": "B1"},
+        {"before": "A1"},
+        {"bent": "B2"},
+        {"emotional": "B2"},
+        {"commitment": "B2"},
+        {"magnitude": "B2"},
+        {"relationship": "A2"},
+        {"contact": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"love knight": "B1"},
+        {"science knight": "B1"},
+        {"save my ass": "B2"},
+        {"go into a relationship": "B2"},
+        {"look for a word": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get to know": "A2"},
+        {"tear it off": "B1"},
+        {"take care of": "A2"}
+    ],
+    "VERBS": [
+        {"do in": "B2"},
+        {"back up": "B1"},
+        {"take on": "B1"},
+        {"get to": "A2"},
+        {"go to": "A1"},
+        {"shut up": "B1"}
+    ],
+    "WORDS": [
+        {"arrange": "A2"},
+        {"little": "A1"},
+        {"even": "A1"},
+        {"friends": "A1"},
+        {"trick": "A2"},
+        {"shut": "A2"},
+        {"amazing": "A1"},
+        {"wonderful": "A1"},
+        {"you're": "A1"},
+        {"rescue": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"get to know": "A2"},
+        {"take on": "B1"},
+        {"take care of": "A2"},
+        {"shut up": "B1"},
+        {"amazing, you're": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"little upright": "A2"},
+        {"pure heart": "B1"}
+    ],
+    "VERBS": [
+        {"admit": "B1"},
+        {"deal with": "A2"},
+        {"get night": "A2"},
+        {"remove your": "A2"},
+        {"look upon": "B1"},
+        {"dust": "B1"}
+    ],
+    "WORDS": [
+        {"arrangement": "A2"},
+        {"admire": "B1"},
+        {"deed": "B1"},
+        {"pride": "B1"},
+        {"pure": "B1"},
+        {"entirely": "B2"},
+        {"debt": "B2"},
+        {"brave": "B1"},
+        {"night": "A1"},
+        {"nob": "B2"},
+        {"steeled": "B2"},
+        {"heart": "A1"},
+        {"steed": "B2"},
+        {"steed": "B2"},
+        {"battle": "A2"},
+        {"remove": "B1"},
+        {"helmet": "B1"},
+        {"sir": "A2"},
+        {"knight": "A2"},
+        {"aah": "A2"},
+        {"hat": "A1"},
+        {"look": "A1"},
+        {"face": "A1"},
+        {"rescuer": "B2"},
+        {"dust": "B1"},
+        {"how": "A1"},
+        {"kiss": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"little upright": "A2"},
+        {"great deed": "B1"},
+        {"entirely in": "B2"},
+        {"brave knight": "A2"},
+        {"remove your": "A2"},
+        {"look upon": "B1"},
+        {"face of": "A1"},
+        {"my rescuer": "B2"},
+        {"how will": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"true love's first kiss": "B2"}
+    ],
+    "VERBS": [
+        {"locked in": "B1"},
+        {"besieged by": "B2"},
+        {"rescued by": "A2"},
+        {"think that": "A1"},
+        {"fall in love": "B1"}
+    ],
+    "WORDS": [
+        {"perk": "A2"},
+        {"fate": "B1"},
+        {"knight": "A2"},
+        {"besieged": "B2"},
+        {"dragons": "A2"},
+        {"rescue": "A2"},
+        {"kiss": "A2"},
+        {"Shrek": "A2"},
+        {"rescuer": "B1"},
+        {"remove": "A2"},
+        {"helmet": "A2"},
+        {"idea": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"princess locked in a tower": "B1"},
+        {"besieged by a dragon": "B2"},
+        {"rescued by a brave knight": "B1"},
+        {"true love's first kiss": "B2"},
+        {"take off the helmet": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"take it off": "A2"}
+    ],
+    "VERBS": [
+        {"take off": "A2"},
+        {"get charming": "B2"},
+        {"come to": "A2"},
+        {"ask him": "A1"},
+        {"be rescued": "A2"}
+    ],
+    "WORDS": [
+        {"no": "A1"},
+        {"now": "A1"},
+        {"ok": "A1"},
+        {"easy": "A1"},
+        {"highness": "B1"},
+        {"ogre": "B2"},
+        {"expect": "A2"},
+        {"wrong": "A1"},
+        {"supposed": "B1"},
+        {"princess": "B1"},
+        {"sent": "A2"},
+        {"rescue": "A2"},
+        {"lord": "B2"},
+        {"marry": "A2"},
+        {"good": "A1"},
+        {"question": "A1"},
+        {"should": "A1"},
+        {"true": "A1"},
+        {"love": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"take it off": "A2"},
+        {"get charming": "B2"},
+        {"come to": "A2"},
+        {"ask him": "A1"},
+        {"be rescued": "A2"},
+        {"sent to": "A2"},
+        {"want to": "A1"},
+        {"ask him that": "A1"},
+        {"be rescued by": "A2"},
+        {"true love": "A2"}
+    ]
+}
+```Here is the analysis of the provided data:
+
+```python
+{
+    "IDIOMS": [
+        {"love seat": "A1"},
+        {"look pretty": "A1"}
+    ],
+    "VERBS": [
+        {"make job easier": "A1"},
+        {"tell lord": "A1"},
+        {"be waiting": "A1"},
+        {"put down": "A1"}
+    ],
+    "WORDS": [
+        {"arrange": "A2"},
+        {"noble": "B1"},
+        {"look": "A1"},
+        {"princess": "A1"},
+        {"job": "A1"},
+        {"easy": "A1"},
+        {"sorry": "A1"},
+        {"problem": "A1"},
+        {"lord": "B1"},
+        {"bent": "B2"},
+        {"teo": "B2"},
+        {"rescue": "A2"},
+        {"properly": "A2"},
+        {"messenger": "B1"},
+        {"delivery boy": "B1"},
+        {"dare": "B1"},
+        {"dare": "B1"},
+        {"question": "A1"},
+        {"consequences": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"nobler seed": "B1"},
+        {"look pretty": "A1"},
+        {"making job easier": "A1"},
+        {"sorry, but": "A1"},
+        {"not my problem": "A1"},
+        {"tell lord Farquaad": "A1"},
+        {"put me down": "A1"},
+        {"wait for him": "A1"},
+        {"message, boy": "A1"},
+        {"right here": "A1"},
+        {"put me down": "A1"},
+        {"put me down or": "A1"},
+        {"suffer the consequences": "B1"}
+    ]
+}
+```
+
+Note: Some words and phrases may not be recognized if they are not part of the provided CEFR-based wordlist. The analysis is based on the closest matches and the context provided.Here is the linguistic analysis of the provided subtitles, following the specified structure:
+
+```python
+{
+    "IDIOMS": [
+        {"like": "A1"},
+        {"get burned": "A2"},
+        {"true love": "A1"}
+    ],
+    "VERBS": [
+        {"dug": "A2"},
+        {"do down": "A1"},
+        {"get burned": "A2"},
+        {"tell": "A1"},
+        {"find": "A1"},
+        {"go": "A1"},
+        {"love": "A1"},
+        {"put it this way": "B1"}
+    ],
+    "WORDS": [
+        {"hat": "A1"},
+        {"woman": "A1"},
+        {"dug": "A2"},
+        {"dow": "A1"},
+        {"eas": "A1"},
+        {"feeling": "A1"},
+        {"hurt": "A1"},
+        {"butt": "A1"},
+        {"crisp": "A1"},
+        {"neither": "A2"},
+        {"how": "A1"},
+        {"do": "A1"},
+        {"this": "A1"},
+        {"tell": "A1"},
+        {"true": "A1"},
+        {"love": "A1"},
+        {"knows": "A1"},
+        {"happens": "A1"},
+        {"hey": "A1"},
+        {"sooner": "B1"},
+        {"duloc": "B1"},
+        {"better": "A1"},
+        {"oh": "A1"},
+        {"yeah": "A1"},
+        {"princess": "A1"},
+        {"beautiful": "A1"},
+        {"groom": "A2"},
+        {"lord": "A1"},
+        {"farquad": "B1"},
+        {"like": "A1"},
+        {"put": "A1"},
+        {"way": "A1"},
+        {"princess": "A1"},
+        {"men": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"hat a woman": "A1"},
+        {"dug you": "A2"},
+        {"down real": "A1"},
+        {"eas": "A1"},
+        {"feeling arent": "A1"},
+        {"hurt": "A1"},
+        {"butt": "A1"},
+        {"crisp": "A1"},
+        {"neither": "A2"},
+        {"do this": "A1"},
+        {"tell her": "A1"},
+        {"true love": "A1"},
+        {"knows happens": "A1"},
+        {"hey sooner": "A1"},
+        {"duloc better": "A1"},
+        {"oh yeah": "A1"},
+        {"love princes": "A1"},
+        {"beautiful": "A1"},
+        {"groom lord": "A2"},
+        {"farquad like": "B1"},
+        {"put it": "A1"},
+        {"way princess": "A1"},
+        {"men of": "A1"}
+    ]
+}
+```
+
+Note: Some collocations and words might be split incorrectly due to the nature of the data provided. The analysis is based on the best interpretation of the provided text.Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"stop it": "A1"},
+        {"never mind": "A2"}
+    ],
+    "VERBS": [
+        {"stop it": "A1"},
+        {"get up": "A2"},
+        {"see him": "A1"}
+    ],
+    "WORDS": [
+        {"arrangement": "A2"},
+        {"supply": "B1"},
+        {"oh": "A1"},
+        {"no": "A1"},
+        {"shrek": "A1"},
+        {"there": "A1"},
+        {"are": "A1"},
+        {"those": "A1"},
+        {"who": "A1"},
+        {"think": "A1"},
+        {"little": "A1"},
+        {"of": "A1"},
+        {"him": "A1"},
+        {"stop": "A1"},
+        {"both": "A1"},
+        {"of": "A1"},
+        {"you": "A1"},
+        {"know": "A1"},
+        {"jealous": "A2"},
+        {"that": "A1"},
+        {"you": "A1"},
+        {"can": "A1"},
+        {"never": "A1"},
+        {"measure": "B1"},
+        {"rule": "A1"},
+        {"like": "A1"},
+        {"lord": "B2"},
+        {"yeah": "A1"},
+        {"princesses": "A2"},
+        {"but": "A1"},
+        {"i": "A1"},
+        {"like": "A1"},
+        {"measuring": "B1"},
+        {"when": "A1"},
+        {"see": "A1"},
+        {"tomorrow": "A1"},
+        {"take": "A1"},
+        {"longer": "B1"},
+        {"stop": "A1"},
+        {"make": "A1"},
+        {"camp": "A2"},
+        {"no": "A1"},
+        {"that": "A1"},
+        {"would": "A1"},
+        {"not": "A1"},
+        {"take": "A1"},
+        {"keep": "A1"},
+        {"going": "A1"},
+        {"but": "A1"},
+        {"there": "A1"},
+        {"are": "A1"},
+        {"robbers": "A1"},
+        {"in": "A1"},
+        {"woods": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"arrangement are": "A2"},
+        {"love supply": "B1"},
+        {"stop it": "A1"},
+        {"get up": "A2"},
+        {"see him": "A1"},
+        {"measure up": "B1"},
+        {"rule like": "B2"},
+        {"stop making": "A1"},
+        {"keep going": "A1"},
+        {"take longer": "B1"},
+        {"robbers in": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get it": "A1"},
+        {"good night": "A1"},
+        {"come in": "A1"},
+        {"bed time": "A1"}
+    ],
+    "VERBS": [
+        {"come on": "A1"},
+        {"go on": "A1"},
+        {"find out": "A2"},
+        {"get out": "A2"}
+    ],
+    "WORDS": [
+        {"scarier": "B1"},
+        {"decent": "B1"},
+        {"princess": "A2"},
+        {"perfect": "A1"},
+        {"gently": "B1"},
+        {"touches": "A2"},
+        {"gentleman": "A2"},
+        {"night": "A1"},
+        {"want": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"good night": "A1"},
+        {"bed time": "A1"},
+        {"scarier than": "B1"},
+        {"perfect for": "A2"},
+        {"few touches": "A2"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"throwback": "B1"}
+  ],
+  "VERBS": [
+    {"get over": "A2"},
+    {"make up": "B1"}
+  ],
+  "WORDS": [
+    {"arrange": "A2"},
+    {"doing": "A1"},
+    {"just": "A1"},
+    {"kidding": "A2"},
+    {"right": "A1"},
+    {"bh": "B2"},
+    {"fields": "A1"},
+    {"forma": "B1"},
+    {"stars": "A1"},
+    {"future": "A1"},
+    {"stories": "A1"},
+    {"making": "A1"},
+    {"up": "A1"},
+    {"group": "A1"},
+    {"hunters": "A2"},
+    {"stage": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"get over three": "A2"},
+    {"run away from": "A2"},
+    {"throwback": "B1"},
+    {"right yeah": "A1"},
+    {"look at": "A1"},
+    {"guess what": "A2"},
+    {"famous for": "A2"},
+    {"running away": "B1"},
+    {"group of hunters": "A2"}
+  ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"a bunch of little dots": "A2"}
+    ],
+    "VERBS": [
+        {"aren't": "A1"},
+        {"know": "A1"},
+        {"forget": "A1"},
+        {"are going to do": "A1"},
+        {"get back": "A1"},
+        {"are through": "A2"},
+        {"rescuing the princess": "A2"},
+        {"is just": "A1"},
+        {"am going to do": "A2"},
+        {"build": "A1"},
+        {"cut me deep": "A1"},
+        {"cut me real deep": "A1"}
+    ],
+    "WORDS": [
+        {"donkey": "A2"},
+        {"shrek": "A2"},
+        {"swamp": "A2"},
+        {"princess": "A2"},
+        {"foot": "A1"},
+        {"wall": "A1"},
+        {"land": "A1"},
+        {"deep": "A2"},
+        {"now": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"aren't nothing": "A2"},
+        {"know donkey": "A2"},
+        {"get our swamp back": "A2"},
+        {"through rescuing": "A2"},
+        {"build a ten foot wall": "A2"},
+        {"cut me deep": "A1"},
+        {"cut me real deep": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles based on the CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"keep someone out": "B1"}
+    ],
+    "VERBS": [
+        {"hide something": "A2"},
+        {"get rid of": "B1"},
+        {"warn someone": "A2"},
+        {"keep someone out": "B1"},
+        {"block something": "B1"}
+    ],
+    "WORDS": [
+        {"thing": "A1"},
+        {"way": "A1"},
+        {"keep": "A1"},
+        {"someone": "A1"},
+        {"out": "A1"},
+        {"hiding": "B1"},
+        {"something": "A1"},
+        {"get": "A1"},
+        {"rid": "B1"},
+        {"warn": "A2"},
+        {"block": "B1"},
+        {"trying": "B1"},
+        {"warn": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"keep someone out": "B1"},
+        {"hide something": "A2"},
+        {"get rid of": "B1"},
+        {"warn someone": "A2"},
+        {"block something": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get somewhere": "B1"},
+        {"be better off": "B2"}
+    ],
+    "VERBS": [
+        {"getting somewhere": "B1"},
+        {"look at": "A2"},
+        {"take on": "B1"},
+        {"go": "A1"},
+        {"be better off": "B2"}
+    ],
+    "WORDS": [
+        {"Oh": "A1"},
+        {"for": "A1"},
+        {"the": "A1"},
+        {"love": "A1"},
+        {"problem": "A1"},
+        {"Shrek": "A2"},
+        {"Science": "A2"},
+        {"world": "A1"},
+        {"anyway": "A2"},
+        {"not": "A1"},
+        {"one": "A1"},
+        {"with": "A1"},
+        {"bem": "B2"},
+        {"seems": "A2"},
+        {"take": "A1"},
+        {"look": "A1"},
+        {"go": "A1"},
+        {"people": "A1"},
+        {"me": "A1"},
+        {"big": "A1"},
+        {"stupid": "A2"},
+        {"ugly": "A2"},
+        {"Ogre": "A2"},
+        {"judge": "A2"},
+        {"before": "A1"},
+        {"even": "A1"},
+        {"know": "A1"},
+        {"why": "A1"},
+        {"better": "A1"},
+        {"alone": "A2"},
+        {"know": "A1"},
+        {"when": "A1"},
+        {"meet": "A1"},
+        {"think": "A1"},
+        {"just": "A1"},
+        {"yeah": "A1"},
+        {"donkey": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"get somewhere": "B1"},
+        {"love of pit": "A2"},
+        {"take on look": "B1"},
+        {"go again": "A1"},
+        {"look at me": "A2"},
+        {"big stupid": "A2"},
+        {"ugly Ogre": "A2"},
+        {"know me": "A1"},
+        {"better alone": "B2"},
+        {"big stupid ugly": "A2"},
+        {"ugly Ogre": "A2"}
+    ]
+}
+```Sure, here is the linguistic analysis of the provided subtitles based on the CEFR wordlist and the requested structure:
+
+```python
+{
+    "IDIOMS": [
+        {"show me again": "A2"}
+    ],
+    "VERBS": [
+        {"wake up": "A2"},
+        {"show up": "A2"},
+        {"get of to": "B1"},
+        {"make it up": "B1"}
+    ],
+    "WORDS": [
+        {"baby": "A1"},
+        {"small": "A1"},
+        {"annoying": "A2"},
+        {"mirror": "A2"},
+        {"princess": "B1"},
+        {"donkey": "B2"},
+        {"morning": "A1"},
+        {"princess": "B1"},
+        {"yesterday": "A1"},
+        {"wanted": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"small and annoying": "A2"},
+        {"big shining": "A1"},
+        {"show me the": "A2"},
+        {"wake up": "A2"},
+        {"good morning": "A1"},
+        {"bad start": "A1"},
+        {"make it up": "B1"}
+    ]
+}
+```The provided text is a poorly formatted string with individual characters separated by spaces. For the purpose of linguistic analysis, I will first reconstruct the text into a readable format:
+
+"I mean, after all, you did rescue me. Thanks. Well, eat up. We’ve got a big day ahead of us. Shrek. - What? It's a complaint. Better out than in I always say. But that's no way to behave in front of a princess. Thanks. - She’s as nasty as you are. You know. You’re not exactly what I’ve expecte[d. Well, maybe you shouldn't judge people before you get to know them. Princess. What are you doing? Mô n she[ry, for I am your saviour. And I am rescuin[g you from this green...beast. Hey. That's my p[rince."
+
+Now, I will perform the requested linguistic analysis:
+
+```python
+{
+  "IDIOMS": [
+    {"Better out than in": "B2"}
+  ],
+  "VERBS": [
+    {"eat up": "A1"},
+    {"get to know": "B1"},
+    {"judge people": "B1"}
+  ],
+  "WORDS": [
+    {"rescue": "A2"},
+    {"complaint": "B1"},
+    {"princess": "A2"},
+    {"nasty": "B1"},
+    {"expect": "A2"},
+    {"judge": "B1"},
+    {"behaviour": "B1"},
+    {"front": "A2"},
+    {"prince": "A2"},
+    {"beast": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"rescue me": "A2"},
+    {"big day": "A1"},
+    {"in front of": "A2"},
+    {"get to know": "B1"},
+    {"judge people": "B1"},
+    {"rescuing you": "A2"}
+  ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"a little busy": "A1"},
+        {"hold on": "A2"}
+    ],
+    "VERBS": [
+        {"find out": "A2"},
+        {"look please": "A1"},
+        {"don't know": "A1"},
+        {"think are": "A1"},
+        {"get of course": "A2"},
+        {"introduce myself": "A2"},
+        {"hold on": "A2"},
+        {"learn that": "A1"},
+        {"live alone": "A2"}
+    ],
+    "WORDS": [
+        {"please": "A1"},
+        {"monster": "A2"},
+        {"course": "A1"},
+        {"rude": "A2"},
+        {"introduce": "A1"},
+        {"myself": "A2"},
+        {"annoying": "A2"},
+        {"where": "A1"},
+        {"come from": "A1"},
+        {"amazing": "A1"},
+        {"learn": "A1"},
+        {"alone": "A2"},
+        {"case": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"find your own": "A2"},
+        {"look please": "A1"},
+        {"don't know who": "A1"},
+        {"get of course": "A2"},
+        {"introduce myself": "A2"},
+        {"hold on now": "A2"},
+        {"learn that": "A1"},
+        {"live alone": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"a fault": "A1"},
+        {"die": "A1"},
+        {"keep your legs elevated": "B1"},
+        {"run into woods": "B1"},
+        {"find me a blue flower with red thorns": "A2"}
+    ],
+    "VERBS": [
+        {"look at": "A1"},
+        {"going to": "A1"},
+        {"do this to": "A1"},
+        {"handle": "B1"},
+        {"calm down": "A2"}
+    ],
+    "WORDS": [
+        {"what": "A1"},
+        {"oh": "A1"},
+        {"this": "A1"},
+        {"is": "A1"},
+        {"all": "A1"},
+        {"my": "A1"},
+        {"fault": "A1"},
+        {"I'm": "A1"},
+        {"so": "A1"},
+        {"sorry": "A1"},
+        {"wrong": "A1"},
+        {"Shrek's": "A1"},
+        {"hurt": "A2"},
+        {"going": "A1"},
+        {"to": "A1"},
+        {"die": "A1"},
+        {"do": "A1"},
+        {"this": "A1"},
+        {"too": "A1"},
+        {"young": "A1"},
+        {"for": "A1"},
+        {"you": "A1"},
+        {"die": "A1"},
+        {"keep": "A1"},
+        {"your": "A1"},
+        {"legs": "A1"},
+        {"elevated": "B1"},
+        {"turn": "A1"},
+        {"your": "A1"},
+        {"head": "A1"},
+        {"anyone": "A1"},
+        {"know": "A1"},
+        {"how": "A1"},
+        {"handle": "B1"},
+        {"donkey": "A2"},
+        {"calm": "B1"},
+        {"down": "A2"},
+        {"want": "A1"},
+        {"help": "A1"},
+        {"run": "A1"},
+        {"into": "A1"},
+        {"woods": "A1"},
+        {"find": "A1"},
+        {"me": "A1"},
+        {"blue": "A1"},
+        {"flower": "A1"},
+        {"with": "A1"},
+        {"red": "A1"},
+        {"thorns": "A2"},
+        {"ok": "A1"},
+        {"on": "A1"},
+        {"it": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"look at that": "A1"},
+        {"Shrek's hurt": "A2"},
+        {"going to die": "B1"},
+        {"keep your legs elevated": "B1"},
+        {"turn your head": "A1"},
+        {"does anyone know how to handle": "B1"},
+        {"calm down": "A2"},
+        {"want to help": "A1"},
+        {"run into woods": "B1"},
+        {"find me a blue flower with red thorns": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"Don't die": "B1"},
+        {"get rid of": "B1"},
+        {"hold still": "B1"},
+        {"yank this thing out": "B2"},
+        {"look": "A2"}
+    ],
+    "VERBS": [
+        {"stay away from": "B1"},
+        {"get rid of": "B1"},
+        {"hold still": "B1"},
+        {"yank out": "B2"},
+        {"look": "A2"}
+    ],
+    "WORDS": [
+        {"tunnel": "B1"},
+        {"thorns": "B2"},
+        {"donkey": "B1"},
+        {"yank": "B2"},
+        {"tender": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"blue flower": "A2"},
+        {"red thorns": "B2"},
+        {"get rid of the Donkey": "B1"},
+        {"hold still": "B1"},
+        {"yank this thing out": "B2"},
+        {"look away": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"about it": "A1"}
+    ],
+    "VERBS": [
+        {"hold on": "A1"},
+        {"come": "A1"},
+        {"lose": "A1"},
+        {"be about": "A1"}
+    ],
+    "WORDS": [
+        {"ower": "A1"},
+        {"rens": "A1"},
+        {"H": "A1"},
+        {"blue": "A1"},
+        {"flower": "A1"},
+        {"red": "A1"},
+        {"thorns": "A1"},
+        {"This": "A1"},
+        {"would": "A1"},
+        {"be": "A1"},
+        {"so": "A1"},
+        {"much": "A1"},
+        {"easier": "A1"},
+        {"if": "A1"},
+        {"I": "A1"},
+        {"wasn't": "A1"},
+        {"colourblind": "A1"},
+        {"Hold": "A1"},
+        {"on": "A1"},
+        {"Shrek": "A1"},
+        {"I'm": "A1"},
+        {"coming": "A1"},
+        {"Not": "A1"},
+        {"good": "A1"},
+        {"Ok": "A1"},
+        {"can": "A1"},
+        {"lose": "A1"},
+        {"it": "A1"},
+        {"just": "A1"},
+        {"about": "A1"},
+        {"Nothing": "A1"},
+        {"happened": "A1"},
+        {"We": "A1"},
+        {"were": "A1"},
+        {"just": "A1"},
+        {"Look": "A1"},
+        {"want": "A1"},
+        {"alone": "A1"},
+        {"all": "A1"},
+        {"do": "A1"},
+        {"ask": "A1"},
+        {"Oh": "A1"},
+        {"come": "A1"},
+        {"on": "A1"},
+        {"That's": "A1"},
+        {"last": "A1"},
+        {"thing": "A1"},
+        {"mind": "A1"},
+        {"The": "A1"},
+        {"princess": "A1"},
+        {"here": "A1"},
+        {"was": "A1"},
+        {"just": "A1"},
+        {"Hey": "A1"},
+        {"what's": "A1"},
+        {"that": "A1"},
+        {"is": "A1"},
+        {"that": "A1"},
+        {"There": "A1"},
+        {"it": "A1"},
+        {"is": "A1"},
+        {"princess": "A1"},
+        {"Your": "A1"},
+        {"future": "A1"},
+        {"awaits": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"blue flower": "A1"},
+        {"red thorns": "A1"},
+        {"hold on": "A1"},
+        {"I'm coming": "A1"},
+        {"Not good": "A1"},
+        {"Ok, ok": "A1"},
+        {"lose it": "A1"},
+        {"it's just": "A1"},
+        {"about it": "A1"},
+        {"Look if": "A1"},
+        {"want to": "A1"},
+        {"be alone": "A1"},
+        {"all you": "A1"},
+        {"had to": "A1"},
+        {"do is": "A1"},
+        {"ask, ok": "A1"},
+        {"come on": "A1"},
+        {"That's the": "A1"},
+        {"last thing": "A1"},
+        {"on my": "A1"},
+        {"The princess": "A1"},
+        {"here was": "A1"},
+        {"just...": "A1"},
+        {"Hey, what's": "A1"},
+        {"that...": "A1"},
+        {"There it": "A1"},
+        {"is princess": "A1"},
+        {"Your future": "A1"},
+        {"awaits": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"compensating for something": "B1"},
+        {"look so good": "A2"},
+        {"be on your back": "A2"},
+        {"make you up": "A2"}
+    ],
+    "VERBS": [
+        {"shrink things": "B1"},
+        {"look at him": "A1"},
+        {"are you linking about": "A2"},
+        {"sit down": "A1"},
+        {"make up": "A2"}
+    ],
+    "WORDS": [
+        {"Duloc": "A2"},
+        {"compensating": "B1"},
+        {"worry": "A1"},
+        {"dunkelfarquaud": "A2"},
+        {"linking": "B1"},
+        {"awkful": "A2"},
+        {"tear": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"worry about": "A2"},
+        {"look so good": "A2"},
+        {"sit down": "A1"},
+        {"make up": "A2"},
+        {"on your back": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"won't say nothing": "A1"},
+        {"turn my neck": "B1"},
+        {"can't feel my thumbs": "B1"},
+        {"don't have any thumbs": "A1"},
+        {"need a hug": "A2"}
+    ],
+    "VERBS": [
+        {"got this twinge": "A2"},
+        {"turn my neck": "B1"},
+        {"find us": "A1"},
+        {"get the firewood": "A1"},
+        {"going": "A1"},
+        {"can't feel": "A2"},
+        {"don't have": "A1"},
+        {"guess": "A2"},
+        {"mean to brag": "B2"}
+    ],
+    "WORDS": [
+        {"twinge": "B1"},
+        {"neck": "A1"},
+        {"hungry": "A1"},
+        {"firewood": "A2"},
+        {"thumbs": "A1"},
+        {"hug": "A2"},
+        {"delicious": "A1"},
+        {"mean": "A1"},
+        {"brag": "B2"},
+        {"wheat": "A2"},
+        {"rat": "A2"},
+        {"rotisserrie": "B2"},
+        {"style": "A1"},
+        {"stews": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"won't say nothing": "A1"},
+        {"got this twinge": "A2"},
+        {"turn my neck": "B1"},
+        {"find us": "A1"},
+        {"get the firewood": "A1"},
+        {"can't feel my thumbs": "B1"},
+        {"don't have any thumbs": "A1"},
+        {"need a hug": "A2"},
+        {"this is good": "A1"},
+        {"what is this": "A1"},
+        {"no kidding": "B1"},
+        {"this is delicious": "A1"},
+        {"they also great": "A1"},
+        {"in stews": "A2"},
+        {"mean to brag": "B2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitle text:
+
+```python
+{
+    "IDIOMS": [
+        {"come visit": "A2"},
+        {"get off": "B1"}
+    ],
+    "VERBS": [
+        {"be arranging": "B1"},
+        {"come visit": "A2"},
+        {"cook all kinds": "A2"},
+        {"get off stuff": "B1"},
+        {"swamp to soup": "B1"},
+        {"look at": "A2"},
+        {"wondering": "A2"},
+        {"go eat": "A2"},
+        {"isn't this": "A2"}
+    ],
+    "WORDS": [
+        {"arranging": "B1"},
+        {"different": "A1"},
+        {"tomorrow": "A1"},
+        {"night": "A1"},
+        {"visit": "A1"},
+        {"swamp": "B2"},
+        {"cook": "A1"},
+        {"kind": "A1"},
+        {"get": "A1"},
+        {"off": "A1"},
+        {"stuff": "B1"},
+        {"swamp": "B2"},
+        {"soup": "A1"},
+        {"eye": "A1"},
+        {"tartar": "B2"},
+        {"princess": "A1"},
+        {"like": "A1"},
+        {"princess": "A1"},
+        {"wondering": "B1"},
+        {"you": "A1"},
+        {"are": "A1"},
+        {"afraid": "A1"},
+        {"dark": "A1"},
+        {"very": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"be arranging": "B1"},
+        {"little different": "A2"},
+        {"love to come": "A1"},
+        {"visit us": "A1"},
+        {"in the swamp": "B2"},
+        {"sometime": "A2"},
+        {"come cook": "A1"},
+        {"all kinds": "A2"},
+        {"get off stuff": "B1"},
+        {"swamp to soup": "B2"},
+        {"look at": "A2"},
+        {"wondering": "B1"},
+        {"are you": "A1"},
+        {"afraid of": "A1"},
+        {"the dark": "A1"}
+    ]
+}
+```To perform the linguistic analysis, I will convert the provided list of characters into a coherent text and then analyze it according to the instructions.
+
+### Coherent Text
+```
+a t's it. That's, I'm terrified. You know I'll better go inside. But don't feel bad, princess. I used to be afraid of the dark too. Get Until... Hey, no, wait. I'm
+still afraid of the dark. Good night. - Good night. Ah. Now I really see what's going on here. Oh, what are you talking about. Hey I don't wanna even hear. Look, I'm an animal and I got instincts. And I know that you two
+are digging on each other. I can feel it. Oh, you're crazy. I'm just bringing her back to Farquaad. Oh, come on, Shrek.
+```
+
+### Analysis
+```python
+{
+    "IDIOMS": [
+        {"bring back to": "B1"}
+    ],
+    "VERBS": [
+        {"used to be": "A2"},
+        {"go inside": "A1"},
+        {"don't feel": "A1"},
+        {"see what's going on": "B1"},
+        {"don't wanna even hear": "A2"},
+        {"dig on each other": "B2"}
+    ],
+    "WORDS": [
+        {"terrified": "B1"},
+        {"princess": "A1"},
+        {"afraid": "A1"},
+        {"dark": "A1"},
+        {"animal": "A1"},
+        {"instincts": "B1"},
+        {"crazy": "A2"},
+        {"bring": "A1"},
+        {"back": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"afraid of the dark": "B1"},
+        {"bring her back": "B1"},
+        {"digging on each other": "B2"}
+    ]
+}
+```Based on the provided subtitles, here is the linguistic analysis:
+
+```python
+{
+    "IDIOMS": [
+        {"wake up": "A2"}
+    ],
+    "VERBS": [
+        {"wake up": "A2"},
+        {"go in": "A2"},
+        {"tell (someone) how (you) feel": "A2"},
+        {"do (something)": "A1"},
+        {"get more": "A2"}
+    ],
+    "WORDS": [
+        {"princess": "A1"},
+        {"Ogre": "B1"},
+        {"firewood": "B1"},
+        {"spooky": "B1"},
+        {"play games": "A2"},
+        {"help": "A1"},
+        {"Shrek": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"wake up and smell": "B1"},
+        {"go in there": "A2"},
+        {"tell her how you feel": "A2"},
+        {"get more firewood": "B1"},
+        {"play little games": "A2"},
+        {"help Shrek": "B1"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"in this body": "A1"},
+    {"out of there": "A2"},
+    {"different": "A1"},
+    {"been this way": "B1"}
+  ],
+  "VERBS": [
+    {"do with": "A1"},
+    {"ate": "A1"},
+    {"hear": "A1"},
+    {"keep": "A1"},
+    {"beat you out": "B1"},
+    {"happened to": "A2"},
+    {"told": "A1"},
+    {"been thin": "B1"}
+  ],
+  "WORDS": [
+    {"princess": "A1"},
+    {"donkey": "B1"},
+    {"princess": "A1"},
+    {"body": "A1"},
+    {"my": "A1"},
+    {"god": "A2"},
+    {"ate": "A1"},
+    {"princess": "A2"},
+    {"listen": "A1"},
+    {"keep": "A1"},
+    {"beat": "A2"},
+    {"ugly": "A2"},
+    {"different": "A1"},
+    {"rats": "B1"},
+    {"idea": "A1"},
+    {"say": "A1"},
+    {"thin": "A1"},
+    {"way": "A1"},
+    {"mean": "A1"},
+    {"seen": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"do with": "A1"},
+    {"ate the princess": "A1"},
+    {"hear me": "A1"},
+    {"keep breathing": "A1"},
+    {"beat you out of there": "B1"},
+    {"happened to you": "A2"},
+    {"told Shrek": "A1"},
+    {"been thin": "B1"},
+    {"seen this": "B1"}
+  ]
+}
+```Here's the linguistic analysis of the provided text, based on the given CEFR wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"by night one way, by day another": "B2"},
+    {"find true love": "B1"},
+    {"become this": "A2"},
+    {"when my true love would rescue me": "B1"},
+    {"have to marry": "A2"}
+  ],
+  "VERBS": [
+    {"like before": "A1"},
+    {"happens when": "A1"},
+    {"goes down": "A1"},
+    {"find true": "B1"},
+    {"take love's": "B1"},
+    {"cast a spell": "B2"},
+    {"become this": "A2"},
+    {"would rescue": "A2"}
+  ],
+  "WORDS": [
+    {"sun": "A1"},
+    {"happen": "A1"},
+    {"night": "A1"},
+    {"way": "A1"},
+    {"day": "A1"},
+    {"love": "A1"},
+    {"norm": "B1"},
+    {"kiss": "A2"},
+    {"true": "A1"},
+    {"norm": "B1"},
+    {"beautiful": "A1"},
+    {"spell": "A2"},
+    {"little": "A1"},
+    {"girl": "A1"},
+    {"become": "A1"},
+    {"horrible": "A2"},
+    {"ugly": "B1"},
+    {"beast": "B2"},
+    {"placed": "B2"},
+    {"tower": "A2"},
+    {"wait": "A1"},
+    {"day": "A1"},
+    {"true": "A1"},
+    {"love": "A1"},
+    {"rescue": "B1"},
+    {"marry": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"like before": "A1"},
+    {"happens when": "A1"},
+    {"sun goes down": "A1"},
+    {"night one way": "A1"},
+    {"day another": "A1"},
+    {"find true love": "B1"},
+    {"be the norm": "B1"},
+    {"cast a spell": "B2"},
+    {"become this horrible": "B2"},
+    {"become this ugly beast": "B2"},
+    {"placed in a tower": "B2"},
+    {"wait the day": "A2"},
+    {"true love would rescue": "B1"},
+    {"have to marry": "A2"}
+  ]
+}
+```Certainly! Here's the linguistic analysis of the provided subtitles, adhering to the CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"24/7": "B2"}
+    ],
+    "VERBS": [
+        {"lie down": "B1"},
+        {"look like": "A2"},
+        {"break the spell": "B2"}
+    ],
+    "WORDS": [
+        {"ugly": "A1"},
+        {"princess": "A2"},
+        {"princess": "A2"},
+        {"donkey": "B2"},
+        {"marry": "A2"},
+        {"true": "A1"},
+        {"kiss": "A2"},
+        {"Ogre": "B2"},
+        {"common": "A1"},
+        {"Shrek": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"calm down": "B1"},
+        {"look like": "A2"},
+        {"break the spell": "B2"},
+        {"true love": "B1"},
+        {"kiss can": "B2"},
+        {"a lot in": "B1"},
+        {"got a lot": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"in trouble": "A2"}
+    ],
+    "VERBS": [
+        {"go first": "A1"},
+        {"thought of": "A2"},
+        {"don't really like": "A1"},
+        {"thought you may like": "A2"},
+        {"like you anyway": "A1"},
+        {"can't stay": "A1"},
+        {"live happily ever after": "B1"},
+        {"see": "A1"}
+    ],
+    "WORDS": [
+        {"flower": "A1"},
+        {"pretty": "A1"},
+        {"thought": "A1"},
+        {"you": "A1"},
+        {"may": "A1"},
+        {"like": "A1"},
+        {"because": "A1"},
+        {"you're": "A1"},
+        {"pretty": "A1"},
+        {"but": "A1"},
+        {"I": "A1"},
+        {"like": "A1"},
+        {"anyway": "A2"},
+        {"in": "A1"},
+        {"trouble": "A2"},
+        {"here": "A1"},
+        {"we": "A1"},
+        {"go": "A1"},
+        {"who": "A1"},
+        {"could": "A1"},
+        {"ever": "A1"},
+        {"love": "A1"},
+        {"piece": "A1"},
+        {"hideous": "B2"},
+        {"ugly": "A1"},
+        {"princess": "A1"},
+        {"ugly": "A1"},
+        {"don't": "A1"},
+        {"go": "A1"},
+        {"together": "A1"},
+        {"that's": "A2"},
+        {"why": "A1"},
+        {"can't": "A1"},
+        {"stay": "A1"},
+        {"here": "A1"},
+        {"with": "A1"},
+        {"Shrek": "B1"},
+        {"but": "A1"},
+        {"only": "A1"},
+        {"chance": "A2"},
+        {"to": "A1"},
+        {"live": "A1"},
+        {"happily": "A1"},
+        {"ever": "A1"},
+        {"after": "A1"},
+        {"is": "A1"},
+        {"to": "A1"},
+        {"marry": "A2"},
+        {"my": "A1"},
+        {"true": "A2"},
+        {"love": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"in trouble": "A2"},
+        {"go first": "A1"},
+        {"thought of": "A2"},
+        {"don't really like": "A1"},
+        {"thought you may like": "A2"},
+        {"like you anyway": "A1"},
+        {"can't stay": "A1"},
+        {"live happily ever after": "B1"},
+        {"marry my true love": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"that's": "A1"},
+        {"break the spell": "B1"},
+        {"at least": "A2"},
+        {"keep secrets": "A2"},
+        {"tell him": "A1"}
+    ],
+    "VERBS": [
+        {"break the spell": "B1"},
+        {"keep secrets": "A2"},
+        {"tell him": "A1"}
+    ],
+    "WORDS": [
+        {"that": "A1"},
+        {"it": "A1"},
+        {"how": "A1"},
+        {"only": "A2"},
+        {"way": "A1"},
+        {"break": "A1"},
+        {"spell": "A2"},
+        {"well": "A1"},
+        {"least": "A2"},
+        {"you've": "A2"},
+        {"got": "A1"},
+        {"tell": "A1"},
+        {"Shrek": "A1"},
+        {"truth": "B1"},
+        {"no": "A1"},
+        {"can't": "A1"},
+        {"breathe": "A1"},
+        {"word": "A1"},
+        {"one": "A1"},
+        {"must": "A1"},
+        {"ever": "A1"},
+        {"know": "A1"},
+        {"what's": "A2"},
+        {"point": "A1"},
+        {"being": "A2"},
+        {"unable": "B1"},
+        {"talk": "A1"},
+        {"got": "A1"},
+        {"keep": "A1"},
+        {"secrets": "B1"},
+        {"promise": "A1"},
+        {"won't": "A2"},
+        {"tul": "B2"},  # Assuming "tul" is a typo and should be "tell" (A1)
+        {"all": "A1"},
+        {"right": "A1"},
+        {"won't": "A2"},
+        {"tell": "A1"},
+        {"him": "A1"},
+        {"but": "A1"},
+        {"should": "A1"},
+        {"know": "A1"},
+        {"before": "A1"},
+        {"this": "A1"},
+        {"over": "A1"},
+        {"going": "A2"},
+        {"need": "A1"},
+        {"whole": "A1"},
+        {"lot": "A1"},
+        {"serious": "A2"},
+        {"therapies": "B1"},
+        {"look": "A1"},
+        {"eye": "A1"},
+        {"twitching": "B1"},
+        {"tell": "A1"},
+        {"not": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"that's how": "A2"},
+        {"break the spell": "B1"},
+        {"at least": "A2"},
+        {"got to": "A2"},
+        {"keep secrets": "A2"},
+        {"promise you won't": "A2"},
+        {"tell him": "A1"},
+        {"look at": "A1"},
+        {"eye twitching": "B1"},
+        {"tell him not": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"never been better": "B1"}
+    ],
+    "VERBS": [
+        {"tell him": "A1"},
+        {"want": "A1"},
+        {"have to tell": "A2"},
+        {"heard enough": "B1"},
+        {"understand": "A1"},
+        {"thought you'd understand": "B1"},
+        {"brought you": "A2"}
+    ],
+    "WORDS": [
+        {"Shrek": "B1"},
+        {"princess": "A1"},
+        {"perfect": "A1"},
+        {"hidinous": "B2"},
+        {"ugly": "A1"},
+        {"thought": "A1"},
+        {"brings": "A2"},
+        {"little": "A1"},
+        {"something": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"tell him": "A1"},
+        {"something I want": "A2"},
+        {"something to tell": "A2"},
+        {"heard enough": "B1"},
+        {"thought you'd understand": "B1"},
+        {"brought you a little": "B1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"clear out": "A2"}
+    ],
+    "VERBS": [
+        {"hand over": "B1"},
+        {"take it and go": "A2"},
+        {"change my bed": "B2"},
+        {"started me": "A2"},
+        {"saying short": "B2"},
+        {"raise good manners": "A2"}
+    ],
+    "WORDS": [
+        {"princess": "A2"},
+        {"promised": "A2"},
+        {"ogre": "B1"},
+        {"dee": "B1"},
+        {"swamp": "B1"},
+        {"agreed": "A2"},
+        {"forgive": "A2"},
+        {"starting": "A2"},
+        {"seen": "A2"},
+        {"such": "A2"},
+        {"kant": "B2"},
+        {"beware": "B2"},
+        {"lord": "B2"},
+        {"farewell": "B2"},
+        {"sweet": "A2"},
+        {"manners": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"princess fiona": "A2"},
+        {"hand it over": "B1"},
+        {"good manners": "A2"},
+        {"lord farquaad": "B2"},
+        {"feeling such": "B2"},
+        {"saying short": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"you're right": "A1"},
+        {"of course": "A2"},
+        {"I mean it": "B1"},
+        {"get married": "A2"}
+    ],
+    "VERBS": [
+        {"accept": "A2"},
+        {"start": "A1"},
+        {"wed": "B1"},
+        {"round up": "B2"}
+    ],
+    "WORDS": [
+        {"princess": "A1"},
+        {"beauty": "B1"},
+        {"flawless": "B2"},
+        {"marriage": "A2"},
+        {"perfect": "A1"},
+        {"groom": "B1"},
+        {"Lord": "A2"},
+        {"bride": "B1"},
+        {"perfect": "A1"},
+        {"sunset": "B2"},
+        {"anxious": "B2"},
+        {"sun": "A1"},
+        {"camera": "A1"},
+        {"cake": "A1"},
+        {"band": "A1"},
+        {"guests": "A1"},
+        {"captain": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"princess Fione": "A2"},
+        {"beautiful fair": "A2"},
+        {"ask your hand": "B1"},
+        {"perfect bride": "A1"},
+        {"perfect groom": "A1"},
+        {"Lord Farquaad": "A2"},
+        {"start the plans": "A2"},
+        {"get married": "A2"},
+        {"before sunset": "A1"},
+        {"round up guests": "B2"}
+    ]
+}
+```Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"get away": "A2"}
+    ],
+    "VERBS": [
+        {"talk to": "A1"},
+        {"talked to": "A1"},
+        {"want to": "A1"},
+        {"told": "A1"}
+    ],
+    "WORDS": [
+        {"Ogre": "B1"},
+        {"Shrek": "B1"},
+        {"knew": "A1"},
+        {"night": "A1"},
+        {"great": "A1"},
+        {"pal": "B2"},
+        {"aren't": "A1"},
+        {"such": "A2"},
+        {"follow": "A1"},
+        {"home": "A1"},
+        {"want": "A1"},
+        {"alone": "A2"},
+        {"swamp": "B2"},
+        {"else": "A1"},
+        {"especially": "A2"},
+        {"useless": "B2"},
+        {"annoying": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"talk to her": "A1"},
+        {"talked to her": "A1"},
+        {"want to go": "A1"},
+        {"told you": "A1"},
+        {"live alone": "A2"},
+        {"useless, annoying": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"talk of the keys": "B2"},
+        {"think of all the people": "B2"},
+        {"walleround my swamp": "B2"},
+        {"around your half": "B2"},
+        {"half the bootie": "B2"}
+    ],
+    "VERBS": [
+        {"think of": "A2"},
+        {"supposed to go": "B1"},
+        {"help rescue": "B2"},
+        {"get half the booty": "B2"}
+    ],
+    "WORDS": [
+        {"shrek": "B2"},
+        {"donkey": "A2"},
+        {"princess": "A1"},
+        {"booty": "B2"},
+        {"swamp": "B2"},
+        {"half": "A1"},
+        {"walleround": "B2"},
+        {"talking": "A1"},
+        {"old": "A1"},
+        {"big": "A1"},
+        {"rock": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"talk of the keys": "B2"},
+        {"think of all the people": "B2"},
+        {"walleround my swamp": "B2"},
+        {"around your half": "B2"},
+        {"half the bootie": "B2"},
+        {"help rescue the princess": "B2"},
+        {"get half the booty": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"let go": "B1"},
+        {"shut up": "A2"}
+    ],
+    "VERBS": [
+        {"let go": "B1"},
+        {"push away": "B1"},
+        {"treat well": "B1"}
+    ],
+    "WORDS": [
+        {"head": "A1"},
+        {"back": "A1"},
+        {"off": "A1"},
+        {"swamp": "B2"},
+        {"oaf": "B2"},
+        {"stubborn": "B2"},
+        {"jerk": "B2"},
+        {"smelly": "B2"},
+        {"ogre": "B2"},
+        {"through": "A1"},
+        {"guess": "A1"},
+        {"attention": "A1"},
+        {"insult": "B1"},
+        {"appreciate": "B1"},
+        {"around": "A1"},
+        {"away": "A1"},
+        {"always": "A1"},
+        {"pushing": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"head off": "B1"},
+        {"let go": "B1"},
+        {"pushing around": "B1"},
+        {"pushing away": "B1"},
+        {"treat well": "B1"}
+    ]
+}
+```Here is the linguistic analysis of the provided text based on the CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"wrap up in layers": "B1"},
+        {"afraid of your own feelings": "B2"}
+    ],
+    "VERBS": [
+        {"come back": "A2"},
+        {"forgive": "A2"},
+        {"give up": "B1"},
+        {"go away": "A1"},
+        {"see?": "A1"},
+        {"do it again": "A1"},
+        {"love me?": "A1"}
+    ],
+    "WORDS": [
+        {"bad": "A1"},
+        {"how": "A1"},
+        {"because": "A1"},
+        {"that's": "A1"},
+        {"what": "A1"},
+        {"friend": "A1"},
+        {"do": "A1"},
+        {"forgive": "A1"},
+        {"each": "A1"},
+        {"other": "A1"},
+        {"oh": "A1"},
+        {"yeah": "A1"},
+        {"you're": "A1"},
+        {"right": "A1"},
+        {"donkey": "A2"},
+        {"i": "A1"},
+        {"forgive": "A1"},
+        {"stabbing": "B2"},
+        {"in": "A1"},
+        {"the": "A1"},
+        {"back": "A1"},
+        {"your": "A1"},
+        {"so": "A1"},
+        {"wrapped": "B2"},
+        {"layers": "B1"},
+        {"onion": "A1"},
+        {"boy": "A1"},
+        {"you're": "A1"},
+        {"afraid": "A1"},
+        {"your": "A1"},
+        {"own": "A1"},
+        {"feelings": "A2"},
+        {"go": "A1"},
+        {"away": "A1"},
+        {"see": "A1"},
+        {"the": "A1"},
+        {"you": "A1"},
+        {"are": "A1"},
+        {"doing": "A1"},
+        {"it": "A1"},
+        {"again": "A1"},
+        {"just": "A1"},
+        {"like": "A1"},
+        {"did": "A1"},
+        {"fiona": "B2"},
+        {"and": "A1"},
+        {"all": "A1"},
+        {"ever": "A1"},
+        {"do": "A1"},
+        {"was": "A1"},
+        {"like": "A1"},
+        {"you": "A1"},
+        {"maybe": "A1"},
+        {"even": "A1"},
+        {"love": "A1"},
+        {"you": "A1"},
+        {"love": "A1"},
+        {"me": "A1"},
+        {"she": "A1"},
+        {"said": "A1"},
+        {"I": "A1"},
+        {"was": "A1"},
+        {"ugly": "A2"},
+        {"hideous": "B2"},
+        {"creature": "B2"},
+        {"I": "A1"},
+        {"heard": "A2"},
+        {"that": "A1"},
+        {"two": "A1"},
+        {"were": "A2"},
+        {"talking": "A2"},
+        {"about": "A1"},
+        {"you": "A1"},
+        {"she": "A1"},
+        {"wasn't": "A2"},
+        {"talking": "A2"},
+        {"about": "A1"},
+        {"you": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"come back": "A2"},
+        {"forgive each other": "A2"},
+        {"oh, yeah": "A1"},
+        {"right, Donkey": "A1"},
+        {"afraid of your own feelings": "B2"},
+        {"go away": "A1"},
+        {"see?": "A1"},
+        {"doing it again": "A1"},
+        {"just like you did to Fiona": "B2"},
+        {"all she ever do": "A1"},
+        {"was like you": "A1"},
+        {"maybe even love you": "A1"},
+        {"love me?": "A1"},
+        {"she said I was ugly": "A1"},
+        {"hideous creature": "B2"},
+        {"heard that you two were talking about you": "B2"},
+        {"she wasn't talking about you": "A2"}
+    ]
+}
+```
+
+This dictionary provides the requested idioms, phrasal verbs, semantically significant words, and collocations, each classified by their CEFR level.Sure, here is the linguistic analysis based on the provided data:
+
+```python
+{
+    "IDIOMS": [
+        {"that's the friends are for": "A2"}
+    ],
+    "VERBS": [
+        {"talking about": "A1"},
+        {"wasn't talking": "A1"},
+        {"listen to": "A1"},
+        {"look at": "A2"},
+        {"forgive me": "A2"}
+    ],
+    "WORDS": [
+        {"Donkey": "A2"},
+        {"ugly": "A1"},
+        {"Ogre": "B1"},
+        {"guess": "A1"},
+        {"forgive": "A2"},
+        {"stupid": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"I'm sorry": "A1"},
+        {"big ugly": "A2"},
+        {"friends are for": "A2"},
+        {"make it in time": "B1"}
+    ]
+}
+```Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"get all started": "B1"},
+    {"kissass": "B2"}
+  ],
+  "VERBS": [
+    {"get started": "B1"},
+    {"skip ahead": "B2"}
+  ],
+  "WORDS": [
+    {"fear": "A2"},
+    {"where": "A1"},
+    {"there": "A1"},
+    {"will": "A1"},
+    {"way": "A1"},
+    {"donkey": "B1"},
+    {"guess": "A1"},
+    {"just": "A1"},
+    {"act": "A2"},
+    {"magnetism": "B2"},
+    {"Oh": "A1"},
+    {"come": "A1"},
+    {"here": "A1"},
+    {"you": "A1"},
+    {"right": "A1"},
+    {"All": "A1"},
+    {"get": "A1"},
+    {"all": "A1"},
+    {"started": "B1"},
+    {"kissass": "B2"},
+    {"on": "A1"},
+    {"hold": "A2"},
+    {"tight": "A2"},
+    {"hadn't": "A2"},
+    {"chance": "A2"},
+    {"install": "B2"},
+    {"seat belts": "A2"},
+    {"People": "A1"},
+    {"Duloc": "B2"},
+    {"gather": "B1"},
+    {"today": "A1"},
+    {"bear": "A2"},
+    {"witness": "B2"},
+    {"reunion": "B2"},
+    {"new": "A1"},
+    {"king": "A2"},
+    {"excuse": "A1"},
+    {"Could": "A1"},
+    {"just": "A1"},
+    {"skip": "B2"},
+    {"head": "A1"},
+    {"do's": "B2"},
+    {"Go": "A1"},
+    {"ahead": "B1"},
+    {"have": "A1"},
+    {"fun": "A1"},
+    {"need": "A1"},
+    {"I'll": "A1"},
+    {"whistle": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"fear there": "B1"},
+    {"there is": "A1"},
+    {"have I": "A1"},
+    {"act of": "B2"},
+    {"Come here": "A1"},
+    {"hold on": "A1"},
+    {"tight kiss": "B2"},
+    {"gather here": "B1"},
+    {"bear witness": "B2"},
+    {"new king": "B2"},
+    {"Could just": "A1"},
+    {"skip ahead": "B2"},
+    {"Go ahead": "B1"},
+    {"have fun": "A1"}
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"wait a minute": "A1"},
+        {"hold your peace": "B1"}
+    ],
+    "VERBS": [
+        {"wait for": "A1"},
+        {"hold your peace": "B1"},
+        {"try to": "A2"}
+    ],
+    "WORDS": [
+        {"object": "A2"},
+        {"peace": "A1"},
+        {"tender": "B1"},
+        {"chicks": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"wait a minute": "A1"},
+        {"hold your peace": "B1"},
+        {"speak now or forever hold your peace": "B1"},
+        {"try to": "A2"},
+        {"chicks love": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"in love": "A2"}
+    ],
+    "VERBS": [
+        {"cut out": "A2"},
+        {"check out": "A2"},
+        {"go to": "A1"}
+    ],
+    "WORDS": [
+        {"romantic": "B1"},
+        {"pronounce": "A2"},
+        {"screw": "B2"},
+        {"rude": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"in love": "A2"},
+        {"having a good time": "A2"},
+        {"being alive": "A2"},
+        {"showing up": "A2"},
+        {"uninvited to": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"outrageous": "B2"}
+    ],
+    "VERBS": [
+        {"talk to": "A1"},
+        {"excuse me": "A1"},
+        {"listen to": "A1"},
+        {"fall in love": "B1"}
+    ],
+    "WORDS": [
+        {"Fiona": "B1"},
+        {"now": "A1"},
+        {"late": "A1"},
+        {"excuse": "A2"},
+        {"marry": "A1"},
+        {"because": "A1"},
+        {"just": "A1"},
+        {"king": "A2"},
+        {"outrageous": "B2"},
+        {"true": "A1"},
+        {"precious": "B1"},
+        {"Ogre": "B2"},
+        {"fallen": "B2"},
+        {"princess": "B2"},
+        {"laugh": "A1"},
+        {"Shrek": "B2"},
+        {"cares": "A1"},
+        {"preposterous": "B2"},
+        {"kiss": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"a little late": "A1"},
+        {"excuse me": "A1"},
+        {"talk to you": "A1"},
+        {"listen to him": "A1"},
+        {"fallen in love": "B1"},
+        {"gone to kiss": "B2"}
+    ]
+}
+```Certainly! Here is the linguistic analysis of the provided subtitles, structured as requested:
+
+```python
+{
+    "IDIOMS": [
+        {"by night, by day": "B1"}
+    ],
+    "VERBS": [
+        {"get them out of my sight": "B1"},
+        {"get them": "A2"},
+        {"get out of my way": "B1"}
+    ],
+    "WORDS": [
+        {"disgusting": "B1"},
+        {"guard": "B1"},
+        {"mind": "A1"},
+        {"king": "A2"},
+        {"standing": "B1"},
+        {"locked": "B1"},
+        {"rest": "A1"},
+        {"lady": "A2"},
+        {" Remaining days": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"happily ever after": "B1"},
+        {"show you before": "A2"},
+        {"lot explains": "A1"},
+        {"get them out of my sight": "B1"},
+        {"get them": "A2"},
+        {"get out of my way": "B1"},
+        {"have you locked back": "B1"}
+    ]
+}
+```
+
+Note: The collocations and words are based on the context provided in the subtitles. The idioms and phrasal verbs are identified and classified according to their CEFR levels.Here is the linguistic analysis based on the provided text and the CEFR-based wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"have order": "B1"},
+    {"have potential": "B2"},
+    {"have drag": "B2"},
+    {"true love's first kiss": "B2"}
+  ],
+  "VERBS": [
+    {"will have": "A2"},
+    {"will have potential": "B2"},
+    {"will have": "A2"},
+    {"move": "A2"},
+    {"use": "A1"},
+    {"use": "A1"},
+    {"go head": "B1"},
+    {"last": "A2"},
+    {"be afraid": "A1"},
+    {"be afraid": "A1"},
+    {"love": "A1"},
+    {"love": "A1"},
+    {"really": "A1"},
+    {"really, really": "A2"},
+    {"love too": "A2"},
+    {"kiss": "A2"},
+    {"suppose": "A2"},
+    {"be supposed to": "B1"},
+    {"hope": "A1"}
+  ],
+  "WORDS": [
+    {"have": "A1"},
+    {"order": "A2"},
+    {"will": "A1"},
+    {"potential": "B1"},
+    {"right": "A1"},
+    {"nobody": "A1"},
+    {"move": "A1"},
+    {"right": "A1"},
+    {"dragon": "B2"},
+    {"here": "A1"},
+    {"not": "A1"},
+    {"afraid": "A1"},
+    {"use": "A1"},
+    {"it": "A1"},
+    {"donkey": "B2"},
+    {"edge": "B1"},
+    {"telebrity": "B2"},
+    {"marriages": "B2"},
+    {"never": "A1"},
+    {"last": "A2"},
+    {"do": "A1"},
+    {"they": "A1"},
+    {"go": "A1"},
+    {"head": "A1"},
+    {"shrek": "B2"},
+    {"fiona": "B2"},
+    {"yes": "A1"},
+    {"shrek": "B2"},
+    {"love": "A1"},
+    {"you": "A1"},
+    {"really": "A1"},
+    {"really, really": "A2"},
+    {"love": "A1"},
+    {"too": "A1"},
+    {"time": "A1"},
+    {"true": "A2"},
+    {"love": "A1"},
+    {"first": "A1"},
+    {"kiss": "A2"},
+    {"fiona": "B2"},
+    {"fiona": "B2"},
+    {"right": "A1"},
+    {"yes": "A1"},
+    {"but": "A1"},
+    {"do": "A1"},
+    {"not": "A1"},
+    {"understand": "A1"},
+    {"supposed": "B1"},
+    {"be": "A1"},
+    {"beautiful": "A1"},
+    {"but": "A1"},
+    {"are": "A1"},
+    {"beautiful": "A1"},
+    {"hoping": "B1"},
+    {"happy": "A1"},
+    {"ending": "A2"},
+    {"god": "A2"},
+    {"bless": "B2"},
+    {"us": "A1"}
+  ],
+  "COLLOCATIONS": [
+    {"have order": "B1"},
+    {"have potential": "B2"},
+    {"nobody move": "A2"},
+    {"drag on": "B2"},
+    {"afraid to": "A1"},
+    {"donkey on": "B2"},
+    {"telebrity marriages": "B2"},
+    {"never last": "A2"},
+    {"last, do they": "A2"},
+    {"go head": "B1"},
+    {"shrek?": "B2"},
+    {"fiona?": "B2"},
+    {"yes, shrek": "B2"},
+    {"love you": "A1"},
+    {"really?": "A1"},
+    {"really, really": "A2"},
+    {"love you too": "A1"},
+    {"true love's first kiss": "B2"},
+    {"fiona?": "B2"},
+    {"fiona?": "B2"},
+    {"right?": "A1"},
+    {"yes": "A1"},
+    {"understand": "A1"},
+    {"supposed to": "B1"},
+    {"be beautiful": "A1"},
+    {"are beautiful": "A1"},
+    {"happy ending": "A2"},
+    {"god bless us": "B2"}
+  ]
+}
+```

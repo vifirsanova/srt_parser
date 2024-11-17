@@ -1,0 +1,5259 @@
+```python
+{
+  "IDIOMS": [
+    {"still has trust issues": "B1"}
+  ],
+  "VERBS": [
+    {"written a word": "A2"},
+    {"read my writing": "A1"},
+    {"wrote down": "A2"},
+    {"mean what": "A1"},
+    {"happen to": "A1"},
+    {"happens to": "A1"},
+    {"go to Waterloo": "A2"},
+    {"get a cab": "A2"}
+  ],
+  "WORDS": [
+    {"blog": "A1"},
+    {"good": "A1"},
+    {"very": "A1"},
+    {"written": "B1"},
+    {"word": "A1"},
+    {"you": "A1"},
+    {"just": "A1"},
+    {"trust": "B1"},
+    {"issues": "B1"},
+    {"read": "A1"},
+    {"my": "A1"},
+    {"writing": "A1"},
+    {"upside": "B1"},
+    {"down": "A1"},
+    {"see": "A1"},
+    {"mean": "A1"},
+    {"solder": "B2"},
+    {"it's": "A1"},
+    {"going": "A1"},
+    {"to": "A1"},
+    {"adjust": "B1"},
+    {"civilian": "B2"},
+    {"life": "A1"},
+    {"blog": "A1"},
+    {"about": "A1"},
+    {"everything": "A1"},
+    {"that": "A1"},
+    {"happens": "A1"},
+    {"will": "A1"},
+    {"honestly": "B1"},
+    {"help": "A1"},
+    {"nothing": "A1"},
+    {"What": "A1"},
+    {"do": "A1"},
+    {"you": "A1"},
+    {"mean": "A1"},
+    {"there's": "A1"},
+    {"no": "A1"},
+    {"rude": "A1"},
+    {"car": "A1"},
+    {"He": "A1"},
+    {"went": "A1"},
+    {"to": "A1"},
+    {"Waterloo": "B2"},
+    {"I'm": "A1"},
+    {"sorry": "A1"},
+    {"Get": "A1"},
+    {"a": "A1"},
+    {"cab": "A1"}
+  ],
+  "COLLOCATIONS": [
+    {"still has trust issues": "B1"},
+    {"written a word": "A2"},
+    {"read my writing": "A1"},
+    {"write down": "A2"},
+    {"mean what": "A1"},
+    {"happen to me": "A1"},
+    {"happens to you": "A1"},
+    {"go to Waterlo": "A2"},
+    {"get a cab": "A2"},
+    {"love you": "A1"},
+    {"When?": "A1"},
+    {"never get cabs": "A2"}
+  ]
+}
+```Here is the linguistic analysis of the provided subtitle data:
+
+```python
+{
+  "IDIOMS": [
+    {"a happy man": "A1"},
+    {"take his own life": "B2"},
+    {"a shock to all who knew him": "B1"}
+  ],
+  "VERBS": [
+    {"lived life to the full": "B2"},
+    {"should have": "A2"},
+    {"take his own life": "B2"},
+    {"going home": "A1"},
+    {"get my umbrella": "A2"},
+    {"share mine": "A1"},
+    {"still dancing": "A1"},
+    {"call it that": "A2"},
+    {"get the car keys off her": "B1"},
+    {"got them out of her bag": "B1"}
+  ],
+  "WORDS": [
+    {"mystery": "B1"},
+    {"shock": "B1"},
+    {"taxi": "A1"},
+    {"matte": "B2"},
+    {"home": "A1"},
+    {"umbrella": "A1"},
+    {"dance": "A1"},
+    {"call": "A1"},
+    {"car": "A1"},
+    {"key": "A1"},
+    {"bag": "A1"},
+    {"body": "A1"},
+    {"Bex Davenport": "B2"},
+    {"Junior Minister": "B2"},
+    {"Transport": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"happy man": "A1"},
+    {"lived life to the full": "B2"},
+    {"take his own life": "B2"},
+    {"shock to all who knew him": "B1"},
+    {"taxi, mate": "A1"},
+    {"going home": "A1"},
+    {"get my umbrella": "A2"},
+    {"share mine": "A1"},
+    {"still dancing": "A1"},
+    {"call it that": "A2"},
+    {"get the car keys off her": "B1"},
+    {"got them out of her bag": "B1"},
+    {"body of Bex Davenport": "B2"},
+    {"Junior Minister for Transport": "B2"}
+  ]
+}
+``````python
+IDIOMS
+: [
+    {"suiсide": "B2"}
+]
+
+VERBS
+: [
+    {"found": "A1"},
+    {"suggest": "A2"},
+    {"confirm": "B1"},
+    {"remember": "A1"},
+    {"treat": "A1"},
+    {"being": "A2"},
+    {"take": "A1"}
+]
+
+WORDS
+: [
+    {"night": "A1"},
+    {"building": "A1"},
+    {"site": "B1"},
+    {"Greater": "B2"},
+    {"London": "A2"},
+    {"preliminary": "B2"},
+    {"investigation": "A2"},
+    {"suggest": "A2"},
+    {"suicide": "B2"},
+    {"apparent": "B2"},
+    {"closely": "B2"},
+    {"resemble": "B2"},
+    {"Jeffrey": "B2"},
+    {"Patterson": "B2"},
+    {"James": "B2"},
+    {"Phillimore": "B2"},
+    {"linked": "B2"},
+    {"treated": "B2"},
+    {"ongoing": "B2"},
+    {"Detective": "B2"},
+    {"Inspector": "B2"},
+    {"questions": "A1"},
+    {"poison": "A2"}
+]
+
+COLLOCATIONS
+: [
+    {"last night": "A1"},
+    {"building site": "A2"},
+    {"Greater London": "B2"},
+    {"preliminary investigation": "B2"},
+    {"apparent suicide": "B2"},
+    {"closely resemble": "B2"},
+    {"Sir Jeffrey Patterson": "B2"},
+    {"James Phillimore": "B2"},
+    {"linked incidents": "B2"},
+    {"ongoing investigation": "B2"},
+    {"Detective Inspector": "B2"},
+    {"take questions": "A1"},
+    {"same poison": "B2"}
+]
+```Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"have no reason to": "B1"},
+    {"look for": "A2"},
+    {"bring to an end": "B1"}
+  ],
+  "VERBS": [
+    {"have shown": "A2"},
+    {"looking for": "A2"},
+    {"bring to": "B1"},
+    {"ignore": "B1"}
+  ],
+  "WORDS": [
+    {"found": "B1"},
+    {"reason": "A2"},
+    {"indication": "B2"},
+    {"serious": "A2"},
+    {"suicide": "B2"},
+    {"text": "A1"},
+    {"ignore": "B1"},
+    {"session": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"have shown": "A2"},
+    {"no reason to": "B1"},
+    {"have serious": "A2"},
+    {"looking for": "A2"},
+    {"bring to an end": "B1"},
+    {"ignore them": "B1"}
+  ]
+}
+``````
+IDIOMS
+: [{ 'link': 'A2' }]
+VERBS
+: [{ 'investigating': 'B1' }]
+WORDS
+: [{ 'suicide': 'B2' }, { 'unusual': 'A2' }, { 'investigating': 'B1' }, { 'best': 'A1' }, { 'people': 'A1' }, { 'clearly': 'A2' }, { 'linked': 'B1' }, { 'situation': 'A2' }, { 've': 'A1' }, { 'wrong': 'A1' }, { 'chance': 'A2' }, { 'murders': 'B1' }, { 'serial': 'B2' }, { 'killer': 'B2' }, { 'difference': 'A1' }, { 'administered': 'B2' }, { 'safely': 'A2' }, { 'commit': 'B1' }]
+COLLOCATIONS
+: [{ 'suicide linked': 'B2' }, { 'investigating best': 'B1' }, { 'clearly linked': 'A2' }, { 'unusual situation': 'A2' }, { 'best people': 'A1' }, { 'wrong again': 'A1' }, { 'chance murders': 'B1' }, { 'serial killer': 'B2' }, { 'poison administered': 'B2' }, { 'keeping safe': 'A2' }, { 'commit suicide': 'B1' }]
+``````python
+{
+  "IDIOMS": [
+    {"a load of rubbish": "A2"},
+    {"make someone look like an idiot": "B1"}
+  ],
+  "VERBS": [
+    {"stop doing": "A2"},
+    {"make like": "B1"},
+    {"tell me": "A1"},
+    {"get shot": "B1"}
+  ],
+  "WORDS": [
+    {"arranging": "A2"},
+    {"reasonable": "B1"},
+    {"precautions": "B2"},
+    {"exercises": "A1"},
+    {"safe": "A1"},
+    {"mobile": "A2"},
+    {"phones": "A1"},
+    {"buzz": "A2"},
+    {"doing": "A2"},
+    {"like": "A1"},
+    {"idiot": "B1"},
+    {"abroad": "A2"},
+    {"shot": "B1"},
+    {"happened": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"arranging time": "A2"},
+    {"do exercises": "A1"},
+    {"safe as": "A1"},
+    {"mobile phones": "A2"},
+    {"get shot": "B1"},
+    {"happened to": "A2"}
+  ]
+}
+```Here is the linguistic analysis of the provided subtitles based on the CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"get yourself sorted": "B1"}
+    ],
+    "VERBS": [
+        {"get up": "A1"},
+        {"get yourself": "B1"},
+        {"stay in": "A2"},
+        {"sort out": "B1"}
+    ],
+    "WORDS": [
+        {"till": "A1"},
+        {"bright": "A2"},
+        {"young": "A1"},
+        {"things": "A1"},
+        {"used": "A2"},
+        {"to": "A1"},
+        {"God": "A2"},
+        {"hate": "A1"},
+        {"them": "A1"},
+        {"about": "A1"},
+        {"getting": "A2"},
+        {"sorted": "B1"},
+        {"can't": "A1"},
+        {"afford": "B1"},
+        {"Army": "A2"},
+        {"pension": "B2"},
+        {"bear": "A2"},
+        {"anywhere": "A2"},
+        {"else": "A1"},
+        {"That's": "A1"},
+        {"not": "A1"},
+        {"John": "A1"},
+        {"Watson": "B2"},
+        {"Harry": "A1"},
+        {"help": "A1"},
+        {"going": "A2"},
+        {"to": "A1"},
+        {"happen": "A1"},
+        {"don't": "A1"},
+        {"know": "A1"},
+        {"get": "A1"},
+        {"flat": "A1"},
+        {"share": "A1"},
+        {"want": "A1"},
+        {"mate": "B2"},
+        {"second": "A1"},
+        {"person": "A1"},
+        {"say": "A1"},
+        {"today": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"get yourself sorted": "B1"},
+        {"stay in town": "A2"},
+        {"afford London": "B1"},
+        {"Army pension": "B2"},
+        {"get up": "A1"},
+        {"sort out": "B1"}
+    ]
+}
+``````python
+data = "first? How fresh? Just in. 67, natural causes. Used to work here. I knew him, he was nice. Fine. We'll start with the riding crop. So, bad day was it? I need to know what bruises form in the next 20 minutes. A man’s alibi depends on it. Text me. Listen, I was wondering. Maybe later, when you're finished... You're wearing lipstick. You weren't wearing lipstick before. I refreshed it a bit. Sorry, you were saying? I was wondering if you'd like to have coffee? Black, two sugars, please. I'll be up."
+
+# Perform the analysis
+result = {
+    "IDIOMS": [],
+    "VERBS": [],
+    "WORDS": [],
+    "COLLOCATIONS": []
+}
+
+# Idioms
+idioms = {
+    "natural causes": "B1",
+    "I was wondering": "A2",
+    "I'll be up": "A2"
+}
+
+for idiom, level in idioms.items():
+    if idiom in data:
+        result["IDIOMS"].append({idiom: level})
+
+# Phrasal Verbs
+phrasal_verbs = {
+    "used to": "A2",
+    "I need to": "A1",
+    "wondering": "A2",
+    "wearing": "A1",
+    "I refreshed it": "B1",
+    "I'll be up": "A2"
+}
+
+for verb, level in phrasal_verbs.items():
+    if verb in data:
+        result["VERBS"].append({verb: level})
+
+# Semantically Significant Words
+significant_words = {
+    "first": "A1",
+    "fresh": "A2",
+    "natural": "A2",
+    "causes": "A2",
+    "work": "A1",
+    "knew": "A2",
+    "nice": "A1",
+    "fine": "A1",
+    "start": "A1",
+    "riding": "B1",
+    "crop": "B1",
+    "bad": "A1",
+    "day": "A1",
+    "need": "A1",
+    "bruises": "B1",
+    "form": "A1",
+    "minutes": "A1",
+    "man": "A1",
+    "alibi": "B1",
+    "depends": "B1",
+    "text": "A1",
+    "refreshed": "B1",
+    "wondering": "A2",
+    "wearing": "A1",
+    "lipstick": "B1",
+    "coffee": "A1",
+    "black": "A1",
+    "sugars": "A1"
+}
+
+for word, level in significant_words.items():
+    if word in data:
+        result["WORDS"].append({word: level})
+
+# Collocations
+collocations = {
+    "natural causes": "B1",
+    "knew him": "A2",
+    "riding crop": "B1",
+    "bruises form": "B1",
+    "alibi depends": "B1",
+    "wearing lipstick": "B1",
+    "refreshed it": "B1",
+    "wondering if": "A2",
+    "like to": "A1",
+    "black, two sugars": "A1"
+}
+
+for collocation, level in collocations.items():
+    if collocation in data:
+        result["COLLOCATIONS"].append({collocation: level})
+
+result
+```
+
+The result of the linguistic analysis is:
+
+```python
+{
+    "IDIOMS": [
+        {"natural causes": "B1"},
+        {"I was wondering": "A2"},
+        {"I'll be up": "A2"}
+    ],
+    "VERBS": [
+        {"used to": "A2"},
+        {"I need to": "A1"},
+        {"wondering": "A2"},
+        {"wearing": "A1"},
+        {"I refreshed it": "B1"},
+        {"I'll be up": "A2"}
+    ],
+    "WORDS": [
+        {"first": "A1"},
+        {"fresh": "A2"},
+        {"natural": "A2"},
+        {"causes": "A2"},
+        {"work": "A1"},
+        {"knew": "A2"},
+        {"nice": "A1"},
+        {"fine": "A1"},
+        {"start": "A1"},
+        {"riding": "B1"},
+        {"crop": "B1"},
+        {"bad": "A1"},
+        {"day": "A1"},
+        {"need": "A1"},
+        {"bruises": "B1"},
+        {"form": "A1"},
+        {"minutes": "A1"},
+        {"man": "A1"},
+        {"alibi": "B1"},
+        {"depends": "B1"},
+        {"text": "A1"},
+        {"refreshed": "B1"},
+        {"wondering": "A2"},
+        {"wearing": "A1"},
+        {"lipstick": "B1"},
+        {"coffee": "A1"},
+        {"black": "A1"},
+        {"sugars": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"natural causes": "B1"},
+        {"knew him": "A2"},
+        {"riding crop": "B1"},
+        {"bruises form": "B1"},
+        {"alibi depends": "B1"},
+        {"wearing lipstick": "B1"},
+        {"refreshed it": "B1"},
+        {"wondering if": "A2"},
+        {"like to": "A1"},
+        {"black, two sugars": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"no idea": "A1"},
+        {"in my coat": "A2"}
+    ],
+    "VERBS": [
+        {"knock on": "A1"},
+        {"borrow": "A1"},
+        {"use": "A1"},
+        {"know": "A1"},
+        {"text": "A1"},
+        {"prefer to": "A2"}
+    ],
+    "WORDS": [
+        {"OK": "A1"},
+        {"different": "A1"},
+        {"day": "A1"},
+        {"phone": "A1"},
+        {"signal": "A1"},
+        {"wrong": "A1"},
+        {"coat": "A1"},
+        {"text": "A1"},
+        {"friend": "A1"},
+        {"Afghanistan": "B1"},
+        {"Iraq": "B1"},
+        {"coffee": "A1"},
+        {"lips": "A2"},
+        {"working": "A2"},
+        {"improvement": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"knock on door": "A1"},
+        {"no idea": "A1"},
+        {"borrow phone": "A1"},
+        {"signal on mine": "A1"},
+        {"wrong with": "A1"},
+        {"prefer to text": "A2"},
+        {"in my coat": "A2"},
+        {"use mine": "A1"},
+        {"old friend": "A1"},
+        {"Afghanistan or Iraq": "B1"},
+        {"lips stick": "A2"}
+    ]
+}
+``````
+IDIOMS
+: [{}]
+VERBS
+: [{play the violin: A2}, {talk for days: A2}, {find a flatmate: A1}]
+WORDS
+: [{mouth: A1}, {small: A1}, {OK: A1}, {violin: A1}, {sorry: A1}, {play: A1}, {thinking: A2}, {sometimes: A1}, {don't: A1}, {day: A1}, {on: A1}, {end: A1}, {would: A1}, {bother: B1}, {potential: B2}, {flatmates: A2}, {worst: A1}, {each: A1}, {other: A1}, {told: A1}, {about: A1}, {word: A1}, {did: A1}, {morning: A1}, {must: A1}, {difficult: A1}, {lunch: A1}, {old: A1}, {friend: A1}, {clearly: A2}, {home: A1}, {military: B2}, {service: A1}, {Afghanistan: B1}]
+COLLOCATIONS
+: [{mouth's too small: A1}, {play the violin: A2}, {thinking and sometimes: A2}, {talk for days: A2}, {don't talk: A1}, {for days: A1}, {flatmates should know: A2}, {worst about: A1}, {told him about: A1}, {old friend: A1}, {military service: B2}]
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"wasn't a difficult leap": "B1"}
+    ],
+    "VERBS": [
+        {"get to be able to afford it": "B1"},
+        {"met and were going to go and look at a flat": "B1"},
+        {"don't know where we're meeting": "A2"},
+        {"don't even know your name": "A1"}
+    ],
+    "WORDS": [
+        {"arrangement": "A2"},
+        {"difficult": "A1"},
+        {"leap": "B1"},
+        {"know": "A1"},
+        {"about": "A1"},
+        {"Afghanistan": "B1"},
+        {"got my eye on": "B1"},
+        {"place": "A1"},
+        {"central": "B1"},
+        {"London": "B1"},
+        {"afford": "B1"},
+        {"meet": "A1"},
+        {"tomorrow": "A1"},
+        {"evening": "A1"},
+        {"seven": "A1"},
+        {"o'clock": "A1"},
+        {"sorry": "A1"},
+        {"left": "A1"},
+        {"riding": "B1"},
+        {"crop": "B2"},
+        {"morgue": "B2"},
+        {"knowing": "B1"},
+        {"going": "A1"},
+        {"flat": "A1"},
+        {"problem": "A1"},
+        {"don't": "A1"},
+        {"knowing": "B1"},
+        {"each": "A1"},
+        {"other": "A1"},
+        {"meeting": "A1"},
+        {"name": "A1"},
+        {"Army": "A2"},
+        {"doctor": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"wasn't a difficult leap": "B1"},
+        {"got my eye on": "B1"},
+        {"central London": "B1"},
+        {"afford it": "B1"},
+        {"met there": "A2"},
+        {"seven o'clock": "A1"},
+        {"left riding": "B1"},
+        {"morgue": "B2"},
+        {"don't know where": "A2"},
+        {"don't even know": "A1"},
+        {"Army doctor": "A2"}
+    ]
+}
+```Certainly! Here's the linguistic analysis of the provided subtitles based on the given CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"gotten a brother worried about you but you won't go to him for help": "B1"},
+        {"don't approve of": "B1"}
+    ],
+    "VERBS": [
+        {"invaled": "B2"},
+        {"worry about": "A2"},
+        {"go to": "A1"},
+        {"get": "A1"},
+        {"don't go": "A1"},
+        {"approve of": "B1"}
+    ],
+    "WORDS": [
+        {"invalided": "B2"},
+        {"home": "A1"},
+        {"Afghanistan": "B2"},
+        {"brother": "A1"},
+        {"worried": "A2"},
+        {"help": "A1"},
+        {" approval": "B1"},
+        {"alcoholic": "B1"},
+        {"likely": "A2"},
+        {"recently": "A2"},
+        {"wed": "B1"},
+        {"out": "A1"},
+        {"wife": "A1"},
+        {"therapist": "B1"},
+        {"thinks": "A1"},
+        {"limp": "B1"},
+        {"correctly": "A2"},
+        {"afraid": "A1"},
+        {"going on": "B1"},
+        {"Sherlock Holmes": "B1"},
+        {"address": "A1"},
+        {"Baker Street": "B1"},
+        {"always": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"go to him for help": "B1"},
+        {"don't approve of": "B1"},
+        {"recently wed": "B2"},
+        {"out on his wife": "B2"},
+        {"thinks your limp": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"a few years back": "A2"},
+        {"got himself sent to death": "B2"}
+    ],
+    "VERBS": [
+        {"help out": "A2"},
+        {"opposed her husband being executed": "B2"}
+    ],
+    "WORDS": [
+        {"Sherlock": "A1"},
+        {"prime": "B1"},
+        {"spot": "A2"},
+        {"expensive": "A1"},
+        {"lady": "A2"},
+        {"particular": "A2"},
+        {"owed": "B2"},
+        {"tense": "B2"},
+        {"ability": "A2"},
+        {"husband": "A1"},
+        {"Florida": "B1"},
+        {"sorry": "A1"},
+        {"opposed": "B2"},
+        {"ensure": "B2"},
+        {"executed": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"prime spot": "B1"},
+        {"expensive deal": "A1"},
+        {"particular deal": "A2"},
+        {"opposed her husband": "B2"},
+        {"husband being executed": "B2"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"get all this rubbish cleaned out": "B1"},
+    {"There's all sorts round here": "B1"}
+  ],
+  "VERBS": [
+    {"went straight ahead": "A1"},
+    {"moved in": "A2"},
+    {"cleaned out": "B1"},
+    {"straighten things up": "B1"},
+    {"not worry": "A1"}
+  ],
+  "WORDS": [
+    {"rubbish": "B1"},
+    {"obviously": "B1"},
+    {"straighten": "B1"},
+    {"skull": "B1"},
+    {"friend": "A1"},
+    {"another": "A1"},
+    {"bedroom": "A1"},
+    {"upstairs": "A1"},
+    {"worry": "A1"},
+    {"sort": "A2"},
+    {"married": "A1"},
+    {"turned": "A1"},
+    {"mess": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"straight ahead": "A2"},
+    {"cleaned out": "B1"},
+    {"straighten things": "B1"},
+    {"bedroom upstairs": "A2"},
+    {"all sorts": "B1"},
+    {"don't worry": "A1"}
+  ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"right up": "B1"}
+  ],
+  "VERBS": [
+    {"get said": "A2"},
+    {"read your": "B1"},
+    {"can read": "A1"},
+    {"could identify": "B1"},
+    {"t by": "B2"},
+    {"t by": "B2"},
+    {"t by": "B2"}
+  ],
+  "WORDS": [
+    {"up": "A1"},
+    {"interest": "A2"},
+    {"website": "A1"},
+    {"science": "A1"},
+    {"deduction": "B2"},
+    {"think": "A1"},
+    {"software": "B1"},
+    {"designer": "A2"},
+    {"tie": "A1"},
+    {"airline": "A2"},
+    {"thumb": "A2"},
+    {"yes": "A1"},
+    {"career": "A1"},
+    {"military": "B2"},
+    {"face": "A1"},
+    {"leg": "A1"},
+    {"habit": "A2"},
+    {"mobile": "A2"},
+    {"phone": "A1"},
+    {"suicide": "B2"},
+    {"Sherlock": "B2"},
+    {"street": "A1"}
+  ],
+  "COLLOCATIONS": [
+    {"last night": "A2"},
+    {"love of": "B1"},
+    {"identify a": "B2"},
+    {"by his": "A2"},
+    {"by his": "A2"},
+    {"by his": "A2"},
+    {"your military": "B2"},
+    {"in your": "A1"},
+    {"drinking habits": "B2"},
+    {"on your": "A1"},
+    {"right up": "B1"},
+    {"your street": "A1"}
+  ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"make a note": "A1"},
+    {"come to": "A2"},
+    {"get otherwisely": "B1"}
+  ],
+  "VERBS": [
+    {"come to": "A2"},
+    {"work with": "A2"},
+    {"be behind": "A1"},
+    {"be late": "A1"}
+  ],
+  "WORDS": [
+    {"arrangement": "A2"},
+    {"notes": "A1"},
+    {"assistant": "A2"},
+    {"police": "A1"},
+    {"car": "A1"},
+    {"behind": "A1"},
+    {"Christmas": "A1"},
+    {"Mrs": "A1"},
+    {"late": "A1"}
+  ],
+  "COLLOCATIONS": [
+    {"make a note": "A1"},
+    {"come to": "A2"},
+    {"work with": "A2"},
+    {"be behind": "A1"},
+    {"be late": "A1"}
+  ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"sitting-down type": "B1"}
+    ],
+    "VERBS": [
+        {"need": "A1"},
+        {"make": "A1"},
+        {"dash about": "B1"},
+        {"look at": "A1"},
+        {"tell": "A1"},
+        {"make": "A1"},
+        {"rest": "A1"}
+    ],
+    "WORDS": [
+        {"landlady": "B1"},
+        {"housekeeper": "B1"},
+        {"cold": "A1"},
+        {"cup": "A1"},
+        {"tea": "A1"},
+        {"home": "A1"},
+        {"wait": "A1"},
+        {"dashing": "B1"},
+        {"husband": "A1"},
+        {"same": "A1"},
+        {"legs": "A1"},
+        {"sorry": "A1"},
+        {"understand": "A1"},
+        {"dear": "A1"},
+        {"hip": "B1"},
+        {"lovely": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"need some food": "A2"},
+        {"your lady": "A1"},
+        {"cold will do": "A2"},
+        {"cup of tea": "A1"},
+        {"make yourself": "A2"},
+        {"don't wait up": "A2"},
+        {"look at him": "A1"},
+        {"husband was just": "B1"},
+        {"sitting-down type": "B1"},
+        {"make that cappuccino": "A2"},
+        {"rest your leg": "A1"},
+        {"cup of tea'd be": "A2"},
+        {"understand dear": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitle text:
+
+```python
+{
+  "IDIOMS": [
+    {"none": "A1"}
+  ],
+  "VERBS": [
+    {"keep up": "A2"},
+    {"see to": "A2"},
+    {"skip over": "B1"},
+    {"sit at": "A1"}
+  ],
+  "WORDS": [
+    {"doctor": "A1"},
+    {"Army": "A2"},
+    {"injuries": "A2"},
+    {"violent": "B1"},
+    {"deaths": "A1"},
+    {"trouble": "A1"},
+    {"lifetime": "B1"},
+    {"suicide": "B1"},
+    {"point": "A1"},
+    {"fun": "A1"}
+  ],
+  "COLLOCATIONS": [
+    {"Army doctor": "B1"},
+    {"violent deaths": "B1"},
+    {"skip the tea": "B1"},
+    {"point sitting": "B1"},
+    {"something fun": "A2"}
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"love it": "A1"}
+    ],
+    "VERBS": [
+        {"care about": "A2"},
+        {"go on": "A1"},
+        {"get going": "A1"},
+        {"go to": "A1"},
+        {"do you think": "A1"},
+        {"go to": "A1"},
+        {"go out": "A2"}
+    ],
+    "WORDS": [
+        {"private": "B1"},
+        {"detective": "A2"},
+        {"police": "A1"},
+        {"consulting": "B2"},
+        {"depth": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"private detective": "B1"},
+        {"consulting detective": "B2"},
+        {"police depth": "B2"}
+    ]
+}
+```Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"look surprised": "A2"}
+    ],
+    "VERBS": [
+        {"look like": "A2"},
+        {"hold yourself": "B1"},
+        {"ask for": "A2"},
+        {"stand up": "A2"}
+    ],
+    "WORDS": [
+        {"arrange": "A2"},
+        {"surprised": "A2"},
+        {"conversational": "B1"},
+        {"different": "A1"},
+        {"conversation": "A1"},
+        {"trained": "B1"},
+        {"obvious": "B1"},
+        {"tanned": "B2"},
+        {"suntanned": "B2"},
+        {"bad": "A1"},
+        {"chair": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"look surprised": "A2"},
+        {"hold yourself": "B1"},
+        {"ask for a chair": "A2"},
+        {"stand up": "A2"}
+    ]
+}
+```Based on the provided data, here is the linguistic analysis:
+
+```python
+{
+    "IDIOMS": [
+        {"a gift": "A2"}
+    ],
+    "VERBS": [
+        {"look for": "A2"},
+        {"got a": "A2"},
+        {"scratch": "A2"}
+    ],
+    "WORDS": [
+        {"homatitic": "B2"},
+        {"circumstances": "B1"},
+        {"injury": "A2"},
+        {"traumatic": "B2"},
+        {"action": "A1"},
+        {"afghanistan": "B1"},
+        {"iraq": "B1"},
+        {"therapist": "B1"},
+        {"psychosomatic": "B2"},
+        {"limp": "A2"},
+        {"mm": "B1"},
+        {"email": "A1"},
+        {"enable": "B2"},
+        {"flat": "A1"},
+        {"share": "A1"},
+        {"buy": "A1"},
+        {"scratch": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"original circumstances": "B1"},
+        {"traumatic wound": "B2"},
+        {"wounded in action": "B2"},
+        {"suntan - afghanistan or iraq": "B1"},
+        {"psychosomatic limp": "B2"},
+        {"expense, email enabled": "B1"},
+        {"mp3 player": "B1"},
+        {"looking for a flatshare": "A2"},
+        {"scratches, not one": "A2"},
+        {"same pocket as keys and coins": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"wouldn't beat around the bush": "B2"},
+        {"give you his old phone": "B2"},
+        {"can't find a place to live": "B2"},
+        {"close to": "A2"}
+    ],
+    "VERBS": [
+        {"wouldn't beat": "B2"},
+        {"given": "B1"},
+        {"can't find": "A2"},
+        {"got": "A2"}
+    ],
+    "WORDS": [
+        {"luxury": "B1"},
+        {"previous": "B1"},
+        {"engraving": "B2"},
+        {"clearly": "A2"},
+        {"family": "A1"},
+        {"gadget": "B2"},
+        {"could": "A1"},
+        {"cousin": "A1"},
+        {"war": "A2"},
+        {"hero": "A2"},
+        {"unlikely": "B2"},
+        {"romantic": "A2"},
+        {"attachment": "B2"},
+        {"expense": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"luxury item": "B1"},
+        {"previous owner": "B1"},
+        {"family member": "A2"},
+        {"old phone": "A2"},
+        {"family hero": "B1"},
+        {"romantic attachment": "B2"},
+        {"expense of the phone": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"given it away": "A2"},
+        {"kept it": "A2"},
+        {"rid of it": "B1"}
+    ],
+    "VERBS": [
+        {"given it": "A2"},
+        {"left HIM": "A1"},
+        {"looking for": "A2"},
+        {"got problems": "B1"}
+    ],
+    "WORDS": [
+        {"it": "A1"},
+        {"recently": "A2"},
+        {"six": "A1"},
+        {"months": "A1"},
+        {"old": "A1"},
+        {"marriage": "B1"},
+        {"trouble": "A2"},
+        {"given": "A2"},
+        {"away": "A1"},
+        {"left": "A1"},
+        {"wanted": "A2"},
+        {"rid": "B2"},
+        {"phone": "A1"},
+        {"cheap": "A1"},
+        {"accommodation": "B1"},
+        {"problems": "A2"},
+        {"drinking": "A2"},
+        {"liked": "A2"},
+        {"wife": "A1"},
+        {"don't like": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"given it away": "A2"},
+        {"six months old": "A1"},
+        {"marriage in trouble": "B1"},
+        {"given it away": "A2"},
+        {"left HIM": "A1"},
+        {"wanted rid of it": "B1"},
+        {"gave the phone to": "A2"},
+        {"looking for cheap accommodation": "A2"},
+        {"got problems with him": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"never see those marks": "B1"}
+    ],
+    "VERBS": [
+        {"plugs it in": "A2"},
+        {"see those marks": "A2"},
+        {"see a drunk without": "A2"},
+        {"consult amateurs": "B1"}
+    ],
+    "WORDS": [
+        {"drinking": "A2"},
+        {"connection": "B1"},
+        {"suff": "B2"},
+        {"marks": "A1"},
+        {"night": "A1"},
+        {"shaking": "B1"},
+        {"sobber": "B2"},
+        {"sob": "B2"},
+        {"man": "A1"},
+        {"phone": "A1"},
+        {"without": "A1"},
+        {"amazing": "A1"},
+        {"extraordinary": "B2"},
+        {"normally": "A2"},
+        {"say": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"power connection": "B1"},
+        {"tiny little suff": "B2"},
+        {"every night": "A2"},
+        {"shaking hands": "B1"},
+        {"phone marks": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"normal": "A1"},
+        {"split up": "A2"},
+        {"get on": "A2"},
+        {"right about": "B1"}
+    ],
+    "VERBS": [
+        {"get on": "A2"},
+        {"split up": "A2"},
+        {"get over": "B1"},
+        {"expect about": "B1"},
+        {"supposed to": "A2"}
+    ],
+    "WORDS": [
+        {"normal": "A1"},
+        {"wrong": "A1"},
+        {"three": "A1"},
+        {"month": "A1"},
+        {"ago": "A1"},
+        {"divorce": "A2"},
+        {"drinker": "B1"},
+        {"expect": "A2"},
+        {"sister": "A1"},
+        {"supposed": "A2"},
+        {"detective": "A2"},
+        {"inspector": "A2"},
+        {"invited": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"get on": "A2"},
+        {"split up": "A2"},
+        {"get over": "B1"},
+        {"supposed to": "A2"},
+        {"detective inspector": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"make it home last night": "A2"},
+        {"bring him in": "A2"}
+    ],
+    "VERBS": [
+        {"take a look": "A1"},
+        {"get a colleague": "A2"},
+        {"follow you home": "A2"},
+        {"wait": "A1"},
+        {"clear on that": "A2"}
+    ],
+    "WORDS": [
+        {"why": "A1"},
+        {"think": "A1"},
+        {"he": "A1"},
+        {"wants": "A1"},
+        {"me": "A1"},
+        {"to": "A1"},
+        {"take": "A1"},
+        {"a": "A1"},
+        {"look": "A1"},
+        {"well": "A1"},
+        {"know": "A1"},
+        {"what": "A1"},
+        {"I": "A1"},
+        {"think": "A1"},
+        {"do": "A1"},
+        {"not": "A1"},
+        {"always": "A1"},
+        {"Sally": "A1"},
+        {"even": "A1"},
+        {"did": "A1"},
+        {"home": "A1"},
+        {"last": "A1"},
+        {"night": "A1"},
+        {"don't": "A1"},
+        {"who's": "A2"},
+        {"this": "A1"},
+        {"colleague": "A2"},
+        {"mine": "A1"},
+        {"Dr": "A1"},
+        {"Watson": "A1"},
+        {"Sergeant": "A1"},
+        {"Sally": "A1"},
+        {"Donovan": "A1"},
+        {"old": "A1"},
+        {"friend": "A1"},
+        {"get": "A1"},
+        {"follow": "A1"},
+        {"you": "A1"},
+        {"home": "A1"},
+        {"would": "A1"},
+        {"better": "A1"},
+        {"if": "A1"},
+        {"just": "A1"},
+        {"waited": "A2"},
+        {"freak": "A2"},
+        {"here": "A1"},
+        {"bringing": "A2"},
+        {"him": "A1"},
+        {"in": "A1"},
+        {"Ah": "A2"},
+        {"Andersson": "A2"},
+        {"here": "A1"},
+        {"we": "A1"},
+        {"are": "A1"},
+        {"again": "A1"},
+        {"it's": "A1"},
+        {"a": "A1"},
+        {"crime": "A2"},
+        {"scene": "A2"},
+        {"don't": "A1"},
+        {"want": "A1"},
+        {"contaminated": "A2"},
+        {"Are": "A1"},
+        {"we": "A1"},
+        {"clear": "A1"},
+        {"on": "A1"},
+        {"that": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"take a look": "A1"},
+        {"get a colleague": "A2"},
+        {"follow you home": "A2"},
+        {"make it home last night": "A2"},
+        {"bring him in": "A2"},
+        {"clear on that": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"pretend you worked that out": "B1"},
+        {"it just vaporised": "B2"},
+        {"scrubbed your floors": "B2"}
+    ],
+    "VERBS": [
+        {"work out": "A2"},
+        {"vaporise": "B2"},
+        {"scrub": "B1"}
+    ],
+    "WORDS": [
+        {"deodorant": "B1"},
+        {"vaporise": "B2"},
+        {"scrub": "B1"},
+        {"chat": "A2"},
+        {"little": "A1"},
+        {"stay": "A1"},
+        {"knees": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"deodorant told me": "B1"},
+        {"wear it": "A1"},
+        {"vaporised": "B2"},
+        {"scrubbed your floors": "B2"},
+        {"knees her knees": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles based on the CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"put on one on": "A2"}
+    ],
+    "VERBS": [
+        {"put on": "A1"},
+        {"shut up": "A2"},
+        {"think about": "A1"},
+        {"run them": "B1"},
+        {"shut up": "A2"},
+        {"think about": "A1"}
+    ],
+    "WORDS": [
+        {"wear": "A1"},
+        {"arrangement": "A2"},
+        {"these": "A1"},
+        {"who": "A1"},
+        {"this": "A1"},
+        {"with": "A1"},
+        {"who": "A1"},
+        {"he": "A1"},
+        {"said": "A1"},
+        {"with": "A1"},
+        {"science": "A1"},
+        {"going": "A1"},
+        {"put": "A1"},
+        {"on": "A1"},
+        {"one": "A1"},
+        {"where": "A1"},
+        {"are": "A1"},
+        {"we": "A1"},
+        {"stairs": "A1"},
+        {"can": "A1"},
+        {"give": "A1"},
+        {"you": "A1"},
+        {"two": "A1"},
+        {"minutes": "A1"},
+        {"may": "A1"},
+        {"need": "A1"},
+        {"longer": "A2"},
+        {"her": "A1"},
+        {"name": "A1"},
+        {"according": "A2"},
+        {"credit": "A1"},
+        {"cards": "A2"},
+        {"we're": "A1"},
+        {"running": "A1"},
+        {"them": "A1"},
+        {"now": "A1"},
+        {"for": "A1"},
+        {"contact": "A2"},
+        {"details": "A1"},
+        {"hasn't": "A1"},
+        {"been": "A1"},
+        {"here": "A1"},
+        {"some": "A1"},
+        {"kids": "A1"},
+        {"found": "A1"},
+        {"her": "A1"},
+        {"shut": "A1"},
+        {"up": "A1"},
+        {"I": "A1"},
+        {"didn't": "A1"},
+        {"say": "A1",
+        {"anything": "A1"},
+        {"you": "A1"},
+        {"were": "A1"},
+        {"thinking": "A2"},
+        {"it's": "A1"},
+        {"annoying": "A2"},
+        {"got": "A1"},
+        {"anything": "A1"},
+        {"no": "A1"},
+        {"much": "A1"},
+        {"she's": "A1"},
+        {"German": "A2"},
+        {"Rache": "B1"},
+        {"for": "A1"},
+        {"revenge": "B1"},
+        {"trying": "A1"},
+        {"tell": "A1"},
+        {"us": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"wear on": "A2"},
+        {"put on": "A1"},
+        {"shut up": "A2"},
+        {"don't say": "A1"},
+        {"annoying": "A2"},
+        {"got anything": "A1"},
+        {"no much": "A1"},
+        {"trying to": "A1"},
+        {"tell us": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"something": "A1"},
+        {"of course": "A1"}
+    ],
+    "VERBS": [
+        {"thank for": "A1"},
+        {"return home": "A1"},
+        {"break every rule": "A2"}
+    ],
+    "WORDS": [
+        {"something": "A1"},
+        {"thank": "A1"},
+        {"input": "B1"},
+        {"German": "A1"},
+        {"course": "A1"},
+        {"town": "A1"},
+        {"intend": "B1"},
+        {"stay": "A1"},
+        {"before": "A1"},
+        {"night": "A1"},
+        {"obvious": "B1"},
+        {"sorry": "A1"},
+        {"message": "A1"},
+        {"body": "A1"},
+        {"medical": "B1"},
+        {"man": "A1"},
+        {"team": "A1"},
+        {"work": "A1"},
+        {"breaking": "B1"},
+        {"God": "A2"},
+        {"help": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"thank for": "A1"},
+        {"return home": "A1"},
+        {"stay in": "A1"},
+        {"break every rule": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"whatson": "A1"},
+        {"keep everyone out": "A2"},
+        {"make a point": "A2"}
+    ],
+    "VERBS": [
+        {"do as": "A1"},
+        {"help yourself": "A2"},
+        {"keep out": "A2"},
+        {"go deeper": "B1"}
+    ],
+    "WORDS": [
+        {"asphyxiation": "B2"},
+        {"choke": "A2"},
+        {"vomit": "B1"},
+        {"seizure": "B2"},
+        {"drugs": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"help yourself": "A2"},
+        {"pay the rent": "A2"},
+        {"lying dead": "B1"},
+        {"sounded anal": "B1"},
+        {"choked on her own": "A2"},
+        {"couldn't smell alcohol on": "A2"},
+        {"could have been a": "A2"},
+        {"possibly drugs": "A2"},
+        {"read the paper": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"one of the suicides": "B1"},
+        {"late 30s": "A2"},
+        {"by her clothes": "A2"},
+        {"going by the frankly alarming shade of pink": "B1"},
+        {"from Courdiff intending to stay": "A2"},
+        {"case": "A1"},
+        {"been married at least ten years": "A2"},
+        {"string of lovers": "B1"}
+    ],
+    "VERBS": [
+        {"going by": "B1"},
+        {"going by": "B1"},
+        {"intending to": "B1"},
+        {"staying": "A2"},
+        {"been married": "A2"},
+        {"had a string": "B1"}
+    ],
+    "WORDS": [
+        {"well": "A1"},
+        {"suicides": "B1"},
+        {"fourth": "A1"},
+        {"Sherlock": "A1"},
+        {"minutes": "A1"},
+        {"need": "A1"},
+        {"victim": "B1"},
+        {"professional": "B1"},
+        {"going": "A1"},
+        {"clothes": "A1"},
+        {"guessing": "B1"},
+        {"media": "A2"},
+        {"alarm": "B1"},
+        {"travelling": "A2"},
+        {"intending": "B1"},
+        {"staying": "A2"},
+        {"size": "A1"},
+        {"case": "A1"},
+        {"yes": "A1"},
+        {"married": "A1"},
+        {"years": "A1"},
+        {"happily": "A2"},
+        {"lovers": "B1"},
+        {"knew": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"one of the": "A1"},
+        {"by her clothes": "A2"},
+        {"by her frankly": "B1"},
+        {"from Courdiff intending": "B1"},
+        {"intending to stay": "A2"},
+        {"from the size": "A1"},
+        {"case": "A1"},
+        {"at least ten": "A2"},
+        {"string of lovers": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"making this up": "A2"},
+        {"work it off her finger": "B2"}
+    ],
+    "VERBS": [
+        {"cleaned": "A1"},
+        {"works it off": "B2"}
+    ],
+    "WORDS": [
+        {"wedding": "A2"},
+        {"jewellery": "A2"},
+        {"ring": "A1"},
+        {"shiner": "B2"},
+        {"polishing": "B1"},
+        {"nails": "A2"},
+        {"single": "A2"},
+        {"fiction": "A2"},
+        {"string": "A2"},
+        {"brilliant": "A1"},
+        {"sorry": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"wedding ring": "A2"},
+        {"clean her ring": "B1"},
+        {"shine than": "B1"},
+        {"polishing it gets": "B1"},
+        {"work it off": "B2"},
+        {"nail work": "B2"},
+        {"remove her rings": "B1"},
+        {"lovers": "B2"},
+        {"string of": "B1"},
+        {"longer single": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"not obvious": "B1"},
+        {"funny little brains": "B2"},
+        {"turned it up": "A2"},
+        {"damp too": "A2"},
+        {"dry and unused": "A2"},
+        {"too strong to": "A2"},
+        {"from her suitcase": "A2"},
+        {"intending to": "B1"}
+    ],
+    "VERBS": [
+        {"isn't it": "A1"},
+        {"it's not obvious": "B1"},
+        {"get boring": "A1"},
+        {"been in": "A2"},
+        {"turned it up": "A2"},
+        {"got an umbrella": "A2"}
+    ],
+    "WORDS": [
+        {"cardiff": "B2"},
+        {"obvious": "B1"},
+        {"funny": "A1"},
+        {"little": "A1"},
+        {"brains": "B2"},
+        {"must": "A1"},
+        {"boring": "A1"},
+        {"dear": "A1"},
+        {"what": "A1"},
+        {"like": "A1"},
+        {"your": "A1"},
+        {"funny": "A1"},
+        {"little": "A1"},
+        {"brains": "B2"},
+        {"must": "A1"},
+        {"boring": "A1"},
+        {"her": "A1"},
+        {"coat": "A1"},
+        {"it's": "A1"},
+        {"slightly": "B1"},
+        {"damp": "A2"},
+        {"been": "A2"},
+        {"in": "A1"},
+        {"heavy": "A1"},
+        {"rain": "A1"},
+        {"the": "A1"},
+        {"last": "A1"},
+        {"few": "A1"},
+        {"hours": "A1"},
+        {"no": "A1"},
+        {"rain": "A1"},
+        {"anywhere": "A2"},
+        {"in": "A1"},
+        {"london": "A2"},
+        {"that": "A1"},
+        {"time": "A1"},
+        {"under": "A1"},
+        {"her": "A1"},
+        {"coat": "A1"},
+        {"collar": "B1"},
+        {"is": "A1"},
+        {"damp": "A2"},
+        {"too": "A1"},
+        {"turned": "A2"},
+        {"it": "A1"},
+        {"up": "A1"},
+        {"again": "A1"},
+        {"got": "A1"},
+        {"an": "A1"},
+        {"umbrella": "A2"},
+        {"in": "A1"},
+        {"her": "A1"},
+        {"pocket": "A2"},
+        {"but": "A1"},
+        {"it's": "A1"},
+        {"dry": "A1"},
+        {"and": "A1"},
+        {"unused": "B1"},
+        {"not": "A1"},
+        {"just": "A1"},
+        {"wind": "A1"},
+        {"strong": "A1"},
+        {"to": "A1"},
+        {"use": "A1"},
+        {"her": "A1"},
+        {"umbrella": "A2"},
+        {"we": "A1"},
+        {"know": "A1"},
+        {"from": "A1"},
+        {"her": "A1"},
+        {"suitcase": "A2"},
+        {"intending": "B1"},
+        {"to": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"cardiff iff": "B2"},
+        {"not obvious": "B1"},
+        {"funny little brains": "B2"},
+        {"must be boring": "A1"},
+        {"dear god": "A1"},
+        {"in your funny little brains": "B2"},
+        {"her coat": "A1"},
+        {"slightly damp": "B1"},
+        {"been in heavy rain": "A2"},
+        {"no rain anywhere in london": "A1"},
+        {"that time under her coat": "A1"},
+        {"collar is damp too": "B1"},
+        {"turned it up again": "A2"},
+        {"got an umbrella in her pocket": "A2"},
+        {"but it's dry and unused": "A2"},
+        {"not just wind": "A1"},
+        {"too strong to use": "A2"},
+        {"we know from her suitcase": "A2"},
+        {"intending to carry": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"overnight": "A2"},
+        {"shut up": "A2"}
+    ],
+    "VERBS": [
+        {"travelled": "A2"},
+        {"dried": "A2"},
+        {"been": "A1"},
+        {"keeps": "A2"},
+        {"wearing": "A2"},
+        {"shut": "A2"},
+        {"find out": "A2"}
+    ],
+    "WORDS": [
+        {"Cardiff": "B1"},
+        {"fantastic": "A1"},
+        {"loud": "A2"},
+        {"suitcase": "B1"},
+        {"phone": "A1"},
+        {"angry": "A1"},
+        {"note": "A1"},
+        {"Rachael": "B1"},
+        {"German": "A2"},
+        {"window": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"heavy rain": "A2"},
+        {"strong wind": "A2"},
+        {"phone or organizer": "A2"},
+        {"writing Rachael": "B1"},
+        {"leaving an angry note": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"wait until": "A2"},
+        {"dragging a wheeled suitcase": "B2"},
+        {"by that": "A2"},
+        {"only be": "A2"},
+        {"staying one night": "B1"}
+    ],
+    "VERBS": [
+        {"going": "A1"},
+        {"waiting": "A2"},
+        {"dragging": "B2"},
+        {"splashing": "B2"},
+        {"calf not present": "B2"},
+        {"was dying": "B2"},
+        {"write it": "A1"},
+        {"wearing": "B1"},
+        {"dragging a wheeled suitcase": "B2"},
+        {"staying": "B1"}
+    ],
+    "WORDS": [
+        {"Rachel": "B1"},
+        {"case": "A2"},
+        {"waiting": "A2"},
+        {"dying": "B2"},
+        {"write": "A1"},
+        {"know": "A1"},
+        {"she": "A1"},
+        {"had": "A1"},
+        {"suitcase": "B1"},
+        {"wheeled": "B2"},
+        {"splashes": "B2"},
+        {"hel": "B2"},
+        {"bed": "A1"},
+        {"calf": "B2"},
+        {"present": "B1"},
+        {"left": "A1"},
+        {"hand": "A1"},
+        {"right": "A1"},
+        {"hand": "A1"},
+        {"pattern": "A2"},
+        {"conscious": "B2"},
+        {"cloth": "B1"},
+        {"smallish": "B2"},
+        {"case": "A2"},
+        {"size": "A2"},
+        {"woman": "A1"},
+        {"clothes": "A1"},
+        {"conspicuous": "B2"},
+        {"overnight": "B2"},
+        {"bag": "A1"},
+        {"staying": "B1"},
+        {"night": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"wait until": "A2"},
+        {"write it": "A1"},
+        {"wearing a wheeled": "B2"},
+        {"was dying to": "B2"},
+        {"get a splashing": "B2"},
+        {"wheeled suitcase": "B2"},
+        {"smallish case": "B2"},
+        {"case that size": "B2"},
+        {"only be an": "B2"},
+        {"overnight bag": "B2"},
+        {"staying one night": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"a case never": "A2"},
+        {"take the poison themselves": "B1"},
+        {"swallow the pills": "B1"},
+        {"clear signs": "A2"},
+        {"serial killings": "B2"},
+        {"always something to look forward to": "B1"}
+    ],
+    "VERBS": [
+        {"say that": "A1"},
+        {"wasn't a": "A1"},
+        {"find a": "A1"},
+        {"get in": "A2"},
+        {"take the": "A1"},
+        {"swallow the": "B1"},
+        {"look forward": "B1"}
+    ],
+    "WORDS": [
+        {"arrange": "A2"},
+        {"case": "A2"},
+        {"never": "A1"},
+        {"any": "A1"},
+        {"suitcase": "B2"},
+        {"side": "A2"},
+        {"poison": "B1"},
+        {"themselves": "A2"},
+        {"clear": "A2"},
+        {"signs": "A2"},
+        {"miss": "A1"},
+        {"right": "A1"},
+        {"serial": "B2"},
+        {"killings": "B2"},
+        {"serial killer": "B2"},
+        {"always": "A1"},
+        {"look": "A1"},
+        {"forward": "A1"},
+        {"something": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"say that": "A1"},
+        {"wasn't a case": "A2"},
+        {"find a case": "A1"},
+        {"get in this house": "A2"},
+        {"take the poison": "B1"},
+        {"swallow the pills": "B1"},
+        {"clear signs": "A2"},
+        {"serial killings": "B2"},
+        {"always something to look forward to": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"wait for them to make a mistake": "B1"}
+    ],
+    "VERBS": [
+        {"come on": "A1"},
+        {"eat it": "A1"},
+        {"took her case": "A1"},
+        {"check into a hotel": "A2"},
+        {"look at her hair": "A1"},
+        {"left it there": "A1"}
+    ],
+    "WORDS": [
+        {"case": "A2"},
+        {"killer": "B1"},
+        {"drove": "A2"},
+        {"hotel": "A1"},
+        {"coordinates": "B2"},
+        {"lipstick": "B2"},
+        {"serial killers": "B2"},
+        {"mistake": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"come on": "A1"},
+        {"eat it": "A1"},
+        {"took her case": "A1"},
+        {"check into a hotel": "A2"},
+        {"look at her hair": "A1"},
+        {"left it there": "A1"},
+        {"wait for them": "B1"},
+        {"make a mistake": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"waiting.": "A1"},
+        {"take off.": "A2"},
+        {"look like": "A2"}
+    ],
+    "VERBS": [
+        {"get on to": "B1"},
+        {"find out": "A2"},
+        {"get on with": "B1"},
+        {"take off": "A2"},
+        {"look like": "A2"}
+    ],
+    "WORDS": [
+        {"waiting": "A1"},
+        {"Houston": "A2"},
+        {"mistake": "A1"},
+        {"Cardiff": "B1"},
+        {"find": "A1"},
+        {"family": "A1"},
+        {"friends": "A1"},
+        {"Rachel": "A2"},
+        {"mystery": "A2"},
+        {"Pink": "A1"},
+        {"Andersson": "B2"},
+        {"get": "A1"},
+        {"Sherlock Holmes": "B2"},
+        {"yeah": "A1"},
+        {"look": "A1"},
+        {"off": "A1"},
+        {"coming": "A2"},
+        {"Brixon": "B2"},
+        {"cab": "A2"},
+        {"leg": "A1"},
+        {"try": "A1"},
+        {"main": "A1"},
+        {"road": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"waiting for": "A2"},
+        {"get on to": "B1"},
+        {"find out": "A2"},
+        {"get on with": "B1"},
+        {"take off": "A2"},
+        {"look like": "A2"},
+        {"Sherlock Holmes": "B2"},
+        {"Brixon": "B2"},
+        {"main road": "A1"}
+    ]
+}
+```Here's the linguistic analysis of the subtitles based on the provided CEFR wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"stay away from": "B1"},
+    {"get off": "A2"}
+  ],
+  "VERBS": [
+    {"have": "A1"},
+    {"get off": "A2"},
+    {"show up": "A2"}
+  ],
+  "WORDS": [
+    {"psychopath": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"paid for": "A2"},
+    {"get off on": "B1"},
+    {"standing around": "A2"}
+  ]
+}
+```Here is the analysis based on the provided data:
+
+```python
+{
+    "IDIOMS": [
+        {"stay away from": "A2"}
+    ],
+    "VERBS": [
+        {"ring": "A1"},
+        {"ring off": "B1"},
+        {"ringing": "A1"},
+        {"see it": "A1"},
+        {"see it": "A1"},
+        {"see it": "A1"}
+    ],
+    "WORDS": [
+        {"phone": "A1"},
+        {"taxi": "A1"},
+        {"camera": "A1"},
+        {"building": "A1"},
+        {"left": "A1"},
+        {"see": "A1"},
+        {"watson": "A1"},
+        {"finally": "A2"},
+        {"top": "A1"},
+        {"right": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"phone rings": "A2"},
+        {"phone rings": "A2"},
+        {"phone rings": "A2"},
+        {"phone rings": "A2"},
+        {"phone rings": "A2"},
+        {"phone rings": "A2"},
+        {"phone keeps ringing": "A2"},
+        {"security camera": "B1"},
+        {"building to your left": "A2"},
+        {"see it": "A1"},
+        {"see it": "A1"},
+        {"see it": "A1"},
+        {"another camera": "A2"},
+        {"building opposite": "A2"},
+        {"top of the building": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"make some sort of threat": "B1"}
+  ],
+  "VERBS": [
+    {"get into": "A2"},
+    {"make some sort of": "A2"},
+    {"going": "A1"},
+    {"could just phone": "A2"}
+  ],
+  "WORDS": [
+    {"arranges": "B1"},
+    {"clear": "A2"},
+    {"hello": "A1"},
+    {"hi": "A1"},
+    {"name": "A1"},
+    {"real": "A1"},
+    {"know": "A1"},
+    {"point": "A1"},
+    {"asking": "A2"},
+    {"where": "A1"},
+    {"none": "A2"},
+    {"seat": "A1"},
+    {"phone": "A1"},
+    {"very": "A1"},
+    {"clever": "A2"},
+    {"avoiding": "A2"},
+    {"attention": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"love this": "A1"},
+    {"clear to": "A2"},
+    {"real name": "A1"},
+    {"know John": "A1"},
+    {"asking where": "A2"},
+    {"avoid the attention": "A2"}
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"Hence this place": "A2"}
+    ],
+    "VERBS": [
+        {"learns": "A1"},
+        {"sits down": "A1"},
+        {"doesn't want to sit down": "A1"},
+        {"doesn't seem afraid": "A2"},
+        {"doesn't seem frightening": "A2"},
+        {"chuckles": "A1"},
+        {"keeps moving in": "A2"}
+    ],
+    "WORDS": [
+        {"discreet": "B2"},
+        {"hurting": "A2"},
+        {"bravery": "B1"},
+        {"stupidity": "B1"},
+        {"connection": "B1"},
+        {"Sherlock": "A2"},
+        {"Holmes": "A2"},
+        {"barely": "B1"},
+        {"moved in": "A2"},
+        {"expect": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"hurting you": "A2"},
+        {"sit down": "A1"},
+        {"very afraid": "A2"},
+        {"very frightening": "A2"},
+        {"chuckles": "A1"},
+        {"bravery of the soldier": "B1"},
+        {"bravery is": "B1"},
+        {"kindest word": "A2"},
+        {"stupidity don't think": "B1"},
+        {"connection to Sherlock Holmes": "B1"},
+        {"barely know him": "A2"},
+        {"moved in with him": "A2"},
+        {"solving crimes together": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"end of the week": "A2"},
+        {"above all that": "B2"}
+    ],
+    "VERBS": [
+        {"met him": "A2"},
+        {"say his": "A2"},
+        {"say his": "A2"},
+        {"do like": "A2"}
+    ],
+    "WORDS": [
+        {"app": "A2"},
+        {"y": "A1"},
+        {"o": "A1"},
+        {"u": "A1"},
+        {"n": "A1"},
+        {"c": "A1"},
+        {"e": "A1"},
+        {"m": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"t": "A1"},
+        {"b": "A1"},
+        {"y": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"e": "A1"},
+        {"g": "A1"},
+        {"u": "A1"},
+        {"e": "A1"},
+        {"s": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"g": "A1"},
+        {"y": "A1"},
+        {"o": "A1"},
+        {"u": "A1"},
+        {"r": "A1"},
+        {"e": "A1"},
+        {"r": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"a": "A1"},
+        {"t": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"c": "A1"},
+        {"l": "A1"},
+        {"o": "A1"},
+        {"s": "A1"},
+        {"e": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"g": "A1"},
+        {"i": "A1"},
+        {"m": "A1"},
+        {"a": "A1"},
+        {"g": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"e": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"a": "A1"},
+        {"t": "A1"},
+        {"y": "A1"},
+        {"e": "A1"},
+        {"v": "A1"},
+        {"e": "A1"},
+        {"m": "A1"},
+        {"e": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"i": "A1"},
+        {"m": "A1"},
+        {"h": "A1"},
+        {"o": "A1"},
+        {"w": "A1"},
+        {"m": "A1"},
+        {"a": "A1"},
+        {"n": "A1"},
+        {"y": "A1"},
+        {"f": "A1"},
+        {"r": "A1"},
+        {"i": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"d": "A1"},
+        {"s": "A1"},
+        {"d": "A1"},
+        {"o": "A1"},
+        {"y": "A1"},
+        {"i": "A1"},
+        {"m": "A1"},
+        {"a": "A1"},
+        {"g": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"e": "A1"},
+        {"h": "A1"},
+        {"a": "A1"},
+        {"s": "A1"},
+        {"c": "A1"},
+        {"a": "A1"},
+        {"p": "A1"},
+        {"a": "A1"},
+        {"b": "A1"},
+        {"l": "A1"},
+        {"e": "A1"},
+        {"s": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"g": "A1"},
+        {"t": "A1"},
+        {"o": "A1"},
+        {"a": "A1"},
+        {"f": "A1"},
+        {"r": "A1"},
+        {"i": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"d": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"a": "A1"},
+        {"t": "A1"},
+        {"S": "A1"},
+        {"h": "A1"},
+        {"e": "A1"},
+        {"r": "A1"},
+        {"l": "A1"},
+        {"o": "A1"},
+        {"c": "A1"},
+        {"k": "A1"},
+        {"H": "A1"},
+        {"o": "A1"},
+        {"l": "A1"},
+        {"m": "A1"},
+        {"e": "A1"},
+        {"s": "A1"},
+        {"i": "A1"},
+        {"s": "A1"},
+        {"c": "A1"},
+        {"a": "A1"},
+        {"p": "A1"},
+        {"a": "A1"},
+        {"b": "A1"},
+        {"l": "A1"},
+        {"e": "A1"},
+        {"o": "A1"},
+        {"f": "A1"},
+        {"h": "A1"},
+        {"a": "A1"},
+        {"v": "A1"},
+        {"i": "A1"},
+        {"n": "A1"},
+        {"g": "A1"},
+        {"a": "A1"},
+        {"n": "A2"},
+        {"e": "A2"},
+        {"n": "A2"},
+        {"e": "A2"},
+        {"m": "A1"},
+        {"y": "A1"},
+        {"n": "A1"},
+        {"t": "A1"},
+        {"a": "A1"},
+        {"r": "A1"},
+        {"g": "A1"},
+        {"e": "A1"},
+        {"t": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"e": "A1"},
+        {"m": "A1"},
+        {"y": "A1"},
+        {"h": "A1"},
+        {"a": "A1"},
+        {"s": "A1"},
+        {"h": "A1"},
+        {"e": "A1"},
+        {"w": "A1"},
+        {"o": "A1"},
+        {"u": "A1"},
+        {"l": "A1"},
+        {"d": "A1"},
+        {"p": "A1"},
+        {"r": "A1"},
+        {"o": "A1"},
+        {"b": "A1"},
+        {"a": "A1"},
+        {"b": "A1"},
+        {"l": "A1"},
+        {"y": "A1"},
+        {"s": "A1"},
+        {"a": "A1"},
+        {"y": "A1"},
+        {"h": "A1"},
+        {"i": "A1"},
+        {"s": "A1"},
+        {"a": "A1"},
+        {"r": "A1"},
+        {"c": "A1"},
+        {"h": "A1"},
+        {"e": "A1"},
+        {"n": "A1"},
+        {"e": "A1"},
+        {"m": "A1"},
+        {"y": "A1"},
+        {"d": "A1"},
+        {"o": "A1"},
+        {"e": "A1"},
+        {"s": "A1"},
+        {"l": "A1"},
+        {"o": "A1"},
+        {"v": "A1"},
+        {"e": "A1"},
+        {"t": "A1"},
+        {"o": "A1"},
+        {"b": "A1"},
+        {"e": "A1"},
+        {"d": "A1"},
+        {"r": "A1"},
+        {"a": "A1"},
+        {"m": "A1"},
+        {"a": "A1"},
+        {"t": "A1"},
+        {"i": "A1"},
+        {"c": "A1"},
+        {"y": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"end of the week": "A2"},
+        {"interested party": "B2"},
+        {"interested in": "A2"},
+        {"capable of having": "B2"},
+        {"arch enemy": "B2"},
+        {"text message": "A2"}
+    ]
+}
+```Here is the linguistic analysis based on the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"t i n g y o u": "A1"},
+        {"n o t d i s t r a c t i n g m e a t a l l": "B1"},
+        {"b e w r o n g": "A2"},
+        {"b u t I g e t t h i n k t h a t": "A1"},
+        {"i f y o u D O m o v e i n t o": "B1"},
+        {"p a y y o u a m e a n i n g f u l s u m o f m o n e y": "B1"},
+        {"e a s e y o u r w a y": "B2"},
+        {"w e a l t h y m a n": "A2"},
+        {"n o t h i n g i n d i s c r e e t": "B1"},
+        {"j u s t t e l l m e w h a t h e s u p t o": "A2"}
+    ],
+    "VERBS": [
+        {"t i n g": "A1"},
+        {"p l a n": "A1"},
+        {"c o u l d b e": "A1"},
+        {"g e t t h i n k": "A1"},
+        {"c o u l d b e": "A1"},
+        {"c o u l d b e": "A1"},
+        {"D O m o v e": "A2"},
+        {"p a y": "A1"},
+        {"f e e l": "A1"}
+    ],
+    "WORDS": [
+        {"t i n g y o u": "A1"},
+        {"d i s t r a c t": "B1"},
+        {"a u c h": "A1"},
+        {"p l a n": "A1"},
+        {"a s s o c i a t i o n": "B1"},
+        {"w r o n g": "A1"},
+        {"g e t": "A1"},
+        {"t h i n k": "A1"},
+        {"n o n e": "A1"},
+        {"o f": "A1"},
+        {"b u s i n e s s": "A1"},
+        {"c o u l d": "A1"},
+        {"b e": "A1"},
+        {"r e a l l y": "A1"},
+        {"c o u l d": "A1"},
+        {"n o t": "A1"},
+        {"m o v e": "A1"},
+        {"i n t o": "A1"},
+        {"B a k e r": "A1"},
+        {"S t r e e t": "A1"},
+        {"h a p p y": "A1"},
+        {"p a y": "A1"},
+        {"m e a n i n g f u l": "B1"},
+        {"m o n e y": "A1"},
+        {"r e g u l a r": "A2"},
+        {"b a s e": "A2"},
+        {"w a y": "A1"},
+        {"w h y": "A1"},
+        {"w e a l t h y": "A2"},
+        {"i n f o r m a t i o n": "A1"},
+        {"n o t h i n g": "A1"},
+        {"i n d i s c r e t": "B1"},
+        {"f e e l": "A1"},
+        {"u n c o m f o r t a b l e": "B1"},
+        {"j u s t": "A1"},
+        {"t e l l": "A1"},
+        {"w h a t": "A1"},
+        {"u p": "A1"},
+        {"t o": "A1"},
+        {"w h y": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"t i n g y o u": "A1"},
+        {"n o t d i s t r a c t i n g m e a t a l l": "B1"},
+        {"p l a n t o c o n t i n u e y o u r a s s o c i a t i o n": "B1"},
+        {"w i t h S h e r l o c k H o l m e s": "A1"},
+        {"c o u l d b e w r o n g": "A1"},
+        {"g e t t h i n k t h a t": "A1"},
+        {"n o n e o f y o u r b u s i n e s s": "A1"},
+        {"b u t c o u l d b e": "A1"},
+        {"i f y o u D O m o v e i n t o": "B1"},
+        {"2 2 1 B B a k e r S t r e e t": "A1"},
+        {"w e a l t h y m a n": "A2"},
+        {"h a p p y t o p a y y o u a m e a n i n g f u l s u m o f m o n e y": "B1"},
+        {"e a s e y o u r w a y": "B2"},
+        {"w h y w o u l d y o u f e e l u n c o m f o r t a b l e w i t h": "B1"},
+        {"j u s t t e l l m e w h a t h e s u p t o": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"worry about": "A2"},
+        {"have what you might call": "B1"},
+        {"get, have what you might call": "B1"},
+        {"trust issues": "B2"}
+    ],
+    "VERBS": [
+        {"worry about": "A2"},
+        {"go unmentioned": "B2"},
+        {"both her": "A1"},
+        {"trust": "A2"},
+        {"decide to": "A2"}
+    ],
+    "WORDS": [
+        {"worry": "A2"},
+        {"constantly": "A2"},
+        {"nice": "A1"},
+        {"prefer": "A2"},
+        {"various": "B1"},
+        {"reasons": "A1"},
+        {"concern": "B2"},
+        {"unmentione": "B2"},
+        {"mention": "A2"},
+        {"figure": "A2"},
+        {"both": "A1"},
+        {"bother": "A2"},
+        {"loyally": "B2"},
+        {"quickly": "A2"},
+        {"not": "A1"},
+        {"interested": "A1"},
+        {"trust": "A2"},
+        {"decide": "A1"},
+        {"trust": "A2"},
+        {"Sherlock": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"worry about him": "A2"},
+        {"constantly nice of you": "A2"},
+        {"prefer for various reasons": "B1"},
+        {"concern go unmentione": "B2"},
+        {"have not mentioned a figure": "A2"},
+        {"bother her": "A2"},
+        {"loyally and quickly": "B2"},
+        {"trust issues": "B2"},
+        {"decide to trust": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles based on the CEFR levels:
+
+```python
+{
+    "IDIOMS": [
+        {"warn you to stay away from him": "B2"}
+    ],
+    "VERBS": [
+        {"hold hands": "B1"}
+    ],
+    "WORDS": [
+        {"remarkable": "B2"},
+        {"bend": "B1"},
+        {"ipro": "B2"},
+        {"walk": "A1"},
+        {"battlefield": "B2"},
+        {"intention": "B1"},
+        {"tremor": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"warn you to": "B2"},
+        {"stay away from": "B2"},
+        {"remarkable what": "B2"},
+        {"bend this city": "B2"},
+        {"hold hands": "B1"},
+        {"walk with Sherlock": "B2"},
+        {"seen it already": "B1"},
+        {"wrong with my": "B1"},
+        {"intention tremor": "B2"}
+    ]
+}
+```
+
+Note: The text provided is a list of characters, which may not form coherent sentences. The analysis is based on the best interpretation of the text formed from these characters.```python
+{
+    "IDIOMS": [
+        {"have it the wrong way round": "B2"}
+    ],
+    "VERBS": [
+        {"know that": "A1"},
+        {"fire her": "B1"},
+        {"think you're haunted": "B2"},
+        {"miss it": "A2"},
+        {"take you home": "A2"},
+        {"stop off": "B1"}
+    ],
+    "WORDS": [
+        {"stress": "A2"},
+        {"military": "B2"},
+        {"wrong": "A1"},
+        {"steady": "B2"},
+        {"hand": "A1"},
+        {"stressed": "B1"},
+        {"doctor": "A1"},
+        {"time": "A1"},
+        {"side": "A1"},
+        {"address": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"haunted by memories": "B2"},
+        {"under stress": "B1"},
+        {"fire her": "B1"},
+        {"take you home": "A2"},
+        {"miss it": "A2"},
+        {"Baker Street": "A2"}
+    ]
+}
+```Here is the analysis of the provided data:
+
+```python
+{
+    "IDIOMS": [
+        {"chance you could": "B2"},
+        {"get any free time": "B1"},
+        {"bad news for brain work": "B2"},
+        {"breathing's boring": "B1"}
+    ],
+    "VERBS": [
+        {"could not tell": "B1"},
+        {"get any": "A2"},
+        {"have to tell": "A2"},
+        {"sustain a": "B2"}
+    ],
+    "WORDS": [
+        {"chance": "A2"},
+        {"arrange": "A2"},
+        {"free": "A1"},
+        {"time": "A1"},
+        {"news": "A1"},
+        {"brain": "A2"},
+        {"work": "A1"},
+        {"boring": "A1"},
+        {"three": "A1"},
+        {"problem": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"chance you could": "B2"},
+        {"get any free time": "B1"},
+        {"bad news for brain work": "B2"},
+        {"breathing's boring": "B1"},
+        {"three-patch problem": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"love course": "A2"}
+    ],
+    "VERBS": [
+        {"borrow": "A2"},
+        {"shout": "A2"},
+        {"try": "A1"}
+    ],
+    "WORDS": [
+        {"important": "A2"},
+        {"phone": "A1"},
+        {"number": "A1"},
+        {"recognized": "B1"},
+        {"website": "A1"},
+        {"stair": "A2"},
+        {"tried": "A2"},
+        {"case": "A2"},
+        {"suitcase": "B1"},
+        {"murderer": "B1"},
+        {"took": "A1"},
+        {"mistake": "A1"},
+        {"use": "A1"},
+        {"way": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"love course": "A2"},
+        {"borrow phone": "A2"},
+        {"number recognized": "B1"},
+        {"website recognized": "A2"},
+        {"downstairs": "A1"},
+        {"tried shouting": "A2"},
+        {"other side": "A2"},
+        {"hurry": "A1"},
+        {"her case": "A2"},
+        {"suitcase": "B1"},
+        {"murderer took": "B1"},
+        {"big mistake": "A2"},
+        {"no other way": "A2"}
+    ]
+}
+``````python
+IDIOMS: [
+    {"have to": "A1"},
+    {"send a text": "A2"},
+    {"go through": "B1"},
+    {"split the fee": "B2"}
+]
+
+PHRASAL_VERBS: [
+    {"send a text": "A2"},
+    {"take it": "A2"},
+    {"split the fee": "B2"}
+]
+
+WORDS: [
+    {"have": "A1"},
+    {"send": "A1"},
+    {"text": "A1"},
+    {"friend": "A1"},
+    {"enemy": "A2"},
+    {"offer": "A2"},
+    {"spy": "B1"},
+    {"fee": "B2"},
+    {"pit": "B2"},
+    {"fee": "B2"},
+    {"split": "B2"},
+    {"dangerous": "A2"},
+    {"problem": "A1"}
+]
+
+COLLOCATIONS: [
+    {"send a text": "A2"},
+    {"split the fee": "B2"},
+    {"most dangerous man": "A2"},
+    {"meet and": "A2"}
+]
+```Here is the linguistic analysis of the provided subtitles data:
+
+```python
+{
+  "IDIOMS": [
+    {"hang on": "A2"}
+  ],
+  "VERBS": [
+    {"hang on": "A2"},
+    {"get it": "A1"},
+    {"have done": "A2"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"},
+    {"have to": "A1"}
+  ],
+  "WORDS": [
+    {"now": "A1"},
+    {"desk": "A1"},
+    {"number": "A1"},
+    {"Jennifer": "B1"},  # Not in the provided list, but assumed B1
+    {"Wilson": "B1"},  # Not in the provided list, but assumed B1
+    {"that": "A1"},
+    {"dead": "A2"},
+    {"woman": "A1"},
+    {"important": "A1"},
+    {"get": "A1"},
+    {"number": "A1"},
+    {"doing": "A1"},
+    {"it": "A1"},
+    {"done": "A1"},
+    {"it": "A1"},
+    {"hang": "A2"},
+    {"on": "A1"},
+    {"words": "A1"},
+    {"exactly": "A2"},
+    {"What": "A1"},
+    {"happened": "A1"},
+    {"at": "A1"},
+    {"Laureston": "B1"},  # Not in the provided list, but assumed B1
+    {"Gardens": "A1"},
+    {"must": "A1"},
+    {"have": "A1"},
+    {"blacked": "B1"},  # Not in the provided list, but assumed B1
+    {"out": "A1"},
+    {"22": "A1"},
+    {"Numberland": "B1"},  # Not in the provided list, but assumed B1
+    {"Street": "A1"},
+    {"come": "A1"},
+    {"backed": "B1"},  # Not in the provided list, but assumed B1
+    {"out": "A1"},
+    {"What": "A1"},
+    {"No": "A1"},
+    {"type": "A1"},
+    {"and": "A1"},
+    {"send": "A1"},
+    {"it": "A1"},
+    {"quickly": "A2"},
+    {"Have": "A1"},
+    {"you": "A1"},
+    {"sent": "A1"},
+    {"it": "A1"},
+    {"What's": "A1"},
+    {"the": "A1"},
+    {"address": "A1"},
+    {"22": "A1"},
+    {"Northumberland": "B1"},  # Not in the provided list, but assumed B1
+    {"Street": "A1"},
+    {"Hurry": "A1"},
+    {"up": "A1"},
+    {"That's": "A1"},
+    {"pink": "A1"},
+    {"lady's": "B1"},  # Not in the provided list, but assumed B1
+    {"case": "A2"}
+  ],
+  "COLLOCATIONS": [
+    {"hang on": "A2"},
+    {"get it": "A1"},
+    {"have done": "A2"},
+    {"have to": "A1"},
+    {"number": "A1"},
+    {"Laureston Gardens": "B1"},  # Not in the provided list, but assumed B1
+    {"black out": "B1"},  # Not in the provided list, but assumed B1
+    {"22 Numberland Street": "B1"},  # Not in the provided list, but assumed B1
+    {"back out": "B1"},  # Not in the provided list, but assumed B1
+    {"type and send": "A1"},
+    {"quickly": "A2"},
+    {"address": "A1"},
+    {"22 Northumberland Street": "B1"},  # Not in the provided list, but assumed B1
+    {"pink lady's case": "B1"}  # Not in the provided list, but assumed B1
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"obviously": "B1"},
+        {"perfectly logical": "B2"},
+        {"in the car": "A2"}
+    ],
+    "VERBS": [
+        {"should mention": "A2"},
+        {"didn't kill": "A2"},
+        {"did say": "A2"},
+        {"do assume": "A2"},
+        {"get this": "A2"},
+        {"look at": "A2"},
+        {"drive her": "A2"},
+        {"keep her case": "A2"}
+    ],
+    "WORDS": [
+        {"obviously": "B1"},
+        {"mention": "A2"},
+        {"kill": "A2"},
+        {"say": "A1"},
+        {"case": "A2"},
+        {"logical": "B1"},
+        {"assumption": "B2"},
+        {"assume": "A2"},
+        {"murdere": "A2"},
+        {"accident": "A2"},
+        {"attention": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"obviously perfectly": "B2"},
+        {"logical assumption": "B2"},
+        {"drive her case": "A2"},
+        {"keep her case": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"feel compelled": "B2"},
+        {"get rid of": "B1"},
+        {"take in": "B2"},
+        {"check out": "B1"},
+        {"find the right spot": "B2"},
+        {"go through": "B1"}
+    ],
+    "VERBS": [
+        {"feel compelled": "B2"},
+        {"get rid of": "B1"},
+        {"take in": "B2"},
+        {"check out": "B1"},
+        {"find the right spot": "B2"},
+        {"go through": "B1"}
+    ],
+    "WORDS": [
+        {"particular": "B2"},
+        {"statistically": "B2"},
+        {"obviously": "B1"},
+        {"compelled": "B2"},
+        {"rid": "B2"},
+        {"nut": "A2"},
+        {"believe": "A1"},
+        {"mistake": "A2"},
+        {"checked": "B1"},
+        {"every": "A1"},
+        {"bulk": "B2"},
+        {"object": "A2"},
+        {"without": "A1"},
+        {"being": "B2"},
+        {"observed": "B2"},
+        {"took": "A1"},
+        {"less": "A2"},
+        {"hour": "A1"},
+        {"find": "A1"},
+        {"right": "A1"},
+        {"skip": "B1"},
+        {"pink": "A1"},
+        {"realize": "A2"},
+        {"case": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"feel compelled": "B2"},
+        {"get rid of": "B1"},
+        {"take in": "B2"},
+        {"check out": "B1"},
+        {"find the right spot": "B2"},
+        {"go through": "B1"},
+        {"particular man": "B2"},
+        {"statistically more likely": "B2"},
+        {"feel compelled to get rid": "B2"},
+        {"check every street": "B1"},
+        {"bulk object": "B2"},
+        {"find the right skip": "B2"}
+    ]
+}
+```The provided text is a bit jumbled, but I'll clean it up and analyze it according to your instructions.
+
+Cleaned text:
+```
+I think of that (?)
+Because you're an idiot.
+No, no, no, don't look like that.
+Practically everyone is.
+Now, look. Do you see what's missing?
+From the case, how could I?
+Her phone. Where's her mobile phone?
+There was no phone on the body,
+there's no phone in the case.
+We know she had one.
+You just texted it.
+Maybe she left it at home.
+She has a string of lovers and she's careful
+about it. She never leaves her phone at home.
+Er...
+Why did I just send that text?
+Well, the question is
+where is her?
+```
+
+### Analysis
+
+```python
+{
+    "IDIOMS": [
+        {"idiot": "B1"}
+    ],
+    "VERBS": [
+        {"think of": "A2"},
+        {"look like": "A2"},
+        {"see what's missing": "B1"},
+        {"left it at home": "A1"},
+        {"careful about it": "A2"},
+        {"never leaves": "A1"}
+    ],
+    "WORDS": [
+        {"think": "A1"},
+        {"idiot": "B1"},
+        {"practically": "B1"},
+        {"question": "A1"},
+        {"string": "B1"},
+        {"lovers": "B1"},
+        {"careful": "A2"},
+        {"phone": "A1"},
+        {"case": "A1"},
+        {"body": "A1"},
+        {"text": "A1"},
+        {"home": "A1"},
+        {"send": "A2"},
+        {"missing": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"think of that": "B1"},
+        {"look like that": "A2"},
+        {"see what's missing": "B1"},
+        {"left it at home": "A1"},
+        {"careful about it": "A2"},
+        {"never leaves her phone": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"wuh": "B1"}
+    ],
+    "VERBS": [
+        {"could have lost": "A2"},
+        {"left it": "A2"},
+        {"took it": "A2"},
+        {"text a murderer": "B1"},
+        {"receives a text": "B1"}
+    ],
+    "WORDS": [
+        {"phone": "A1"},
+        {"think": "A1"},
+        {"murderer": "B1"},
+        {"case": "A2"},
+        {"probability": "B2"},
+        {"sorry": "A1"},
+        {"text": "A1"},
+        {"alert": "B1"},
+        {"victims": "B1"},
+        {"ignores": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"lost it": "A2"},
+        {"left it": "A2"},
+        {"took it": "A2"},
+        {"text a murderer": "B1"},
+        {"receives a text": "B1"},
+        {"balance of probability": "B2"},
+        {"last victim": "B1"},
+        {"found that phone": "A2"},
+        {"ignores a text": "A2"}
+    ]
+}
+```Here is the dictionary with the required structure based on the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"sit there and": "A2"},
+        {"fill in": "A2"}
+    ],
+    "VERBS": [
+        {"talk to": "A1"},
+        {"talk to": "A1"},
+        {"are talking to": "A2"},
+        {"came with": "A2"},
+        {"go out": "A1"},
+        {"talk loud": "A2"}
+    ],
+    "WORDS": [
+        {"like": "A1"},
+        {"murderer": "B1"},
+        {"panic": "B1"},
+        {"police": "A1"},
+        {"dead": "A2"},
+        {"ME": "B1"},
+        {"relax": "A1"},
+        {"doing": "A1"},
+        {"sit": "A1"},
+        {"watch": "A1"},
+        {"want": "A1"},
+        {"come": "A1"},
+        {"company": "A1"},
+        {"skull": "B2"},
+        {"attraction": "A2"},
+        {"attention": "A1"},
+        {"problem": "A1"},
+        {"yes": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"talk to the police": "A1"},
+        {"are talking to ME": "B1"},
+        {"go out with": "A2"},
+        {"talk loud": "A2"},
+        {"fill in for": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"dangerous": "A2"},
+        {"k brilliant": "B1"},
+        {"get caught": "A2"}
+    ],
+    "VERBS": [
+        {"get off": "A1"},
+        {"going": "A1"},
+        {"think": "A1"},
+        {"think": "A1"},
+        {"love": "A1"}
+    ],
+    "WORDS": [
+        {"her": "A1"},
+        {"you": "A1"},
+        {"enjoy": "A1"},
+        {"and": "A1"},
+        {"said": "A2"},
+        {"dangerous": "A2"},
+        {"here": "A1"},
+        {"damn": "B2"},
+        {"where": "A1"},
+        {"going": "A1"},
+        {"Northumberland": "B2"},
+        {"street": "A1"},
+        {"minute": "A1"},
+        {"walk": "A1"},
+        {"think": "A1"},
+        {"stupid": "A2"},
+        {"enough": "A1"},
+        {"go": "A1"},
+        {"there": "A1"},
+        {"No": "A1"},
+        {"I": "A1"},
+        {"think": "A1"},
+        {"brilliant": "A2"},
+        {"enough": "A1"},
+        {"love": "A1"},
+        {"brilliant": "A2"},
+        {"ones": "B2"},
+        {"desperate": "B2"},
+        {"get": "A1"},
+        {"caught": "A1"},
+        {"Why": "A1"},
+        {"appreciation": "B1"},
+        {"spotlight": "B2"},
+        {"long": "A1"},
+        {"last": "A1"},
+        {"fairy": "B2"},
+        {"tale": "B2"},
+        {"fairy": "B2"},
+        {"tale": "B2"},
+        {"needs": "A2"},
+        {"audience": "A2"},
+        {"Yeah": "A2"},
+        {"This": "A1"},
+        {"hunting": "A2"},
+        {"ground": "A1"},
+        {"Right": "A1"},
+        {"heart": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"get off on this": "A1"},
+        {"enjoy it": "A1"},
+        {"said dangerous": "A2"},
+        {"here you are": "A1"},
+        {"Northumberland land": "B2"},
+        {"five-minute walk": "A1"},
+        {"think he's": "A1"},
+        {"stupid enough": "A2"},
+        {"go there": "A1"},
+        {"brilliant enough": "A2"},
+        {"desperate to get": "B2"},
+        {"long last": "A1"},
+        {"fairy tale": "B2"},
+        {"needs an": "A2"},
+        {"hunting ground": "A2"},
+        {"heart of": "A1"}
+    ]
+}
+```Sure, here is the linguistic analysis based on the provided subtitles:
+
+```python
+{
+  "IDIOMS": [
+    {"who passes unnoticed": "B2"},
+    {"in the middle of a crowd": "B2"}
+  ],
+  "VERBS": [
+    {"were abducted": "B1"},
+    {"disappeared from": "B2"},
+    {"nobody saw": "A1"},
+    {"trust": "B1"},
+    {"hunts": "B1"}
+  ],
+  "WORDS": [
+    {"city": "A1"},
+    {"know": "A1"},
+    {"victims": "B1"},
+    {"were": "A1"},
+    {"abducted": "B1"},
+    {"changes": "B1"},
+    {"everything": "A1"},
+    {"because": "A1"},
+    {"all": "A1"},
+    {"victims": "B1"},
+    {"disappeared": "B1"},
+    {"busy": "A1"},
+    {"streets": "A1"},
+    {"crowded": "A2"},
+    {"nd": "N/A"},
+    {"places": "A1"},
+    {"nobody": "A1"},
+    {"them": "A1"},
+    {"go": "A1"},
+    {"them": "A1"},
+    {"though": "A2"},
+    {"them": "A1"},
+    {"wherever": "B1"},
+    {"hunts": "B1"},
+    {"middle": "A2"},
+    {"crowd": "A2"},
+    {"nobody": "A1"},
+    {"hasn't": "A2"},
+    {"fainted": "B1"},
+    {"hungry": "A1"},
+    {"thank": "A1"},
+    {"Northumber": "N/A"},
+    {"land": "A1"},
+    {"street": "A1"},
+    {"keep": "A1"},
+    {"eyes": "A1"},
+    {"it": "A1"},
+    {"he's": "A1"},
+    {"going": "A1"},
+    {"ring": "A1"},
+    {"doorbell": "B1"},
+    {"he'd": "A1"},
+    {"need": "A1"},
+    {"be": "A1"},
+    {"mad": "A1"},
+    {"killed": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"know his victims": "B1"},
+    {"were abducted": "B1"},
+    {"changes everything": "B1"},
+    {"all of his victims": "B1"},
+    {"disappeared from busy streets": "B1"},
+    {"crowded places": "A2"},
+    {"nobody saw them": "A1"},
+    {"go wherever they go": "B1"},
+    {"in the middle of a crowd": "B2"},
+    {"fainted": "B1"},
+    {"keep your eyes on it": "A1"},
+    {"he's going to ring the doorbell": "A1"}
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get off on the wrong foot": "B1"},
+        {"house-breaking": "B2"},
+        {"go to prison": "A2"}
+    ],
+    "VERBS": [
+        {"clear out": "B1"},
+        {"go to prison": "A2"},
+        {"have gone to": "A2"}
+    ],
+    "WORDS": [
+        {"arrange": "A2"},
+        {"menu": "A1"},
+        {"house": "A1"},
+        {"murder": "B1"},
+        {"charge": "B1"},
+        {"prove": "A2"},
+        {"vicious": "B2"},
+        {"triple": "B1"},
+        {"happen": "A1"},
+        {"prison": "A2"},
+        {"candle": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"love on the menu": "B1"},
+        {"house-breaking": "B2"},
+        {"murder charge": "B1"},
+        {"prove to": "A2"},
+        {"vicious trip": "B2"},
+        {"go to prison": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"have a long wait": "B1"}
+    ],
+    "VERBS": [
+        {"may as well eat": "B1"},
+        {"have a long wait": "B1"}
+    ],
+    "WORDS": [
+        {"table": "A1"},
+        {"romantic": "B1"},
+        {"date": "A1"},
+        {"thanks": "A1"},
+        {"people": "A1"},
+        {"have": "A1"},
+        {"arch-enemies": "B2"},
+        {"sorry": "A1"},
+        {"real": "A1"},
+        {"life": "A1"},
+        {"are": "A1"},
+        {"no": "A1"},
+        {"dull": "B1"},
+        {"meet": "A1"},
+        {"friends": "A1"},
+        {"know": "A1"},
+        {"like": "A1"},
+        {"girlfriends": "B1"},
+        {"boyfriends": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"have a long wait": "B1"},
+        {"arch-enemies": "B2"},
+        {"real life": "A1"},
+        {"dull": "B1"},
+        {"boyfriends and girlfriends": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"no, not really": "A1"},
+        {"you're [beta]ched": "B1"},
+        {"flat out": "B2"},
+        {"look across": "A1"}
+    ],
+    "VERBS": [
+        {"have a": "A1"},
+        {"got a": "A1"},
+        {"consider married": "B1"},
+        {"looking for": "A2"},
+        {"getting in": "A1"}
+    ],
+    "WORDS": [
+        {"really": "A1"},
+        {"boyfriend": "A1"},
+        {"fine": "A1"},
+        {"married": "A1"},
+        {"work": "A1"},
+        {"flat": "A1"},
+        {"fed": "B1"},
+        {"taxi": "A1"},
+        {"outside": "A1"},
+        {"street": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"have a boyfriend": "A1"},
+        {"got a boyfriend": "A1"},
+        {"consider myself married": "B1"},
+        {"looking for a": "A2"},
+        {"getting in the": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get out": "A1"},
+        {"you are staring": "A1"},
+        {"we can't both stare": "A1"},
+        {"come on": "A1"},
+        {"this way": "A1"}
+    ],
+    "VERBS": [
+        {"get out": "A1"},
+        {"stare": "A1"},
+        {"turn": "A1"},
+        {"lose": "A1"},
+        {"open up": "A1"}
+    ],
+    "WORDS": [
+        {"taxi": "A1"},
+        {"clever": "A1"},
+        {"stare": "A1"},
+        {"car": "A1"},
+        {"horn": "A1"},
+        {"sorry": "A1"},
+        {"cab": "A1"},
+        {"number": "A1"},
+        {"good": "A1"},
+        {"turn": "A1"},
+        {"one way": "A1"},
+        {"roadworks": "A1"},
+        {"traffic lights": "A1"},
+        {"bus lane": "A1"},
+        {"pedestrian crossing": "A1"},
+        {"left turn": "A1"},
+        {"traffic": "A1"},
+        {"squeal": "A1"},
+        {"come on": "A1"},
+        {"we are losing him": "A1"},
+        {"way": "A1"},
+        {"police": "A1"},
+        {"open": "A1"},
+        {"up": "A1"},
+        {"Sherlock": "A1"},
+        {"pant": "A1"},
+        {"tired": "A1"},
+        {"California": "A1"},
+        {"LA": "A1"},
+        {"Santa": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"get out of the taxi": "A1"},
+        {"stare at each other": "A1"},
+        {"turn right": "A1"},
+        {"one way road": "A1"},
+        {"traffic lights": "A1"},
+        {"bus lane": "A1"},
+        {"pedestrian crossing": "A1"},
+        {"left turn only": "A1"},
+        {"lose him": "A1"},
+        {"this way": "A1"},
+        {"open up her pants": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"just arrived": "A1"}
+    ],
+    "VERBS": [
+        {"knock down": "A1"},
+        {"slow down": "A2"}
+    ],
+    "WORDS": [
+        {"possibly": "A2"},
+        {"luggage": "A2"},
+        {"destination": "A2"},
+        {"police": "A1"},
+        {"problems": "A1"},
+        {"basically": "B1"},
+        {"country": "A1"},
+        {"alibi": "B2"},
+        {"detective": "A2"},
+        {"inspector": "A2"},
+        {"yeah": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"first trip": "A2"},
+        {"final destination": "A2"},
+        {"cab route": "A2"},
+        {"welcome to London": "A1"},
+        {"police officer": "A2"},
+        {"wrong country": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"keep that one": "A2"},
+        {"get plenty at the flat": "A2"},
+        {"read by": "A1"},
+        {"back to the restaurant": "A1"},
+        {"keep an eye out": "A2"},
+        {"prove a point": "B1"}
+    ],
+    "VERBS": [
+        {"keep on": "A2"},
+        {"keep that one": "A2"},
+        {"get plenty at the flat": "A2"},
+        {"read by": "A1"},
+        {"back to the restaurant": "A1"},
+        {"keep an eye out": "A2"}
+    ],
+    "WORDS": [
+        {"annoying": "B1"},
+        {"flat": "A1"},
+        {"ridiculous": "B1"},
+        {"invaded": "B2"},
+        {"Afghanistan": "B2"},
+        {"laugh": "A1"},
+        {"eye": "A1"},
+        {"shot": "B1"},
+        {"long shot": "B1"},
+        {"proving": "B1"},
+        {"point": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"annoying": "B1"},
+        {"flat": "A1"},
+        {"ridiculous thing": "B1"},
+        {"invaded Afghanistan": "B2"},
+        {"keep an eye out": "A2"},
+        {"long shot": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"break into": "B1"}
+    ],
+    "VERBS": [
+        {"take the room": "B1"},
+        {"knock": "A1"},
+        {"text": "A2"},
+        {"did you find": "A2"},
+        {"can't break into": "B1"}
+    ],
+    "WORDS": [
+        {"Sherlock": "B1"},
+        {"texted": "B1"},
+        {"evidence": "A2"},
+        {"drugs": "B1"},
+        {"junkie": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"knocking on the door": "A2"},
+        {"take the room upstairs": "B1"},
+        {"find the case": "A2"},
+        {"break into my flat": "B1"},
+        {"call this": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"recreational": "B1"},
+        {"shut up": "A2"},
+        {"volunteered": "B1"}
+    ],
+    "VERBS": [
+        {"search for": "A2"},
+        {"shut up": "A2"},
+        {"want to": "A1"},
+        {"call recreational": "B1"},
+        {"put back": "A2"}
+    ],
+    "WORDS": [
+        {"john": "A1"},
+        {"flat": "A2"},
+        {"recreational": "B1"},
+        {"dog": "A1"},
+        {"sniffer": "B1"},
+        {"drugs": "B1"},
+        {"strictly": "B1"},
+        {"experiment": "A2"},
+        {"human": "A2"},
+        {"microwave": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"search for this flat": "B1"},
+        {"shut up now": "A2"},
+        {"volunteered to": "B1"},
+        {"sniffer dog": "B1"},
+        {"drugs bust": "B1"},
+        {"strictly speaking": "B1"},
+        {"human eyes": "A2"},
+        {"put those back": "A2"},
+        {"in the microwave": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"stand them down": "A2"},
+        {"deal with a child": "A2"},
+        {"let you in": "A1"},
+        {"set up": "B1"},
+        {"stop being present": "B2"},
+        {"let's work together": "A2"}
+    ],
+    "VERBS": [
+        {"stand down": "A2"},
+        {"deal with": "A2"},
+        {"let in": "A1"},
+        {"set up": "B1"},
+        {"stop being": "B2"},
+        {"let's work": "A2"}
+    ],
+    "WORDS": [
+        {"childish": "A2"},
+        {"dealing": "A2"},
+        {"drug": "A2"},
+        {"bust": "B2"},
+        {"preten": "B1"},
+        {"being": "A1"},
+        {"smoke": "A2"},
+        {"found": "A2"},
+        {"daughter": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"stand them down": "A2"},
+        {"deal with a child": "A2"},
+        {"let you in": "A1"},
+    "COLLOCATIONS": [
+        {"set up a pretend drug bust": "B1"},
+        {"stop being present": "B2"},
+        {"let's work together": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"according to someone": "B1"},
+        {"never mind": "A2"},
+        {"in the end": "A2"}
+    ],
+    "VERBS": [
+        {"bring in": "B1"},
+        {"do research": "A2"},
+        {"question her": "A2"}
+    ],
+    "WORDS": [
+        {"arrangement": "A2"},
+        {"case": "A2"},
+        {"according": "A2"},
+        {"murderer": "A2"},
+        {"favourite": "A1"},
+        {"sociopath": "B2"},
+        {"psychopath": "B2"},
+        {"research": "A2"},
+        {"technically": "B1"},
+        {"alive": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"never mind the": "A2"},
+        {"found the case": "A2"},
+        {"bring Rachele in": "B1"},
+        {"question her": "A2"},
+        {"she's been dead": "A2"},
+        {"technically she was": "B1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"socioopath": "B2"}
+    ],
+    "VERBS": [
+        {"scratch": "A2"},
+        {"take it": "A1"},
+        {"hurt": "A1"}
+    ],
+    "WORDS": [
+        {"socioopath": "B2"},
+        {"scratch": "A2"},
+        {"effort": "A1"},
+        {"victim": "A2"},
+        {"hurt": "A1"},
+        {"make": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"socioopath seeing it": "B2"},
+        {"scratch her name": "A2"},
+        {"take it": "A1"},
+        {"hurt effort": "A1"},
+        {"talk to them": "A1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"a few seconds": "A2"},
+        {"a mess": "B1"}
+    ],
+    "VERBS": [
+        {"be up": "A2"},
+        {"run all": "B1"},
+        {"try to": "A2"},
+        {"tell us": "A1"},
+        {"make such": "B1"},
+        {"go away": "A2"}
+    ],
+    "WORDS": [
+        {"ago": "A1"},
+        {"good": "A1"},
+        {"upset": "A2"},
+        {"imagination": "B1"},
+        {"clever": "A2"},
+        {"run": "A1"},
+        {"lover": "B1"},
+        {"doorbell": "B2"},
+        {"taxi": "A1"},
+        {"order": "A1"},
+        {"dear": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"a few seconds": "A2"},
+        {"a mess": "B1"},
+        {"clever enough": "B1"},
+        {"run away": "A2"},
+        {"make a mess": "B1"},
+        {"order a taxi": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"look for": "A1"},
+        {"shut up": "A2"},
+        {"turn you back": "B1"},
+        {"for God's sake": "B2"}
+    ],
+    "VERBS": [
+        {"look for": "A1"},
+        {"breathe": "B1"},
+        {"put off": "B1"},
+        {"turn back": "B1"},
+        {"shut up": "A2"}
+    ],
+    "WORDS": [
+        {"drugs": "A2"},
+        {"bust": "B2"},
+        {"clever": "A2"},
+        {"clevrer": "B2"},
+        {"taxi": "A1"},
+        {"sake": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"look for drugs": "A2"},
+        {"clever than": "B1"},
+        {"turn you back": "B1"},
+        {"for God's sake": "B2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"get some": "A2"},
+        {"lose her phone": "A1"},
+        {"never lost it": "A2"},
+        {"know that": "A1"},
+        {"on him": "A2"},
+        {"lead us": "A1"},
+        {"look at you lot": "A2"},
+        {"so relaxing": "A1"}
+    ],
+    "VERBS": [
+        {"didn't lose": "A1"},
+        {"got out of": "A2"},
+        {"knew that": "A1"},
+        {"left the": "A1"},
+        {"see?": "A1"},
+        {"must be": "A2"}
+    ],
+    "WORDS": [
+        {"it?": "A1"},
+        {"she": "A1"},
+        {"phone": "A1"},
+        {"car": "A1"},
+        {"knew": "A1"},
+        {"plan": "A2"},
+        {"order": "A1"},
+        {"lead": "A1"},
+        {"relaxing": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"get out of the car": "A2"},
+        {"never lost it": "A2"},
+        {"knew that she": "A2"},
+        {"left the phone": "A1"},
+        {"look at you": "A2"},
+        {"must be relaxing": "A2"}
+    ]
+}
+```To perform the linguistic analysis as requested, I will first reconstruct the text from the provided list of characters and then identify idioms, phrasal verbs, semantically significant words, and collocations, classifying them according to the provided CEFR levels.
+
+### Reconstructed Text:
+```
+She did her business on her phone. A smartphone, it's enabled. So there was a website for her account. The username is her email address - and all together, the password is? Rachael. So we can read her emails. And er son, don't talk out loud. You lower the IQ of the whole street. We can do much more than that. It's a smartphone, it's got GPS. Which means if you lose it you can locate it online. She's leading us directly to the man who killed her. Unless he got rid of it. We know h
+```
+
+### Analysis:
+
+```python
+{
+    "IDIOMS": [
+        {"talk out loud": "A2"}
+    ],
+    "VERBS": [
+        {"do business": "A2"},
+        {"get rid of": "B1"}
+    ],
+    "WORDS": [
+        {"smartphone": "A2"},
+        {"enable": "B1"},
+        {"website": "A1"},
+        {"account": "B1"},
+        {"username": "B1"},
+        {"email": "A1"},
+        {"address": "A1"},
+        {"password": "B1"},
+        {"read": "A1"},
+        {"GPS": "B1"},
+        {"locate": "B1"},
+        {"lower": "A2"},
+        {"IQ": "B1"},
+        {"street": "A1"},
+        {"kill": "A2"},
+        {"get rid of": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"do her business": "A2"},
+        {"on her phone": "A1"},
+        {"it's enabled": "B1"},
+        {"for her account": "A2"},
+        {"the username is": "A2"},
+        {"her email address": "A2"},
+        {"and all together": "A2"},
+        {"the password is": "A2"},
+        {"read her emails": "A1"},
+        {"don't talk out loud": "A2"},
+        {"lower the IQ": "B1"},
+        {"of the whole street": "A2"},
+        {"do much more": "A2"},
+        {"it's got GPS": "B1"},
+        {"lose it you can": "A2"},
+        {"locate it online": "B1"},
+        {"leading us directly": "A2"},
+        {"to the man who": "A2"},
+        {"killed her": "A2"},
+        {"get rid of it": "B1"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"come on": "A1"}
+    ],
+    "VERBS": [
+        {"get a helicopter": "A2"},
+        {"narrow it down": "B1"}
+    ],
+    "WORDS": [
+        {"sherlock": "A2"},
+        {"taxi": "A1"},
+        {"driver": "A1"},
+        {"evening": "A1"},
+        {"helicopter": "A2"},
+        {"battery": "B1"},
+        {"reference": "B1"},
+        {"narrow": "B1"},
+        {"street": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"come on, quickly": "A1"},
+        {"taxi driver": "A1"},
+        {"evening soother": "A2"},
+        {"get a helicopter": "A2"},
+        {"phone battery": "B1"},
+        {"map reference": "B1"},
+        {"narrow it down": "B1"},
+        {"Baker Street": "A1"}
+    ]
+}
+```Certainly! Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"fall out": "A2"}
+    ],
+    "VERBS": [
+        {"call back": "A2"},
+        {"texted": "A2"},
+        {"look in": "A2"},
+        {"pass through": "A2"},
+        {"hunt in": "A2"},
+        {"try it": "A2"},
+        {"go in": "A2"}
+    ],
+    "WORDS": [
+        {"fell": "A1"},
+        {"somewhere": "A2"},
+        {"notice": "A2"},
+        {"texted": "A2"},
+        {"called": "A2"},
+        {"look": "A1"},
+        {"for": "A1"},
+        {"mobile": "A2"},
+        {"even": "A1"},
+        {"if": "A1"},
+        {"know": "A1"},
+        {"them": "A1"},
+        {"wherever": "A2"},
+        {"hunts": "A2"},
+        {"middle": "A2"},
+        {"alert": "B1"},
+        {"sherlock": "B1"},
+        {"idea": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"fall out somewhere": "A2"},
+        {"notice it": "A2"},
+        {"texted him": "A2"},
+        {"called back": "A2"},
+        {"look in on": "A2"},
+        {"pass through the middle": "A2"},
+        {"try it again": "A2"},
+        {"go in": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the subtitles based on the provided CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"just popping out for a moment": "A2"},
+        {"won't be long": "A2"},
+        {"I'm fine": "A1"},
+        {"like the back of an ear": "B2"},
+        {"proper advantage": "B1"}
+    ],
+    "VERBS": [
+        {"go out": "A1"},
+        {"call the cops": "A2"}
+    ],
+    "WORDS": [
+        {"air": "A1"},
+        {"moment": "A1"},
+        {"fine": "A1"},
+        {"taxi": "A1"},
+        {"order": "A1"},
+        {"need": "A1"},
+        {"one": "A1"},
+        {"street": "A1"},
+        {"cabbie": "B2"},
+        {"passenger": "A2"},
+        {"invisible": "B2"},
+        {"serious": "A2"},
+        {"killer": "A2"},
+        {"confession": "B1"},
+        {"tell": "A1"},
+        {"else": "A1"},
+        {"call": "A1"},
+        {"coppers": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"popping out": "A2"},
+        {"won't be long": "A2"},
+        {"fine": "A1"},
+        {"taxi for Sherlock Holmes": "A2"},
+        {"didn't order a taxi": "A2"},
+        {"need one": "A1"},
+        {"Northumbria Street": "B1"},
+        {"proper advantage": "B1"},
+        {"serious killer": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"not going to do that": "A2"},
+        {"kill never tell": "B1"},
+        {"one thing": "A2"},
+        {"a result": "A2"},
+        {"understand how": "A2"}
+    ],
+    "VERBS": [
+        {"won't run": "A2"},
+        {"sit quietly": "A2"},
+        {"take me down": "A2"},
+        {"didn't kill": "A2"},
+        {"speak to": "A2"},
+        {"kill themselves": "A2"},
+        {"get the cops": "A2"},
+        {"promise you": "A2"},
+        {"kill never tell": "B1"},
+        {"die though": "A2"}
+    ],
+    "WORDS": [
+        {"I": "A1"},
+        {"won't": "A2"},
+        {"run": "A1"},
+        {"sit": "A1"},
+        {"quietly": "A2"},
+        {"they": "A1"},
+        {"can": "A1"},
+        {"take": "A1"},
+        {"me": "A1"},
+        {"down": "A1"},
+        {"promise": "A2"},
+        {"why": "A1"},
+        {"cos": "A2"},
+        {"you're": "A1"},
+        {"not": "A1"},
+        {"going": "A2"},
+        {"do": "A1"},
+        {"that": "A1"},
+        {"am": "A1"},
+        {"didn't": "A2"},
+        {"kill": "A2"},
+        {"four": "A1"},
+        {"people": "A1"},
+        {"Mr": "A2"},
+        {"Holme": "A2"},
+        {"s": "A1"},
+        {"spoke": "A2"},
+        {"to": "A1"},
+        {"em": "A2"},
+        {"they": "A1"},
+        {"killed": "A2"},
+        {"themselves": "A2"},
+        {"get": "A1"},
+        {"coppers": "B1"},
+        {"now": "A1"},
+        {"ill": "A2"},
+        {"promise": "A2"},
+        {"one": "A1"},
+        {"thing": "A1"},
+        {"kill": "A2"},
+        {"never": "A1"},
+        {"tell": "A1"},
+        {"what": "A1"},
+        {"said": "A2"},
+        {"no": "A1"},
+        {"one": "A1"},
+        {"else": "A1"},
+        {"will": "A1"},
+        {"die": "A1"},
+        {"though": "A2"},
+        {"believe": "A1"},
+        {"call": "A1"},
+        {"result": "A1"},
+        {"a": "A1"},
+        {"and": "A1"},
+        {"won't": "A2"},
+        {"ever": "A1"},
+        {"understand": "A1"},
+        {"how": "A1"},
+        {"died": "A2"},
+        {"kind": "A1"},
+        {"care": "A1"},
+        {"about": "A1"},
+        {"underrstand": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"not going to": "A2"},
+        {"sit quietly and": "A2"},
+        {"take me down": "A2"},
+        {"promise you one": "A2"},
+        {"kill never tell": "B1"},
+        {"get the cops": "A2"},
+        {"speak to em": "A2"},
+        {"killed themselves though": "A2"},
+        {"promise you one": "A2"},
+        {"die though and": "A2"},
+        {"call that a": "A2"},
+        {"won't ever understand": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"DOOR OPENS AND CLOSES": "B1"},
+        {"CALLING THE PHONE": "B1"}
+    ],
+    "VERBS": [
+        {"TAKE FOR A RIDE": "A2"},
+        {"KILL ME TOO": "B1"},
+        {"TALK TO YA": "A2"},
+        {"GOING TO KILL YOURSELF": "B1"},
+        {"BLOODY LEFT AGAIN": "A2"},
+        {"CALLING THE PHONE": "B1"},
+        {"TRY TO SEARCH AGAIN": "A2"}
+    ],
+    "WORDS": [
+        {"CAB": "A2"},
+        {"MURDER": "B1"},
+        {"SHERLOCK": "A2"},
+        {"BLOODY": "B1"},
+        {"WASTING": "B1"},
+        {"RINGING": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"TAKE FOR A RIDE": "A2"},
+        {"KILL ME TOO": "B1"},
+        {"TALK TO YA": "A2"},
+        {"GOING TO KILL YOURSELF": "B1"},
+        {"BLOODY LEFT AGAIN": "A2"},
+        {"WASTING OUR TIME": "B1"},
+        {"CALLING THE PHONE": "B1"},
+        {"TRY TO SEARCH AGAIN": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"wasting your time": "B1"}
+    ],
+    "VERBS": [
+        {"let you down": "A2"},
+        {"chasing my cab": "B1"},
+        {"warned about you": "B1"},
+        {"been on your website": "B1"}
+    ],
+    "WORDS": [
+        {"matter": "A2"},
+        {"lunatic": "B2"},
+        {"wasting": "B1"},
+        {"time": "A1"},
+        {"body": "A1"},
+        {"done": "A1"},
+        {"recognized": "B1"},
+        {"Sherlock": "B1"},
+        {"warn": "A2"},
+        {"brilliant": "A2"},
+        {"stuff": "A2"},
+        {"loved": "A2"},
+        {"warned": "B1"},
+        {"modest": "B1"},
+        {"really": "A1"},
+        {"fan": "A2"},
+        {"tell": "A1"},
+        {"more": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"just a lunatic": "B2"},
+        {"always let you down": "A2"},
+        {"wasting your time": "B1"},
+        {"all our time": "A1"},
+        {"recognized you": "B1"},
+        {"chasing my cab": "B1"},
+        {"warned about you": "B1"},
+        {"been on your website": "B1"},
+        {"brilliant stuff": "A2"},
+        {"loved it": "A1"},
+        {"warned you about me": "B1"},
+        {"someone there": "A1"},
+        {"too modest": "B1"}
+    ]
+}
+``````
+IDIOMS
+: [{ "put up with": "B1" }]
+VERBS
+: [{ "put up": "B1" }]
+WORDS
+: [
+    { "desperate": "B2" },
+    { "every": "A1" },
+    { "lucky": "A2" },
+    { "great": "A1" },
+    { "might": "A1" },
+    { "even": "A1" },
+    { "good": "A1" },
+    { "day": "A1" },
+    { "know": "A1" },
+    { "street": "A1" },
+    { "where": "A1" },
+    { "educated": "B1" },
+    { "further": "A2" }
+]
+COLLOCATIONS
+: [
+    { "know exactly": "A2" },
+    { "put up with": "B1" },
+    { "great man": "A1" },
+    { "good one": "A1" },
+    { "very lucky": "A2" }
+]
+``````python
+{
+    "IDIOMS": [
+        {"a nice quiet spot": "B1"}
+    ],
+    "VERBS": [
+        {"branch out": "B2"},
+        {"walk your victims in": "B2"},
+        {"take their own lives": "B2"}
+    ],
+    "WORDS": [
+        {"learner": "B1"},
+        {"cabbie": "B2"},
+        {"surprise": "A2"},
+        {"murder": "B1"},
+        {"worry": "A2"},
+        {"better": "A1"},
+        {"gunpoint": "B2"},
+        {"follow": "A1"},
+        {"beeping": "B2"},
+        {"die": "A1"},
+        {"not": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"nice quiet spot": "B1"},
+        {"branch out": "B2"},
+        {"walk your victims in": "B2"},
+        {"take their own lives": "B2"},
+        {"up to you": "A2"},
+        {"going to die": "A2"}
+    ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"call that a risk": "B1"},
+        {"get it yet": "A2"},
+        {"do ya": "A1"},
+        {"whatg to love this": "B1"}
+    ],
+    "VERBS": [
+        {"take away": "A2"},
+        {"look at": "A1"},
+        {"call that": "A2"},
+        {"get it": "A1"},
+        {"do this": "A1"},
+        {"expect that": "A2"},
+        {"love this": "A1"}
+    ],
+    "WORDS": [
+        {"say": "A1"},
+        {"shall": "A2"},
+        {"talk": "A1"},
+        {"risk": "B1"},
+        {"police": "A1"},
+        {"stupid": "A2"},
+        {"recall": "B2"},
+        {"risk": "B1"},
+        {"expect": "A2"},
+        {"love": "A1"},
+        {"fan": "A2"},
+        {"flesh": "B1"},
+        {"website": "A1"},
+        {"told": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"call that a risk": "B1"},
+        {"get it yet": "A2"},
+        {"do ya": "A1"},
+        {"expect that": "A2"},
+        {"love this": "A1"},
+        {"look at you": "A1"},
+        {"fan to told": "A2"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"proper thinking": "B1"},
+    {"between you and me": "B1"}
+  ],
+  "VERBS": [
+    {"sit down": "A2"},
+    {"look at": "A2"},
+    {"drive a cab": "B1"},
+    {"know better": "B1"}
+  ],
+  "WORDS": [
+    {"genius": "B1"},
+    {"science": "A1"},
+    {"proper": "B1"},
+    {"minute": "A1"},
+    {"bottle": "A1"},
+    {"pill": "B1"},
+    {"frightening": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"science of deduction": "B1"},
+    {"proper thinking": "B1"},
+    {"between you and me": "B1"},
+    {"people think": "A1"},
+    {"drive a cab": "B1"},
+    {"know better": "B1"},
+    {"good bottle": "A1"},
+    {"bad bottle": "A1"},
+    {"take the pill": "A2"}
+  ]
+}
+```Here is the linguistic analysis based on the provided text:
+
+```python
+{
+    "IDIOMS": [
+        {"take the pill from the bad bottle": "A1"},
+        {"you choose": "A1"},
+        {"I haven't told you the best bit yet": "A2"},
+        {"I won't cheat": "A2"},
+        {"It's your choice": "A2"}
+    ],
+    "VERBS": [
+        {"take from": "A1"},
+        {"die": "A1"},
+        {"know": "A1"},
+        {"choose": "A1"},
+        {"go on": "A1"},
+        {"tell": "A1"},
+        {"take our medicine": "A1"},
+        {"take whatever pill": "A1"},
+        {"do not": "A1"}
+    ],
+    "WORDS": [
+        {"you": "A1"},
+        {"take": "A1"},
+        {"pill": "A1"},
+        {"bottle": "A1"},
+        {"die": "A1"},
+        {"both": "A1"},
+        {"are": "A1"},
+        {"of": "A1"},
+        {"course": "A1"},
+        {"identical": "A2"},
+        {"way": "A1"},
+        {"know": "A1"},
+        {"which": "A1"},
+        {"is": "A1"},
+        {"wouldn't": "A2"},
+        {"game": "A1"},
+        {"knew": "A2"},
+        {"choose": "A1"},
+        {"why": "A1"},
+        {"I've": "A2"},
+        {"got": "A1"},
+        {"nothing": "A1"},
+        {"What's": "A1"},
+        {"in": "A1"},
+        {"for": "A1"},
+        {"me": "A1"},
+        {"haven't": "A2"},
+        {"best": "A1"},
+        {"yet": "A2"},
+        {"bottle": "A1"},
+        {"other": "A1"},
+        {"together": "A1"},
+        {"won't": "A2"},
+        {"cheat": "A2"},
+        {"choice": "A1"},
+        {"take": "A1"},
+        {"whatever": "A2"},
+        {"don't": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"take the pill": "A1"},
+        {"die": "A1"},
+        {"both bottles": "A1"},
+        {"of course": "A1"},
+        {"in every way": "A2"},
+        {"knew which": "A2"},
+        {"have got": "A2"},
+        {"to go on": "A1"},
+        {"the best bit": "A2"},
+        {"take our medicine": "A1"},
+        {"I won't cheat": "A2"},
+        {"It's your choice": "A2"},
+        {"take whatever pill": "A1"},
+        {"don't": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"it's not a game, it's chance.": "B2"},
+        {"it's a game of chess, with one move.": "B1"},
+        {"and one survivor.": "A2"},
+        {"this - is the move.": "A2"},
+        {"it's not chess, it's ess.": "B2"},
+        {"gave them a choice.": "A2"}
+    ],
+    "VERBS": [
+        {"give them a choice": "A2"},
+        {"take your time": "A1"},
+        {"get yourself better": "B1"},
+        {"want your best game": "A2"},
+        {"played four times": "A2"},
+        {"give you the good bottle or the bad bottle": "B1"}
+    ],
+    "WORDS": [
+        {"expect": "B1"},
+        {"gave": "A2"},
+        {"choice": "A1"},
+        {"giving": "B1"},
+        {"alive": "A2"},
+        {"played": "A2"},
+        {"times": "A1"},
+        {"joke": "A2"},
+        {"chance": "A1"},
+        {"gave": "A2"},
+        {"courage": "B2"},
+        {"survivor": "B1"},
+        {"bottle": "A1"},
+        {"giving": "B1"},
+        {"game": "A1"},
+        {"chance": "A1"},
+        {"inspect": "B1"},
+        {"chess": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"gave them a choice": "B1"},
+        {"take your time": "A1"},
+        {"get yourself better": "B1"},
+        {"want your best game": "A2"},
+        {"played four times": "A2"},
+        {"give you the good bottle or the bad bottle": "B1"}
+    ]
+}
+```Here is the linguistic analysis based on the provided CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"give you the good pill or the bad pill": "B2"}
+    ],
+    "VERBS": [
+        {"speak to": "A2"},
+        {"need to": "A1"},
+        {"read yet": "A2"},
+        {"play what": "A2"},
+        {"give you": "A1"},
+        {"play the numbers": "B1"},
+        {"playing ME": "B1"},
+        {"give you the pill": "B1"},
+        {"think I think": "A2"},
+        {"know how": "A1"},
+        {"can see": "A1"}
+    ],
+    "WORDS": [
+        {"emergency": "B1"},
+        {"bench": "A2"},
+        {"pill": "B2"},
+        {"bluff": "B2"},
+        {"row": "B1),
+        {"genius": "B1"},
+        {"map": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"emergency bench": "B1"},
+        {"good pill": "B2"},
+        {"bad pill": "B2"},
+        {"playing the numbers": "B1"},
+        {"playing ME": "B1"},
+        {"think I think": "A2"},
+        {"know how": "A1"},
+        {"like a map": "A1"}
+    ]
+}
+```
+
+Note: The word "bluff" and "bench" are both classified as B2 and A2, respectively, based on the provided wordlist. The word "row" is classified as B1.Here is the linguistic analysis of the provided subtitles based on the CEFR wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"waste as a cabbie": "A2"}
+    ],
+    "VERBS": [
+        {"risked your life": "B1"},
+        {"killed strangers": "A1"},
+        {"played": "A1"},
+        {"pointed out": "B1"},
+        {"lived on": "A2"},
+        {"cut out": "B1"}
+    ],
+    "WORDS": [
+        {"side": "A2"},
+        {"mm": "A2"},
+        {"everyone": "A1"},
+        {"stupid": "A2"},
+        {"even": "A1"},
+        {"God": "A2"},
+        {"loves": "A1"},
+        {"either": "A2"},
+        {"way": "A1"},
+        {"wasted": "B1"},
+        {"cabbie": "A2"},
+        {"risked": "B1"},
+        {"times": "A1"},
+        {"strangers": "A1"},
+        {"play": "A1"},
+        {"turn": "A1"},
+        {"shaving": "A2"},
+        {"foam": "A2"},
+        {"ear": "A1"},
+        {"nobody": "A1"},
+        {"pointed": "B1"},
+        {"out": "A1"},
+        {"traces": "A2"},
+        {"where": "A1"},
+        {"happened": "A2"},
+        {"obviously": "B1"},
+        {"own": "A1"},
+        {"one": "A1"},
+        {"tell": "A1"},
+        {"photo": "A1"},
+        {"children": "A1"},
+        {"mother": "A1"},
+        {"died": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"waste as a cabbie": "A2"},
+        {"risked your life": "B1"},
+        {"killed strangers": "A1"},
+        {"love loves me": "A2"},
+        {"pertaining to you": "B1"},
+        {"shaving foam": "A2"},
+        {"no point": "A2"},
+        {"traces of where": "A2"},
+        {"obviously you live": "B1"},
+        {"photo of children": "A1"},
+        {"mother been cut": "B1"}
+    ]
+}
+```Here's the analysis based on the provided text and the CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"keep up appearances": "B1"}
+    ],
+    "VERBS": [
+        {"laughed": "A1"},
+        {"took": "A1"},
+        {"hurts": "A1"},
+        {"wearing": "A1"},
+        {"told": "A1"}
+    ],
+    "WORDS": [
+        {"there": "A1"},
+        {"photo": "A1"},
+        {"graph": "A2"},
+        {"old": "A1"},
+        {"frame": "A1"},
+        {"new": "A1"},
+        {"think": "A1"},
+        {"children": "A1"},
+        {"see": "A1"},
+        {"them": "A1"},
+        {"strange": "A1"},
+        {"father": "A1"},
+        {"took": "A1"},
+        {"kids": "A1"},
+        {"love": "A1"},
+        {"hurts": "A1"},
+        {"more": "A1"},
+        {"clothes": "A1"},
+        {"laundered": "B1"},
+        {"wearing": "A1"},
+        {"least": "A2"},
+        {"years": "A1"},
+        {"keeping": "B1"},
+        {"appearances": "B1"},
+        {"planning": "A2"},
+        {"ahead": "A2"},
+        {"here": "A1"},
+        {"murder": "A2"},
+        {"spray": "B1"},
+        {"told": "A1"},
+        {"when": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"keep up appearances": "B1"},
+        {"laughed recently": "B1"},
+        {"wearing clothes": "A1"},
+        {"at least": "A2"},
+        {"three years": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"outlived": "B2"}
+    ],
+    "VERBS": [
+        {"don't have": "A2"},
+        {"could be": "A2"},
+        {"have outlived": "B2"},
+        {"can have": "A2"}
+    ],
+    "WORDS": [
+        {"dead": "A2"},
+        {"neurosis": "B2"},
+        {"breath": "A1"},
+        {"last": "A1"},
+        {"because": "A1"},
+        {"you're": "A1"},
+        {"dying": "A2"},
+        {"murdered": "B2"},
+        {"people": "A1"},
+        {"most": "A1"},
+        {"fun": "A1"},
+        {"anxiety": "B2"},
+        {"love": "A1"},
+        {"vicious": "B2"},
+        {"motivator": "B2"},
+        {"how": "A1"},
+        {"children": "A1"},
+        {"good": "A1"},
+        {"in't": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"dead man": "A2"},
+        {"breath could": "A2"},
+        {"last breath": "A2"},
+        {"because you're": "A1"},
+        {"you're dying": "A2"},
+        {"you've outlived": "B2"},
+        {"four people": "A1"},
+        {"most fun": "A1"},
+        {"with anxiety": "B2"},
+        {"vicious motivator": "B2"},
+        {"your children": "A1"},
+        {"ARE good": "A1"}
+    ]
+}
+```Here is the linguistic analysis based on the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"kill two birds with one stone": "B1"}
+    ],
+    "VERBS": [
+        {"die": "A1"}, 
+        {"drive": "A1"}, 
+        {"get": "A1"}, 
+        {"kill": "A2"}, 
+        {"be surprised": "A1"}, 
+        {"have": "A1"}, 
+        {"go": "A1"}, 
+        {"bet": "B2"}, 
+        {"enjoy": "A1"}
+    ],
+    "WORDS": [
+        {"die": "A1"}, 
+        {"get": "A1"}, 
+        {"much": "A1"}, 
+        {"kids": "A1"}, 
+        {"lot": "A1"}, 
+        {"money": "A1"}, 
+        {"driving": "A1"}, 
+        {"cabs": "B2"}, 
+        {"killing": "A2"}, 
+        {"surprised": "A1"}, 
+        {"sponsor": "B2"}, 
+        {"life": "A1"}, 
+        {"nice": "A1"}, 
+        {"think": "A1"}, 
+        {"fan": "A2"}, 
+        {"Sherlock": "B1"}, 
+        {"Holmes": "B1"}, 
+        {"only": "A1"}, 
+        {"murder": "A2"}, 
+        {"others": "A1"}, 
+        {"out": "A1"}, 
+        {"there": "A1"}, 
+        {"man": "A1"}, 
+        {"more": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"kill two birds with one stone": "B1"}, 
+        {"die the way": "B2"}, 
+        {"get much": "A1"}, 
+        {"driving cabs": "B2"}, 
+        {"killing people": "A2"}, 
+        {"be surprised": "A1"}, 
+        {"have a sponsor": "B2"}, 
+        {"for every life": "A1"}, 
+        {"go to kids": "A1"}, 
+        {"better than": "A1"}, 
+        {"fan of Sherlock Holmes": "B1"}, 
+        {"enjoy a good murder": "A1"}, 
+        {"others out there": "A1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitle text:
+
+```python
+{
+    "IDIOMS": [
+        {"chat ter": "B1"}
+    ],
+    "VERBS": [
+        {"walk out of": "B1"},
+        {"take a chance": "B2"},
+        {"shoot in the head": "B2"}
+    ],
+    "WORDS": [
+        {"order": "A1"},
+        {"mean": "A1"},
+        {"organization": "A2"},
+        {"name": "A1"},
+        {"going": "A1"},
+        {"choose": "A1"},
+        {"chat": "A2"},
+        {"time": "A1"},
+        {"Sherlock": "B2"},
+        {"option": "A2"},
+        {"walk": "A1"},
+        {"head": "A1"},
+        {"gun": "A2"},
+        {"please": "A1"},
+        {"definitely": "A2"},
+        {"want": "A1"},
+        {"phone": "A1"},
+        {"friend": "A1"},
+        {"know": "A1"},
+        {"real": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"chat ter": "B1"},
+        {"take a chance": "B2"},
+        {"shoot in the head": "B2"},
+        {"go out of here": "B2"},
+        {"50:50 chance": "B2"},
+        {"shot in the head": "B2"},
+        {"have the gun": "A2"}
+    ]
+}
+```Here is the linguistic analysis based on the provided data:
+
+```python
+{
+    "IDIOMS": [
+        {"look forward to": "A2"}
+    ],
+    "VERBS": [
+        {"figure out": "B1"}
+    ],
+    "WORDS": [
+        {"interesting": "A1"},
+        {"bottle": "A1"},
+        {"case": "A2"},
+        {"before": "A1"},
+        {"go": "A1"},
+        {"beaten": "B1"},
+        {"kicked": "B1"},
+        {"clever": "A2"},
+        {"enough": "A1"},
+        {"beat": "A2"},
+        {"play": "A1"},
+        {"game": "A1"},
+        {"interesting": "A1"},
+        {"think": "A1"},
+        {"enough": "A1"},
+        {"clever": "A2"},
+        {"believe": "A1"},
+        {"enough": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"look forward to": "A2"},
+        {"figure out": "B1"},
+        {"good bottle": "A2"},
+        {"play the game": "A1"},
+        {"beaten you": "B1"},
+        {"clever enough": "A2"},
+        {"believe it or not": "B1"}
+    ]
+}
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+  "IDIOMS": [
+    {"being clever": "B2"},
+    {"addict": "B2"}
+  ],
+  "VERBS": [
+    {"get bored": "A2"},
+    {"be clever": "A2"},
+    {"do anything": "A1"},
+    {"stop being": "A2"},
+    {"get it right": "B2"},
+    {"tell about": "A2"}
+  ],
+  "WORDS": [
+    {"bored": "A1"},
+    {"clever": "A2"},
+    {"point": "A1"},
+    {"why": "A1"},
+    {"real": "A1"},
+    {"addict": "B2"},
+    {"anything": "A1"},
+    {"right": "A1"},
+    {"sponsored": "B2"},
+    {"fan": "A2"},
+    {"name": "A1"},
+    {"dying": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"being clever": "B2"},
+    {"get bored": "A2"},
+    {"do anything": "A1"},
+    {"stop being": "A2"},
+    {"get it right": "B2"},
+    {"tell about": "A2"}
+  ]
+}
+``````python
+{
+    "IDIOMS": [
+        {"give me a name": "A2"}
+    ],
+    "VERBS": [
+        {"hurt you": "A1"},
+        {"putting on me": "A2"},
+        {"want to take photographs": "A2"},
+        {"have enemies": "B1"},
+        {"have been following him": "B1"}
+    ],
+    "WORDS": [
+        {"hurt": "A2"},
+        {"name": "A1"},
+        {"blanket": "B1"},
+        {"shock": "B1"},
+        {"photographs": "A2"},
+        {"shooter": "B2"},
+        {"sign": "A2"},
+        {"enemies": "B1"},
+        {"following": "B1"}
+    ],
+    "COLLOCATIONS": [
+        {"hurt you": "A2"},
+        {"give me a name": "A2"},
+        {"putting on me": "A2"},
+        {"want to take photographs": "A2"},
+        {"clear off before we got here": "B1"},
+        {"have enemies": "B1"},
+        {"have been following him": "B1"}
+    ]
+}
+``````python
+data = "e m e. The b mu leet they just dug out of the wall's from a hangun. A kill shot over that distance, that's a crack shot. But not just a marksman, a fighter. His hands couldn't have been baked at all so clearly he's accustomed to violence. He didn't fire until I was in immediate danger though, so strong moral principle. You're looking for a man probably with a history of military service, and... nerves of steel... Actually, do you know what? I go me. Sorry? It's just the e... the"
+
+# Process data to remove noise
+data = data.replace("e m e.", "eme.")  # Correcting the typo
+data = data.replace("b mu leet", "bullet")  # Correcting the typo
+data = data.replace("hangun", "handgun")  # Correcting the typo
+data = data.replace("e... the", "")  # Removing the trailing noise
+
+# Cleaned data
+cleaned_data = "The bullet they just dug out of the wall's from a handgun. A kill shot over that distance, that's a crack shot. But not just a marksman, a fighter. His hands couldn't have been baked at all so clearly he's accustomed to violence. He didn't fire until I was in immediate danger though, so strong moral principle. You're looking for a man probably with a history of military service, and... nerves of steel... Actually, do you know what? I go me. Sorry?"
+
+# Analysis
+IDIOMS = [
+    {"nerves of steel": "B2"}
+]
+
+VERBS = [
+    {"dug out": "B1"},
+    {"fire": "A2"},
+    {"looking for": "A2"}
+]
+
+WORDS = [
+    {"bullet": "B1"},
+    {"handgun": "B2"},
+    {"kill": "B2"},
+    {"shot": "A2"},
+    {"distance": "A2"},
+    {"marksman": "B2"},
+    {"fighter": "B2"},
+    {"baked": "B2"},
+    {"accustomed": "B2"},
+    {"violence": "B1"},
+    {"immediate": "B1"},
+    {"danger": "A2"},
+    {"moral": "B1"},
+    {"principle": "B2"},
+    {"military": "B1"},
+    {"service": "B1"}
+]
+
+COLLOCATIONS = [
+    {"kill shot": "B2"},
+    {"crack shot": "B2"},
+    {"marksman, a fighter": "B2"},
+    {"strong moral principle": "B2"},
+    {"history of military service": "B2"},
+    {"nerves of steel": "B2"}
+]
+
+result = {
+    "IDIOMS": IDIOMS,
+    "VERBS": VERBS,
+    "WORDS": WORDS,
+    "COLLOCATIONS": COLLOCATIONS
+}
+
+print(result)
+```Here is the linguistic analysis of the provided subtitles:
+
+```python
+{
+    "IDIOMS": [
+        {"shock talking": "B2"},
+        {"need to": "A2"},
+        {"just in": "B1"},
+        {"more or less": "B1"},
+        {"talking about": "A2"},
+        {"got a blanket": "A2"},
+        {"in shock": "B1"},
+        {"pull you in": "A2"},
+        {"got a serial killer": "B1"},
+        {"pull you in": "A2"},
+        {"off you go": "A1"},
+        {"just been": "A2"},
+        {"got the two pills": "A2"},
+        {"deadful business": "B2"}
+    ],
+    "VERBS": [
+        {"need to": "A2"},
+        {"going": "A1"},
+        {"have got": "A2"},
+        {"got": "A2"},
+        {"look": "A1"},
+        {"pulled": "A2"},
+        {"be in": "A2"},
+        {"bust a cough": "B2"},
+        {"pull in": "A2"},
+        {"off go": "A2"},
+        {"explaining": "A2"},
+        {"must have": "A2"},
+        {"out of": "A1"}
+    ],
+    "WORDS": [
+        {"shock": "B1"},
+        {"talking": "A2"},
+        {"going": "A1"},
+        {"just": "A1"},
+        {"rent": "A2"},
+        {"questions": "A2"},
+        {"now": "A1"},
+        {"in": "A1"},
+        {"shock": "B1"},
+        {"bust": "B2"},
+        {"serial": "B2"},
+        {"killer": "B1"},
+        {"more": "A1"},
+        {"less": "A1"},
+        {"OK": "A1"},
+        {"well": "A1"},
+        {"pull": "A2"},
+        {"row": "B2"},
+        {"off": "A1"},
+        {"go": "A1"},
+        {"deadful": "B2"},
+        {"business": "A2"}
+    ],
+    "COLLOCATIONS": [
+        {"shock talking": "B2"},
+        {"talking about": "A2"},
+        {"just need": "A2"},
+        {"in shock": "B1"},
+        {"pulled in": "A2"},
+        {"serial killer": "B2"},
+        {"off you go": "A1"},
+        {"just been": "A2"},
+        {"explaining everything": "A2"},
+        {"must have been": "A2"},
+        {"out of": "A1"}
+    ]
+}
+```Certainly! Below is the linguistic analysis of the provided subtitles based on the CEFR wordlist:
+
+```python
+{
+  "IDIOMS": [
+    {"killed a man": "B1"},
+    {"wasn't a very nice man": "B1"},
+    {"wasn't really a good man": "B1"},
+    {"bloody awful cabbie": "B2"}
+  ],
+  "VERBS": [
+    {"serve time": "B1"},
+    {"avoid the court case": "B1"},
+    {"killed a man": "B1"},
+    {"wasn't a very nice man": "B1"},
+    {"wasn't really a good man": "B1"},
+    {"took us": "A2"},
+    {"can't giggle": "B1"},
+    {"shot him": "B1"}
+  ],
+  "WORDS": [
+    {"gentlemen": "B2"},
+    {"pose": "B2"},
+    {"court": "B1"},
+    {"case": "A2"},
+    {"kill": "A2"},
+    {"man": "A1"},
+    {"wasn't": "A1"},
+    {"nice": "A1"},
+    {"really": "A1"},
+    {"good": "A1"},
+    {"bloody": "B2"},
+    {"awful": "A2"},
+    {"cabbie": "B2"},
+    {"scene": "B2"},
+    {"crime": "A2"},
+    {"crime": "A2"},
+    {"stop": "A1"},
+    {"giggle": "B1"},
+    {"shooting": "B2"},
+    {"cabbie": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"gentlemen, I suppose": "B2"},
+    {"serve time for": "B1"},
+    {"avoid the court case": "B1"},
+    {"are you all right": "A2"},
+    {"killed a man": "B1"},
+    {"wasn't a very nice man": "B1"},
+    {"wasn't really a good man": "B1"},
+    {"bloody awful cabbie": "B2"},
+    {"took us to": "A2"},
+    {"can't giggle": "B1"},
+    {"it's a crime scene": "B2"},
+    {"shot him": "B1"},
+    {"keep your voice down": "B2"}
+  ]
+}
+```
+
+This analysis is based on the provided subtitles and the CEFR wordlist. The idioms, phrasal verbs, semantically significant words, and collocations have been classified according to their respective CEFR levels.Here is the linguistic analysis based on the provided subtitles and the CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"ice down": "A2"},
+        {"bidding my time": "B2"},
+        {"spill your guts": "B2"},
+        {"risk your life": "B1"},
+        {"prove you're clever": "B1"},
+        {"turn up": "A2"}
+    ],
+    "VERBS": [
+        {"take that": "A1"},
+        {"turn up": "A2"},
+        {"get your kicks": "B2"},
+        {"risk your life": "B1"},
+        {"prove you're clever": "B1"},
+        {"tell a good Chinese": "A2"},
+        {"tell by the bottom third of the door handle": "B2"}
+    ],
+    "WORDS": [
+        {"ice": "A1"},
+        {"nerves": "B1"},
+        {"pill": "B2"},
+        {"prove": "A2"},
+        {"clever": "A1"},
+        {"Chinese": "A1"},
+        {"handle": "A1"},
+        {"sherlock": "B2"},
+        {"bottom": "A1"},
+        {"third": "A1"},
+        {"door": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"ice down": "A2"},
+        {"bid my time": "B2"},
+        {"take that pill": "B2"},
+        {"prove you're clever": "B1"},
+        {"good Chinese": "A1"},
+        {"bottom third": "B2"},
+        {"door handle": "A1"}
+    ]
+}
+``````python
+{
+  "IDIOMS": [
+    {"public-spirited": "B1"},
+    {"familiar with": "A2"},
+    {"concerned about": "A2"},
+    {"belong on the same side": "B2"},
+    {"in common": "A2"},
+    {"suffer": "B1"}
+  ],
+  "VERBS": [
+    {"talking to": "A1"},
+    {"cracked": "B2"},
+    {"spirited": "B2"},
+    {"hearing about": "A2"},
+    {"occur to": "B2"},
+    {"belong": "A2"}
+  ],
+  "WORDS": [
+    {"exactly": "A2"},
+    {"another": "A1"},
+    {"case": "A2"},
+    {"cracked": "B2"},
+    {"spirited": "B2"},
+    {"though": "A2"},
+    {"never": "A1"},
+    {"really": "A1"},
+    {"motivation": "B2"},
+    {"doing": "A1"},
+    {"concerned": "B2"},
+    {"hearing": "A2"},
+    {"aggressive": "B2"},
+    {"occur": "B2"},
+    {"belong": "A2"},
+    {"enough": "A1"},
+    {"suffer": "B1"}
+  ],
+  "COLLOCATIONS": [
+    {"public-spirited": "B1"},
+    {"talking to you": "A1"},
+    {"exactly who": "A2"},
+    {"concerned about you": "A2"},
+    {"hearing about you": "A2"},
+    {"occur to you": "B2"},
+    {"belong on the same side": "B2"},
+    {"in common": "A2"},
+    {"suffer": "B1"}
+  ]
+}
+```Here is the linguistic analysis based on the provided subtitles and the CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"always upset": "A2"}
+    ],
+    "VERBS": [
+        {"upset": "A2"},
+        {"put on": "A2"},
+        {"lose": "A1"},
+        {"don't know": "A1"}
+    ],
+    "WORDS": [
+        {"now": "A1"},
+        {"Mummy": "A1"},
+        {"upset": "A2"},
+        {"Mycroft": "B2"},
+        {"wait": "A1"},
+        {"mother": "A1"},
+        {"this": "A1"},
+        {"is": "A1"},
+        {"my": "A1"},
+        {"boy": "A1"},
+        {"brother": "A1"},
+        {"course": "A1"},
+        {"he's": "A1"},
+        {"mind": "A1"},
+        {"enough": "A1"},
+        {"for": "A1"},
+        {"goodness": "A2"},
+        {"sake": "A2"},
+        {"I": "A1"},
+        {"occupy": "B2"},
+        {"a": "A1"},
+        {"position": "A2"},
+        {"in": "A1"},
+        {"the": "A1"},
+        {"British": "A2"},
+        {"government": "A2"},
+        {"he": "A1"},
+        {"IS": "B2"},
+        {"not": "A1"},
+        {"too": "A1"},
+        {"busy": "A1"},
+        {"being": "A2"},
+        {"secret": "A2"},
+        {"service": "A2"},
+        {"or": "A1"}
+    ],
+    "COLLOCATIONS": [
+        {"always upset": "A2"},
+        {"upset her": "A2"},
+        {"put on weight": "A2"},
+        {"lose it": "A1"},
+        {"is my brother": "A1"},
+        {"for goodness' sake": "A2"},
+        {"occupy a position": "B2"},
+        {"in the British government": "A2"},
+        {"is the British government": "A2"},
+        {"not too busy": "A1"},
+        {"being the British government": "A2"},
+        {"secret service": "A2"}
+    ]
+}
+```Here is the linguistic analysis of the subtitles:
+
+```python
+{
+  "IDIOMS": [
+    {"free lance": "B2"},
+    {"get home": "A2"},
+    {"traffic": "A1"},
+    {"dinner": "A1"},
+    {"bet better": "B2"}
+  ],
+  "VERBS": [
+    {"try not to": "A2"},
+    {"start a war": "B1"},
+    {"get home": "A2"},
+    {"say what it does": "A1"},
+    {"imagine": "A1"},
+    {"be concerned about": "B2"},
+    {"are concerned": "B2"},
+    {"be always been": "B2"},
+    {"meet earlier": "A2"}
+  ],
+  "WORDS": [
+    {"concerned": "B2"},
+    {"childish": "B2"},
+    {"resentful": "B2"},
+    {"imagine": "A1"},
+    {"dinner": "A1"},
+    {"good": "A1"},
+    {"evening": "A1"},
+    {"concern": "B2"},
+    {"war": "A2"},
+    {"before": "A1"},
+    {"get": "A1"},
+    {"home": "A1"},
+    {"know": "A1"},
+    {"what": "A1"},
+    {"does": "A1"},
+    {"traffic": "A1"},
+    {"when": "A1"},
+    {"you": "A1"},
+    {"are": "A1"},
+    {"actually": "A2"},
+    {"about": "A1"},
+    {"him": "A1"},
+    {"yes": "A1"},
+    {"mean": "A1"},
+    {"is": "A1"},
+    {"childish": "B2"},
+    {"fund": "B2"},
+    {"concerned": "B2"},
+    {"always": "A1"},
+    {"been": "A1"},
+    {"resentful": "B2"}
+  ],
+  "COLLOCATIONS": [
+    {"free lance": "B2"},
+    {"good evening": "A1"},
+    {"try not to": "A2"},
+    {"start a war": "B1"},
+    {"get home": "A2"},
+    {"know what": "A1"},
+    {"what it": "A1"},
+    {"does for": "A1"},
+    {"the traffic": "A1"},
+    {"be concerned about": "B2"},
+    {"are concerned": "B2"},
+    {"childish fund": "B2"}
+  ]
+}
+```Certainly! Here is the linguistic analysis of the provided subtitles according to the CEFR-based wordlist:
+
+```python
+{
+    "IDIOMS": [
+        {"a fortune": "B2"},
+        {"a long shot": "B2"},
+        {"a walk in the park": "B2"},
+        {"in the dark": "A2"}
+    ],
+    "VERBS": [
+        {"get shot": "B1"},
+        {"thought so": "A2"},
+        {"thought so": "A2"},
+        {"go up": "B1"},
+        {"go through": "B1"},
+        {"make worse": "B2"}
+    ],
+    "WORDS": [
+        {"i": "A1"},
+        {"c": "A1"},
+        {"t": "A1"},
+        {"the": "A1"},
+        {"fortune": "B2"},
+        {"cookie": "A1"},
+        {"no": "A1"},
+        {"you": "A1"},
+        {"can": "A1"},
+        {"t": "A1"},
+        {"n": "A1"},
+        {"o": "A1"},
+        {"y": "A1"},
+        {"did": "A1"},
+        {"get": "A1"},
+        {"shot": "B1"},
+        {"though": "A2"},
+        {"sorry": "A1"},
+        {"in": "A1"},
+        {"afghanistan": "B1"},
+        {"there": "A1"},
+        {"was": "A1"},
+        {"an": "A1"},
+        {"actual": "B2"},
+        {"wound": "B2"},
+        {"oh": "A1"},
+        {"yeah": "A1"},
+        {"should": "A1"},
+        {"er": "A2"},
+        {"i": "A1"},
+        {"thought": "A1"},
+        {"so": "A1"},
+        {"no": "A1"},
+        {"you": "A1"},
+        {"didn": "A1"},
+        {"t": "A1"},
+        {"h": "A1"},
+        {"left": "A1"},
+        {"one": "A1"},
+        {"lucky": "A1"},
+        {"guess": "A1"},
+        {"i": "A1"},
+        {"never": "A1"},
+        {"guess": "A1"},
+        {"yes": "A1"},
+        {"you": "A1"},
+        {"do": "A1"},
+        {"what": "A1"},
+        {"are": "A1"},
+        {"you": "A1"},
+        {"so": "A1"},
+        {"happy": "A1"},
+        {"about": "A1"},
+        {"m": "A1"},
+        {"o": "A1"},
+        {"r": "A1"},
+        {"i": "A1"},
+        {"a": "A1"},
+        {"r": "A1"},
+        {"t": "A1"},
+        {"y": "A1"},
+        {"what": "A1"},
+        {"s": "A1"},
+        {"m": "A1"},
+        {"o": "A1"},
+        {"r": "A1"},
+        {"i": "A1"},
+        {"a": "A1"},
+        {"r": "A1"},
+        {"t": "A1"},
+        {"y": "A1"},
+        {"i": "A1"},
+        {"ve": "A1"},
+        {"absolutely": "B1"},
+        {"no": "A1"},
+        {"idea": "A1"},
+        {"sir": "A2"},
+        {"shall": "A2"},
+        {"we": "A1"},
+        {"go": "A1"},
+        {"interesting": "A1"},
+        {"that": "A1"},
+        {"is": "A1"},
+        {"elder": "B2"},
+        {"fellow": "B2"},
+        {"he": "A1"},
+        {"could": "A1"},
+        {"be": "A1"},
+        {"the": "A1"},
+        {"making": "B1"},
+        {"of": "A1"},
+        {"my": "A1"},
+        {"brother": "A1"},
+        {"or": "A1"},
+        {"make": "A1"},
+        {"him": "A1"},
+        {"worse": "A2"},
+        {"than": "A1"},
+        {"ever": "A1"},
+        {"either": "A2"},
+        {"way": "A1"},
+        {"we": "A1"},
+        {"d": "A1"},
+        {"better": "A1"},
+        {"upgrade": "B1"},
+        {"their": "A2"},
+        {"survival": "B2"},
+        {"stats": "B2"}
+    ],
+    "COLLOCATIONS": [
+        {"get shot": "B1"},
+        {"in afghanistan": "B1"},
+        {"actual wound": "B2"},
+        {"should er": "A2"},
+        {"thought so": "A2"},
+        {"lucky guess": "A1"},
+        {"so happy": "A1"},
+        {"about what": "A1"},
+        {"absolutely no": "B1"},
+        {"shall we": "A2"},
+        {"is elder": "B2"},
+        {"the making": "B2"},
+        {"make worse": "B2"},
+        {"better upgrade": "B1"},
+        {"their survival": "B2"}
+    ]
+}
+```
