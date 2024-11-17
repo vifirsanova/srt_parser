@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
 import argparse, re
+
+from huggingface_hub import InferenceClient
+
 import nltk
 from nltk.tokenize import sent_tokenize
 nltk.download('punkt')
+
+model_name = "Qwen/Qwen2.5-72B-Instruct"
+client = InferenceClient(model_name, token='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')
 
 def process_srt(filepath):
 
@@ -39,7 +45,22 @@ def process_srt(filepath):
 
 def main(filepath):
     data = sent_tokenize(process_srt(filepath))
-    print(data)
+
+    k = 0
+    j = 5
+    data_ = []
+
+    for i in range(len(data)//5):
+        t = ' '.join(data[k:j])
+        k += 5
+        j += 5
+        data_.append(t)
+
+    for d in data_:
+        # word
+        # LVL
+        # task
+        print(data_)
 
 if __name__ == "__main__":
     # Create the argument parser
