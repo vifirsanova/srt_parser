@@ -105,7 +105,7 @@ def classify_words(current_list, wordlist):
              "content": f"Analyze the following word:\n\n {current_list}"},
         ],
         stream=True,
-        max_tokens=128,
+        max_tokens=512,
         response_format={
                             "type": "json",
                             "value": {
@@ -138,7 +138,7 @@ def gen_tasks(item):
                     },
                     "required": ["translation", "tasks", "solutions"],
                     },
-                },
+                    },
             messages=[
                 {
                     "role": "system",
@@ -153,16 +153,16 @@ def gen_tasks(item):
                                "4. ______\n"
                                "-> save the generated string and append it as the first element of the list 'tasks'\n"
                                "-> provide the correct answer (number of the correct option) and append it as the first element of of the list 'solution'\n"
-                               "3. generate fill-in-the-gap task that would help to learn the definition of this lexical item; use the following structure:\n"
-                               "STRUCTURE"
-                               "Fill in the gap: 'This is a sample _____':\n"
-                               "1. ______\n"
-                               "2. ______\n"
-                               "3. ______\n"
-                               "4. ______\n"
-                               "-> save the generated string and append it as the second element of the list 'tasks'\n"
-                               "-> provide the correct answer (number of the correct option) and append it as the second element of of the list 'solution'\n"
-                               "4. generate multiple choice that would help to learn the translation of this lexical item into Russian; use the following structure:\n"
+                               #"3. generate fill-in-the-gap task that would help to learn the definition of this lexical item; use the following structure:\n"
+                               #"STRUCTURE"
+                               #"Fill in the gap: 'This is a sample _____':\n"
+                               #"1. ______\n"
+                               #"2. ______\n"
+                               #"3. ______\n"
+                               #"4. ______\n"
+                               #"-> save the generated string and append it as the second element of the list 'tasks'\n"
+                               #"-> provide the correct answer (number of the correct option) and append it as the second element of of the list 'solution'\n"
+                               "3. generate multiple choice that would help to learn the translation of this lexical item into Russian; use the following structure:\n"
                                "STRUCTURE"
                                "Translate the word ____ into Russian':\n"
                                "1. ______\n"
@@ -183,14 +183,16 @@ def gen_tasks(item):
 
 def main(filepath):
     data = sent_tokenize(process_srt(filepath))
+    print(data)
     k = 0
-    j = 5
+    j = 10
     data_ = []
+    print(data_)
 
     for i in range(len(data)//5):
         t = ' '.join(data[k:j])
-        k += 5
-        j += 5
+        k += 10
+        j += 10
         data_.append(t)
 
     base_dictionary = {
@@ -201,12 +203,13 @@ def main(filepath):
     }
 
     for d in data_[:2]:
+        print(d)
         temp = get_words(d)
         print(temp)
-        colocations = [classify_words(items, wordlist) for items in temp['COLLOCATION'][:2] if len(items) > 0]
-        idioms = [classify_words(items, wordlist) for items in temp['IDIOM'][:2] if len(items) > 0]
-        verbs = [classify_words(items, wordlist) for items in temp['VERB'][:2] if len(items) > 0]
-        words = [classify_words(items, wordlist) for items in temp['WORD'][:2] if len(items) > 0]
+        colocations = [classify_words(items, wordlist) for items in temp['COLLOCATION'] if len(items) > 0]
+        idioms = [classify_words(items, wordlist) for items in temp['IDIOM'] if len(items) > 0]
+        verbs = [classify_words(items, wordlist) for items in temp['VERB'] if len(items) > 0]
+        words = [classify_words(items, wordlist) for items in temp['WORD'] if len(items) > 0]
 
         for item in colocations:
             print(item)
